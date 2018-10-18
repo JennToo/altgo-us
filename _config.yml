@@ -8,3 +8,5 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
+exclude:
+  - deploy-key.enc
