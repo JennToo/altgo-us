@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+  - 2.4.1
+script:
+  - bundle exec jekyll build
+branches:
+  only:
+  - master
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+sudo: false
+cache: bundler
