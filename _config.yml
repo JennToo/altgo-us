@@ -10,3 +10,4 @@ plugins:
   - jekyll-include-cache
 exclude:
   - deploy-key.enc
+  - vendor
