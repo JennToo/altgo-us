@@ -18,4 +18,7 @@ sudo: false
 cache: bundler
 after_success:
   - openssl aes-256-cbc -K $encrypted_4fdcf6173861_key -iv $encrypted_4fdcf6173861_iv -in deploy-key.enc -out deploy-key -d
+  - eval "$(ssh-agent -s)"
+  - chmod 600 ./deploy-key
+  - ssh-add ./deploy-key
   - rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i ./deploy-key" --progress --delete ./_site/ $DEPLOY_TO_SERVER 2>&1 | grep -v Warning
