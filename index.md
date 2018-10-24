@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: home
 ---
 
 <img src="/assets/logo.png" class="img-center" />
