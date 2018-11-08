@@ -6,7 +6,22 @@ layout: home
 
 # Support Group
 
-TODO: Describe support group
+A support group is hosted in Huntsville, and meets several times per month. We
+welcome all adult transgender and non-binary identifying people regardless of
+their physical or social state of transition.
+
+Group meetings are an opportunity for members to discuss whatever is on their
+mind, as well as providing a safe space to explore gender expression without
+fear of judgement.
+
+Group membership is kept confidential, and measures are taken to preserve privacy
+and avoid outing people.
+
+To help ensure the privacy and safety of the group, exact meeting details are not
+publicly available. If you would like more information please contact Alek 
+Mitterbach on [Facebook](https://www.facebook.com/mitterbach),
+[Email](mailto:membership@trans-north-alabama.org) or by phone/text
+([(216) 533-1660](tel:216-533-1660)).
 
 # Counselling / Therapy
 
@@ -31,9 +46,6 @@ TODO: Describe support group
   - Will start or continue HRT on an informed consent basis (i.e. no letter needed)
   - Open on 2 Saturdays per moth in addition to weekdays
   - [(866) 711-1717](tel:866-711-1717), [Website](https://www.plannedparenthood.org/health-center/tennessee/nashville/37203/nashville-health-center-2716-91550)
-
-TODO: Magic city
-
 
 <div class="custom-footer">
   Website last updated: {{ site.time | date: '%F %T' }}
