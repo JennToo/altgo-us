@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="/assets/logo.png" class="img-center" />
+<img src="/assets/logo.png" alt="Transgender North Alabama -- Support Group and Local Resources" class="img-center" />
 
 # Support Group
 
@@ -34,8 +34,11 @@ TODO: Describe support group
 
 TODO: Magic city
 
+
 <div class="custom-footer">
   Website last updated: {{ site.time | date: '%F %T' }}
   <br/>
-  <a href="https://github.com/Nitori-/north-alabama-trans">Source Code</a>
+  To update information on the site please email <a href="mailto:webmistress@trans-north-alabama.org">webmistress@trans-north-alabama.org</a>
+  <br/>
+  <a href="https://github.com/Nitori-/north-alabama-trans">Or submit a PR here</a>
 </div>
