@@ -21,7 +21,7 @@ To help ensure the privacy and safety of the group, exact meeting details are no
 publicly available. If you would like more information please contact Alek 
 Mitterbach on [Facebook](https://www.facebook.com/mitterbach),
 [Email](mailto:membership@trans-north-alabama.org) or by phone/text
-([(216) 533-1660](tel:216-533-1660)).
+at [(216) 533-1660](tel:216-533-1660).
 
 # Counselling / Therapy
 
@@ -50,7 +50,6 @@ Mitterbach on [Facebook](https://www.facebook.com/mitterbach),
 <div class="custom-footer">
   Website last updated: {{ site.time | date: '%F %T' }}
   <br/>
-  To update information on the site please email <a href="mailto:webmistress@trans-north-alabama.org">webmistress@trans-north-alabama.org</a>
-  <br/>
-  <a href="https://github.com/Nitori-/north-alabama-trans">Or submit a PR here</a>
+  To update information on the site please  <a href="mailto:webmistress@trans-north-alabama.org">send us an email</a> or 
+  <a href="https://github.com/Nitori-/north-alabama-trans">submit a PR here</a>
 </div>
