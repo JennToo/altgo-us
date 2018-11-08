@@ -1,9 +1,10 @@
-title: North Alabama Trans Support Group
-#email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  TODO Do we need a description?
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Transgender North Alabama
+email: webmistress@trans-north-alabama.org
+description: >-
+  A support group for trans people hosted in Huntsville and with members
+  from Decatur, Athens, South Tennessee and the surrounding areas
+baseurl: ""
+url: "http://trans-north-alabama.org"
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
