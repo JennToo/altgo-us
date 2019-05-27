@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Local Resources
 ---
 
 # Counselling / Therapy
