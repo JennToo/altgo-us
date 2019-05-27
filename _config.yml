@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://trans-north-alabama.org"
 markdown: kramdown
 theme: minimal-mistakes-jekyll
+breadcrumbs: yes
 plugins:
   - jekyll-include-cache
 exclude:
