@@ -13,7 +13,7 @@ layout: home
     <img src="/assets/local-resources.png" alt="Local Resources" />
     <span>Local Resources</span>
   </a>
-  <a href="https://discord.gg/KEedxCY" class="grid-item">
+  <a href="https://discord.gg/KEedxCY" class="grid-item" style="display:none;">
     <img src="/assets/discord.png" alt="Discord" />
     <span>Discord</span>
   </a>
