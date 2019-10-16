@@ -5,6 +5,9 @@ title: Local Resources
 
 # Counselling / Therapy
 
+**Tamara Pellant, LPC  (Huntsville)**
+  - [(256) 464-9755](tel:256-464-9755)
+
 **Sarah E. Mulder, Psy.D. (Huntsville)**
   - [(256) 469-1949](tel:256-469-1949), [Website](http://www.sarahmulderpsychology.com/)
 
@@ -53,6 +56,6 @@ title: Local Resources
 <div class="custom-footer">
   Website last updated: {{ site.time | date: '%F %T' }}
   <br/>
-  To update information on the site please  <a href="mailto:webmistress@trans-north-alabama.org">send us an email</a> or 
+  To update information on the site please  <a href="mailto:webmistress@trans-north-alabama.org">send us an email</a> or
   <a href="https://github.com/Nitori-/north-alabama-trans">submit a PR here</a>
 </div>
