@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - run: sudo apt-get install -y rsync libcurl4-openssl-dev
+      - run: sudo apt-get install -y rsync libcurl4-openssl-dev ruby-bundler
       - run: bundle install --path=.bundle
       - run: JEKYLL_ENV=production bundle exec jekyll build
       - run: openssl aes-256-cbc -salt -a -d -in deploy-key.enc -out deploy-key -k ${{ secrets.DEPLOY_KEY_PASS }}
