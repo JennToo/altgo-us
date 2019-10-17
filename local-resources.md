@@ -43,6 +43,10 @@ title: Local Resources
   - Laser hair removal
   - [(256) 880-3672](tel:256-880-3672), [Website](https://med-i-spa.com/location/huntsville/)
 
+**Skin Deep Electrolysis (Madison)**
+  - Electrolysis
+  - [(256) 698-3111](tel:256-698-3111), [Website](http://skindeepelectrolysis.com/)
+
 **Ellen Pugh - Electrolysis Global Image (Nashville)**
   - Electrolysis
   - [(615) 322-9985](tel:615-322-9985)
