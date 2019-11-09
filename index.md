@@ -24,3 +24,9 @@ layout: home
     <span>Discord Server</span>
   </a>
 </div>
+<div class="nav-grid">
+  <a href="/legal.html" class="grid-item">
+    <img src="/assets/legal.png" alt="Name and Marker Changes" />
+    <span>Name and Marker Changes</span>
+  </a>
+</div>
