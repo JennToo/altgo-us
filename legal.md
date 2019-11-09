@@ -9,7 +9,7 @@ The process for changing your name varies by county:
 ## Madison county
 
 You'll need to fill out [the appropriate paperwork][madison] and bring it to
-the Madison count probate office along with the other documents listed on the
+the Madison county probate office along with the other documents listed on the
 forms.
 
 After a week or two, the court order for name change will be mailed to you.
