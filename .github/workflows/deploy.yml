@@ -14,4 +14,4 @@ jobs:
       - run: JEKYLL_ENV=production bundle exec jekyll build
       - run: openssl aes-256-cbc -salt -a -d -in deploy-key.enc -out deploy-key -k ${{ secrets.DEPLOY_KEY_PASS }}
       - run: chmod 600 ./deploy-key
-      - run: rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i ./deploy-key" --progress --delete ./_site/ jenntoo_nalatrans@ssh.phx.nearlyfreespeech.net:/home/public
+      - run: rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i ./deploy-key" --progress ./_site/ jenntoo_nalatrans@ssh.phx.nearlyfreespeech.net:/home/public
