@@ -87,10 +87,13 @@ marker on your driver's license if you provide an updated birth certificate
 with your new gender marker. Thus, depending on your circumstances, it is
 possible to update your marker without GCS.
 
-Once you've updated your birth certificate, bring your updated birth
-certificate to the [DMV on Church Street in Huntsville][4]. Most DMVs cannot
-update your marker, but this office is known to work and several people have
-successfully updated their markers at this location.
+Once you've updated your birth certificate, bring your <u>updated birth
+certificate</u> **and** <u>doctor's letter indicating medical transition</u> to
+the [DMV on Church Street in Huntsville][4]. Most DMVs cannot update your
+marker, but this office is known to work and several people have successfully
+updated their markers at this location. The office has been known to reject
+people who don't bring both the doctor's letter and the updated birth
+certificate.
 
 [1]: https://transequality.org/know-your-rights/social-security
 [2]: https://transequality.org/know-your-rights/passports
