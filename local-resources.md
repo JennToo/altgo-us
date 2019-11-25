@@ -28,6 +28,10 @@ title: Local Resources
   - Also offers general practice services
   - [(256) 340-5150](tel:256-340-5150), [Website](https://www.facebook.com/DrKathySparacino/)
 
+**Dr. Vytautas Pukis (Huntsville)**
+  - Will start or continue HRT on an informed consent basis (i.e. no letter needed)
+  - [(256) 883-0107](tel:256-883-0107), [Website](https://www.blossomwoodmedical.com/)
+
 **Planned Parenthood Nashville**
   - Will start or continue HRT on an informed consent basis (i.e. no letter needed)
   - Open on 2 Saturdays per month in addition to weekdays
