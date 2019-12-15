@@ -1,10 +1,11 @@
 ---
 layout: single
-title: Support Group
+title: Support Groups
 ---
 
-# Support Group
+# In-person groups
 
+## Transgender North Alabama - Adult Support Group (18+)
 A support group is hosted in Huntsville, and meets several times per month. We
 welcome all adult transgender and non-binary identifying people regardless of
 their physical or social state of transition.
@@ -21,3 +22,20 @@ publicly available. If you would like more information please contact Alek
 Mitterbach on [Facebook](https://www.facebook.com/mitterbach),
 [Email](mailto:membership@trans-north-alabama.org) or by phone/text
 at [(216) 533-1660](tel:216-533-1660).
+
+## TransFamily Support Group - Parent Support Group
+
+<img src="assets/transfamily.svg" style="width: 100%" />
+
+# Online Communities
+
+## Practically Trans - Adult Discord Server (18+)
+
+[Click here to join the server](https://discord.gg/Z8p4Dsv)
+
+## Trans Youth Discord Server (13-18)
+
+A safe space for trans youth 13-18 to talk about trans stuff and life and all
+that.
+
+ [Click here to join the server](https://discord.gg/WDm9udY)
