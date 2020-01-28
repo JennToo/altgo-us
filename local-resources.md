@@ -3,6 +3,9 @@ layout: single
 title: Local Resources
 ---
 
+All service providers listed below have been visited by a local member of the
+transgender/non-binary community and have had a positive experience.
+
 # Counselling / Therapy
 
 **Tamara Pellant, LPC  (Huntsville)**
@@ -13,6 +16,9 @@ title: Local Resources
 
 **Jane L. Wesley, LCSW - Paragon Assessment and Psychotherapy Center (Huntsville)**
   - [(256) 534-1189](tel:256-534-1189), [Email](mailto:Janewesleylcsw@gmail.com)
+
+**Lynn Motley, MSSW LICSW (Huntsville)**
+  - [(256) 824-9171](tel:256-824-9171), [Website](https://www.hsvpcs.com/lynn-motley/)
 
 # Healthcare Providers
 
@@ -37,9 +43,17 @@ title: Local Resources
   - Open on 2 Saturdays per month in addition to weekdays
   - [(866) 711-1717](tel:866-711-1717), [Website](https://www.plannedparenthood.org/health-center/tennessee/nashville/37203/nashville-health-center-2716-91550)
 
-**Magic City Wellness Center**
+**Magic City Wellness Center (Birmingham)**
   - Will start HRT for patients with a letter from a mental health professional
   - [(205) 877-8677](tel:205-877-8677), [Website](http://www.magiccitywellnesscenter.org/)
+
+# Psychiatrists
+
+**Dr. Lalleh Adhami (Huntsville)**
+  - [(256) 858-1676](tel:256-858-1676)
+
+**Dr. Ammar Alrefai (Madison)**
+  - [(256) 325-1349](tel:256-325-1349)
 
 # Hair Removal
 
@@ -55,6 +69,16 @@ title: Local Resources
   - Electrolysis
   - [(615) 322-9985](tel:615-322-9985)
 
+# Surgeons
+
+**Dr. Stephen Steinmetz (Birmingham)**
+  - Services: mastectomy
+  - [(205) 930-0980](tel:205-930-0980), [Website](http://www.steinmetzplasticsurgery.com/)
+
+**Dr. Paul Zbell (Huntsville)**
+  - Services: orchiectomy
+  - [(256) 536-9020](tel:256-536-9020), [Website](https://www.northalaurology.com/)
+
 # Other Misc. Services
 
 **Kimberly Tucker - Cost Cutters (Madison)**
@@ -62,8 +86,6 @@ title: Local Resources
   - [(256) 864-2784](tel:256-864-2784)
 
 <div class="custom-footer">
-  Website last updated: {{ site.time | date: '%F %T' }}
-  <br/>
   To update information on the site please  <a href="mailto:webmistress@trans-north-alabama.org">send us an email</a> or
   <a href="https://github.com/Nitori-/north-alabama-trans">submit a PR here</a>
 </div>

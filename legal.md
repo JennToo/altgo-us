@@ -31,8 +31,8 @@ process typically only takes about a week to get scheduled.
 
 Once you have a court order for your name change, the first place to visit is
 Social Security. When you update with Social Security they will give you a
-letter indicating that your changes. This letter is important, so hold on to
-it!
+letter indicating that you requested changes. This letter is important, so hold
+on to it!
 
 24 hours after updating with Social Security you can update your driver's
 license. Most DMVs should be able to change your name. Be sure to bring your
@@ -49,9 +49,12 @@ other places that know your name. Some important places to notify:
 
 # Updating your gender marker
 
-In most circumstances, surgery is not required to update your legal gender
+In most circumstances, surgery is *not* required to update your legal gender
 markers. Hormone treatment or other steps indicating "medical transition" are
 usually required.
+
+As far as we are aware, no form of non-binary gender marker has been obtained
+on any official Alabama state documentation.
 
 ## Social Security
 
