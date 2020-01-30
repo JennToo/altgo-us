@@ -35,7 +35,7 @@ transgender/non-binary community and have had a positive experience.
   - [(256) 340-5150](tel:256-340-5150), [Website](https://www.facebook.com/DrKathySparacino/)
 
 **Dr. Vytautas Pukis (Huntsville)**
-  - Will start or continue HRT on an informed consent basis (i.e. no letter needed)
+  - Will start or continue HRT for patients with a letter from a mental health professional
   - [(256) 883-0107](tel:256-883-0107), [Website](https://www.blossomwoodmedical.com/)
 
 **Planned Parenthood Nashville**
