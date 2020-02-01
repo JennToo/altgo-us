@@ -79,6 +79,14 @@ transgender/non-binary community and have had a positive experience.
   - Services: orchiectomy
   - [(256) 536-9020](tel:256-536-9020), [Website](https://www.northalaurology.com/)
 
+# Other LGBT Resources
+
+**Rocket City Rainbow Pages**
+  - [Website](http://rocketcityrainbowpages.com/)
+
+**Rocket City Pride**
+  - [Website](http://rocketcitypride.org/)
+
 # Other Misc. Services
 
 **Kimberly Tucker - Cost Cutters (Madison)**
