@@ -29,7 +29,6 @@ transgender/non-binary community and have had a positive experience.
   - [(256) 536-4700](tel:256-536-4700), [Website](https://thrivealabama.org/index.php/services/hiv-medical-clinics/huntsville)
 
 **Dr. Kathy Sparacino, Family Medicine (Decatur)**
-  - Kari Griffith does the HRT work for this office
   - Will start or continue HRT for patients with a letter from a mental health professional
   - Also offers general practice services
   - [(256) 340-5150](tel:256-340-5150), [Website](https://www.facebook.com/DrKathySparacino/)
