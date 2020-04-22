@@ -8,17 +8,20 @@ transgender/non-binary community and have had a positive experience.
 
 # Counselling / Therapy
 
-**Tamara Pellant, LPC  (Huntsville)**
-  - [(256) 464-9755](tel:256-464-9755)
+**Lynn Motley, MSSW LICSW (Huntsville)**
+  - [(256) 824-9171](tel:256-824-9171), [Website](https://www.hsvpcs.com/lynn-motley/)
 
 **Sarah E. Mulder, Psy.D. (Huntsville)**
   - [(256) 469-1949](tel:256-469-1949), [Website](http://www.sarahmulderpsychology.com/)
 
+**Jessica Penot, LPC, MS, ADC (Huntsville)**
+  - [(256) 278-2802](tel:256-278-2802) [Website](https://www.treeoflifebehavioral.com/our-team.html)
+
+**Tamara Pellant, LPC  (Huntsville)**
+  - [(256) 464-9755](tel:256-464-9755)
+
 **Jane L. Wesley, LCSW - Paragon Assessment and Psychotherapy Center (Huntsville)**
   - [(256) 534-1189](tel:256-534-1189), [Email](mailto:Janewesleylcsw@gmail.com)
-
-**Lynn Motley, MSSW LICSW (Huntsville)**
-  - [(256) 824-9171](tel:256-824-9171), [Website](https://www.hsvpcs.com/lynn-motley/)
 
 # Healthcare Providers
 
