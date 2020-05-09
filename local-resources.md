@@ -6,6 +6,9 @@ title: Local Resources
 All service providers listed below have been visited by a local member of the
 transgender/non-binary community and have had a positive experience.
 
+* TOC
+{:toc}
+
 # Counselling / Therapy
 
 **Lynn Motley, MSSW LICSW (Huntsville)**
@@ -56,6 +59,12 @@ transgender/non-binary community and have had a positive experience.
 
 **Dr. Ammar Alrefai (Madison)**
   - [(256) 325-1349](tel:256-325-1349)
+
+# Voice Services
+
+**Daya Deuskar**
+  - Remote services over the internet
+  - [Website](https://mirabai.me/), [(609) 250-2703](tel:609-250-2703)
 
 # Hair Removal
 

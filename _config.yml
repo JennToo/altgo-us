@@ -13,3 +13,4 @@ plugins:
 exclude:
   - deploy-key.enc
   - vendor
+markdown: kramdown
