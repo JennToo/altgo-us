@@ -2,6 +2,13 @@
 layout: single
 ---
 
+These guides are not written by lawyers, nor should they be interpreted as
+legal advice. They are based on the personal experiences of many members of
+the North Alabama transgender and non-binary community.
+
+* TOC
+{:toc}
+
 # Changing your name
 
 The process for changing your name varies by county:
