@@ -30,7 +30,7 @@ at [(216) 533-1660](tel:216-533-1660).
 ## Trans+ - UAH Support Group
 
 An interpersonal support group for UAH students who identify as transgender, non-binary or other
-gender diverse identities. Members must be vetted by myself or another member of the UAH Counseling 
+gender diverse identities. Members must be vetted by Celia McKechnie or another member of the UAH Counseling 
 Center to join and will be informed of the meeting dates, time and location once approved to ensure 
 the safety and confidentiality of all our group members. 
 Individuals interested in more information can reach out to [Celia H. McKechnie](celia.mckechnie@uah.edu)
