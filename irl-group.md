@@ -27,11 +27,13 @@ at [(216) 533-1660](tel:216-533-1660).
 
 <img src="assets/transfamily.svg" style="width: 100%" />
 
-## UAH Support Group
+## Trans+ - UAH Support Group
 
-The University of Alabama in Huntsville holds support group meetings
-for enrolled UAH Students. For more info, please contact the people
-or services below.  If you would like more info please contact [Celia H. McKechnie](celia.mckechnie@uah.edu)
+An interpersonal support group for UAH students who identify as transgender, non-binary or other
+gender diverse identities. Members must be vetted by myself or another member of the UAH Counseling 
+Center to join and will be informed of the meeting dates, time and location once approved to ensure 
+the safety and confidentiality of all our group members. 
+Individuals interested in more information can reach out to [Celia H. McKechnie](celia.mckechnie@uah.edu)
 or UAH Cousenling, [(256) 824-6203](tel:256-824-6203) 
 
 # Online Communities

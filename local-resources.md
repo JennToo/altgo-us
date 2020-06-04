@@ -27,6 +27,9 @@ transgender/non-binary community and have had a positive experience.
   - [(256) 534-1189](tel:256-534-1189), [Email](mailto:Janewesleylcsw@gmail.com)
   
 **Celia H. McKechnie, LPC - University of Alabama in Huntsville (Huntsville)**
+ - The UAH Counseling Center offers a wide array of services to students currently enrolled in at last 3 credit hours, including individual sessions, groups and crisis appointments. 
+   Groups include Art Therapy, Anxiety/Depression coping strategies, social skills for students on the Autism Spectrum, 
+   and a group specifically for young black men who identify as gay or bi. 
  - [(256) 824-6203](tel:256-824-6203), [Email](mailto:celia.mckechnie@uah.edu)
 
 # Healthcare Providers
