@@ -27,6 +27,13 @@ at [(216) 533-1660](tel:216-533-1660).
 
 <img src="assets/transfamily.svg" style="width: 100%" />
 
+## UAH Support Group
+
+The University of Alabama in Huntsville holds support group meetings
+for enrolled UAH Students. For more info, please contact the people
+or services below.  If you would like more info please contact [Celia H. McKechnie](celia.mckechnie@uah.edu)
+or UAH Cousenling, [(256) 824-6203](tel:256-824-6203) 
+
 # Online Communities
 
 ## Practically Trans - Adult Discord Server (18+)

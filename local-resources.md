@@ -25,6 +25,9 @@ transgender/non-binary community and have had a positive experience.
 
 **Jane L. Wesley, LCSW - Paragon Assessment and Psychotherapy Center (Huntsville)**
   - [(256) 534-1189](tel:256-534-1189), [Email](mailto:Janewesleylcsw@gmail.com)
+  
+**Celia H. McKechnie, LPC - University of Alabama in Huntsville (Huntsville)**
+ - [(256) 824-6203](tel:256-824-6203), [Email](mailto:celia.mckechnie@uah.edu)
 
 # Healthcare Providers
 
