@@ -109,6 +109,11 @@ transgender/non-binary community and have had a positive experience.
   - Services: orchiectomy
   - [(256) 536-9020](tel:256-536-9020), [Website](https://www.northalaurology.com/)
 
+**Dr. Keith Jimenez (Huntsville)**
+  - Practice is Urology Specialists, P.C.
+  - Services: orchiectomy
+  - [(256) 882-3605](tel:256-882-3605)
+
 # Other LGBT Resources
 
 **Rocket City Rainbow Pages**
