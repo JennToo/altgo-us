@@ -3,10 +3,18 @@ layout: single
 title: Support Groups
 ---
 
+The local community is serviced by several in-person and virtual support groups
+
+* TOC
+{:toc}
+
 # In-person groups
 
 ## Transgender North Alabama - Adult Support Group (18+)
-A support group is hosted in Huntsville, and meets several times per month. We
+
+**Please Note:** *Meetings are currently paused due to COVID-19*
+
+This group is hosted in Huntsville, and meets several times per month. We
 welcome all adult transgender and non-binary identifying people regardless of
 their physical or social state of transition.
 
@@ -29,13 +37,17 @@ at [(216) 533-1660](tel:216-533-1660).
 
 ## Trans+ - UAH Support Group
 
-An interpersonal support group for UAH students who identify as transgender, non-binary or other
-gender diverse identities. Members must be vetted by Celia McKechnie or another member of the UAH Counseling 
-Center to join and will be informed of the meeting dates, time and location once approved to ensure 
-the safety and confidentiality of all our group members.
+An interpersonal support group for UAH students who identify as transgender,
+non-binary or other gender diverse identities.
 
-Individuals interested in more information can reach out to [Celia H. McKechnie](mailto:celia.mckechnie@uah.edu)
-or UAH Cousenling, [(256) 824-6203](tel:256-824-6203) 
+Members must be vetted by Celia McKechnie or another member of the UAH
+Counseling Center to join and will be informed of the meeting dates, time and
+location once approved to ensure the safety and confidentiality of all our
+group members.
+
+Individuals interested in more information can reach out to [Celia H.
+McKechnie](mailto:celia.mckechnie@uah.edu) or UAH Cousenling, [(256)
+824-6203](tel:256-824-6203)
 
 # Online Communities
 
