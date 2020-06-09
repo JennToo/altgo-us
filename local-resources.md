@@ -95,6 +95,10 @@ transgender/non-binary community and have had a positive experience.
   - Electrolysis
   - [(615) 322-9985](tel:615-322-9985)
 
+**A To Z Electrolysis and Spa (Hoover)**
+  - Electrolysis
+  - [(205) 410-8322](tel:205-410-8322), [Website](https://www.atozelectrolysis.com/)
+
 # Surgeons
 
 **Dr. Stephen Steinmetz (Birmingham)**
