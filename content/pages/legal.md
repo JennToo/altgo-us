@@ -1,13 +1,13 @@
 ---
-layout: single
+title: Legal Help
+slug: legal
 ---
 
 These guides are not written by lawyers, nor should they be interpreted as
 legal advice. They are based on the personal experiences of many members of
 the North Alabama transgender and non-binary community.
 
-* TOC
-{:toc}
+[TOC]
 
 # Changing your name
 

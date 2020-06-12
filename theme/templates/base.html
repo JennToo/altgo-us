@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% assets filters="pyscss,cssmin", output="css/style.min.css", "style.scss" %}
+    <link rel="stylesheet" href="/{{ ASSET_URL }}">
+    {% endassets %}
+    <title>Transgender North Alabama :: {% block title %}{% endblock%}</title>
+</head>
+
+<body>
+    <div id="top-bar">
+        <div class="blue-bar"></div>
+        <div class="pink-bar"></div>
+    </div>
+    <div id="inner-body">
+        <header>
+        </header>
+
+        <main>
+            {% block body %}
+            {% endblock %}
+        </main>
+
+        <footer></footer>
+    </div>
+    <div id="bottom-bar">
+        <div class="pink-bar"></div>
+        <div class="blue-bar"></div>
+    </div>
+</body>
+
+</html>

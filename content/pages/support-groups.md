@@ -1,12 +1,11 @@
 ---
-layout: single
 title: Support Groups
+slug: support-groups
 ---
 
 The local community is serviced by several in-person and virtual support groups
 
-* TOC
-{:toc}
+[TOC]
 
 # In-person groups
 
@@ -33,7 +32,7 @@ at [(216) 533-1660](tel:216-533-1660).
 
 ## TransFamily Support Group - Parent Support Group
 
-<img src="assets/transfamily.svg" style="width: 100%" />
+<img src="/theme/images/transfamily.svg" style="width: 100%" />
 
 ## Trans+ - UAH Support Group
 

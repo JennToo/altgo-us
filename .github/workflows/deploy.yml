@@ -9,9 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - run: sudo apt-get install -y rsync libcurl4-openssl-dev ruby-bundler ruby-dev
-      - run: bundle install --path=.bundle
-      - run: JEKYLL_ENV=production bundle exec jekyll build
+      - run: "git submodule update --init --recursive"
+      - run: sudo apt-get install -y rsync libcurl4-openssl-dev
+      - uses: dschep/install-poetry-action@v1.3
+      - run: poetry install --no-dev
+      - run: poetry run invoke build
       - run: openssl aes-256-cbc -salt -a -d -in deploy-key.enc -out deploy-key -k ${{ secrets.DEPLOY_KEY_PASS }}
       - run: chmod 600 ./deploy-key
-      - run: rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i ./deploy-key" --progress ./_site/ jenntoo_nalatrans@ssh.phx.nearlyfreespeech.net:/home/public
+      - run: rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i ./deploy-key" --progress ./output/ jenntoo_nalatrans@ssh.phx.nearlyfreespeech.net:/home/public
