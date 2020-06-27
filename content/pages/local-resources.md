@@ -138,6 +138,15 @@ transgender/non-binary community and have had a positive experience.
   - Services: orchiectomy
   - [(256) 882-3605](tel:256-882-3605)
 
+**Dr. J. Patrick Selph (Birmingham)**
+
+  - Practice is UAB Urology Clinic
+  - Services:
+    - robotically assisted vaginoplasty, labiaplasty, clitoroplasty
+    - orchiectomy
+    - phalloplasty
+  - [(205) 996-8765](tel:205-996-8765), [Website](https://www.uab.edu/medicine/urology/faculty-temp/selph)
+
 # Other LGBT Resources
 
 **Rocket City Rainbow Pages**
