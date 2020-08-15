@@ -81,6 +81,11 @@ transgender/non-binary community and have had a positive experience.
 
   - [(256) 325-1349](tel:256-325-1349)
 
+**North Alabama Family Psychiatry & Counseling (Madison)**
+
+  - Angela Waldrop, PMHNP-BC
+  - [(256) 724-8880](tel:256-724-8880), [Website](https://northalabamafamilypsychiatry.com/)
+
 # Domestic and Sexual Violence Resources
 
 **Crisis Services of North Alabama**
@@ -119,6 +124,13 @@ transgender/non-binary community and have had a positive experience.
 
   - Electrolysis
   - [(205) 410-8322](tel:205-410-8322), [Website](https://www.atozelectrolysis.com/)
+
+# Hair Restoration
+
+**Steve Latham Hair Transplant Clinic (Huntsville)**
+
+  - Hair transplants
+  - [(256) 382-2000](tel:256-382-2000), [Website](https://www.stevelathamhair.com/)
 
 # Surgeons
 
@@ -164,6 +176,10 @@ transgender/non-binary community and have had a positive experience.
   - Hair dresser
   - [(256) 864-2784](tel:256-864-2784)
 
+**Morgan Tipton-Poell - H2O2**
+
+  - Hair stylist
+  - [(256) 698-5227](tel:256-698-5227)
 
 To update information on the site please [send us an email][email] or [submit a
 PR here][PR]
