@@ -1,0 +1,264 @@
+[[category]]
+slug = "therapy"
+title = "Counselling / Therapy"
+
+[[therapy]]
+title = "Lynn Motley, MSSW LICSW"
+city = "Huntsville"
+phone = "256-824-9171"
+website = "https://www.hsvpcs.com/lynn-motley/"
+
+[[therapy]]
+title = "Sarah E. Mulder, Psy.D."
+city = "Huntsville"
+phone = "256-469-1949"
+website = "http://www.sarahmulderpsychology.com/"
+
+[[therapy]]
+title = "Jessica Penot, LPC, MS, ADC"
+city = "Huntsville"
+phone = "256-278-2802"
+website = "https://www.treeoflifebehavioral.com/our-team.html"
+
+[[therapy]]
+title = "Tamara Pellant, LPC"
+city = "Huntsville"
+phone = "256-464-9755"
+
+[[therapy]]
+title = "Jane L. Wesley, LCSW"
+city = "Huntsville"
+phone = "256-534-1189"
+email = "Janewesleylcsw@gmail.com"
+
+[[therapy]]
+title = "Celia H. McKechnie, LPC - University of Alabama in Huntsville"
+city = "Huntsville"
+bullets = [
+    "The UAH Counseling Center offers a wide array of services to students currently enrolled in at last 3 credit hours, including individual sessions, groups and crisis appointments.",
+    "Groups include Art Therapy, Anxiety/Depression coping strategies, social skills for students on the Autism Spectrum, and a group specifically for young black men who identify as gay or bi. "
+]
+phone = "256-824-6203"
+email = "celia.mckechnie@uah.edu"
+
+# -------------------------------------------
+
+[[category]]
+slug = "healthcare"
+title = "Healthcare Providers"
+
+[[healthcare]]
+title = "Thrive"
+city = "Huntsville"
+bullets = [
+    "Will start HRT for patients with a letter from a mental health professional",
+    "Will continue HRT for patients that are already on it from a different clinic",
+    "Also offers general practice services"
+]
+phone = "256-536-4700"
+website = "https://thrivealabama.org/index.php/services/hiv-medical-clinics/huntsville"
+
+[[healthcare]]
+title = "Dr. Kathy Sparacino, Family Medicine"
+city = "Decatur"
+bullets = [
+    "Will start or continue HRT for patients with a letter from a mental health professional",
+    "Also offers general practice services"
+]
+phone = "256-340-5150"
+website = "https://www.facebook.com/DrKathySparacino/"
+
+[[healthcare]]
+title = "Dr. Vytautas Pukis"
+city = "Huntsville"
+bullets = ["Will start or continue HRT for patients with a letter from a mental health professional"]
+phone = "256-883-0107"
+website = "https://www.blossomwoodmedical.com/"
+
+[[healthcare]]
+title = "Planned Parenthood"
+city = "Nashville"
+bullets = [
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
+    "Open on 2 Saturdays per month in addition to weekdays"
+]
+phone = "866-711-1717"
+website = "https://www.plannedparenthood.org/health-center/tennessee/nashville/37203/nashville-health-center-2716-91550"
+
+[[healthcare]]
+title = "Magic City Wellness Center"
+city = "Birmingham"
+bullets = ["Will start HRT for patients with a letter from a mental health professional"]
+phone = "205-877-8677"
+website = "http://www.magiccitywellnesscenter.org/"
+
+# -------------------------------------------
+
+[[category]]
+slug = "psychiatrist"
+title = "Psychiatrists"
+
+[[psychiatrist]]
+title = "Dr. Lalleh Adhami"
+city = "Huntsville"
+phone = "256-858-1676"
+
+[[psychiatrist]]
+title = "Dr. Ammar Alrefai"
+city = "Madison"
+phone = "256-325-1349"
+
+[[psychiatrist]]
+title = "North Alabama Family Psychiatry & Counseling"
+city = "Madison"
+bullets = ["Angela Waldrop, PMHNP-BC"]
+phone = "256-724-8880"
+website = "https://northalabamafamilypsychiatry.com/"
+
+# -------------------------------------------
+
+[[category]]
+slug = "dsv"
+title = "Domestic and Sexual Violence Resources"
+
+[[dsv]]
+title = "Crisis Services of North Alabama"
+city = "Huntsville, Madison"
+bullets = [
+    "Crisis center",
+    "DV / SV support groups",
+    "Court advocacy"
+]
+phone = "256-716-1000"
+website = "https://csna.org/"
+
+# -------------------------------------------
+
+[[category]]
+slug = "voice"
+title = "Voice Services"
+
+[[voice]]
+title = "Daya Deuskar"
+city = "Online Only"
+website = "https://mirabai.me/"
+phone = "609-250-2703"
+
+# -------------------------------------------
+
+[[category]]
+slug = "hair-removal"
+title = "Hair Removal"
+
+[[hair-removal]]
+title = "Infinity Med-I-Spa"
+city = "Huntsville"
+bullets = ["Laser hair removal"]
+phone = "256-880-3672"
+website = "https://med-i-spa.com/location/huntsville/"
+
+[[hair-removal]]
+title = "Skin Deep Electrolysis"
+city = "Madison"
+bullets = ["Electrolysis"]
+phone = "256-698-3111"
+website = "http://skindeepelectrolysis.com/"
+
+[[hair-removal]]
+title = "Ellen Pugh - Electrolysis Global Image"
+city = "Nashville"
+bullets = ["Electrolysis"]
+phone = "615-322-9985"
+
+[[hair-removal]]
+title = "A To Z Electrolysis and Spa"
+city = "Hoover"
+bullets = ["Electrolysis"]
+phone = "205-410-8322"
+website = "https://www.atozelectrolysis.com/"
+
+# -------------------------------------------
+
+[[category]]
+slug = "hair-restore"
+title = "Hair Restoration"
+
+[[hair-restore]]
+title = "Steve Latham Hair Transplant Clinic"
+city = "Huntsville"
+phone = "256-382-2000"
+website = "https://www.stevelathamhair.com/"
+
+# -------------------------------------------
+
+[[category]]
+slug = "surgeon"
+title = "Surgeons"
+
+[[surgeon]]
+title = "Dr. Stephen Steinmetz"
+city = "Birmingham"
+bullets = ["Services: mastectomy"]
+phone = "205-930-0980"
+website = "http://www.steinmetzplasticsurgery.com/"
+
+[[surgeon]]
+title = "Dr. Paul Zbell"
+city = "Huntsville"
+bullets = ["Services: orchiectomy"]
+phone = "256-536-9020"
+website = "https://www.northalaurology.com/"
+
+[[surgeon]]
+title = "Dr. Keith Jimenez"
+city = "Huntsville"
+bullets = [
+    "Services: orchiectomy",
+    "Practice is Urology Specialists, P.C."
+]
+phone = "256-882-3605"
+
+[[surgeon]]
+title = "Dr. J. Patrick Selph"
+city = "Birmingham"
+bullets = [
+    "Services (transmasc): phalloplasty",
+    "Services (transfem): vaginoplasty, labiaplasty clitoroplasty, orchiectomy",
+    "Practice is UAB Urology Clinic"
+]
+phone = "205-996-8765"
+website = "https://www.uab.edu/medicine/urology/faculty-temp/selph"
+
+# -------------------------------------------
+
+[[category]]
+slug = "misc-lgbt"
+title = "Other LGBT Resources"
+
+[[misc-lgbt]]
+title = "Rocket City Rainbow Pages"
+city = "Huntsville"
+website = "http://rocketcityrainbowpages.com/"
+
+[[misc-lgbt]]
+title = "Rocket City Pride"
+city = "Huntsville"
+website = "http://rocketcitypride.org/"
+
+# -------------------------------------------
+
+[[category]]
+slug = "misc"
+title = "Other Misc. Services"
+
+[[misc]]
+title = "Kimberly Tucker - Cost Cutters"
+city = "Madison"
+bullets = ["Hair stylist"]
+phone = "256-864-2784"
+
+[[misc]]
+title = "Morgan Tipton-Poell - H2O2"
+city = "Huntsville"
+bullets = ["Hair stylist"]
+phone = "256-698-5227"
