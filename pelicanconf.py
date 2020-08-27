@@ -20,7 +20,7 @@ SOCIAL = None
 DEFAULT_PAGINATION = False
 
 PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ["assets"]
+PLUGINS = ["assets", "sitemap"]
 MARKDOWN = {
     "extension_configs": {
         "markdown.extensions.toc": {},
@@ -35,4 +35,9 @@ STATIC_PATHS = ["extra_static"]
 EXTRA_PATH_METADATA = {
     "extra_static/favicon.ico": {"path": "favicon.ico"},
     "extra_static/.htaccess": {"path": ".htaccess"},
+}
+
+SITEMAP = {
+    "format": "xml",
+    "exclude": ["tags.html", "categories.html", "authors.html", "archives.html"],
 }
