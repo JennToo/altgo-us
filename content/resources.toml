@@ -48,17 +48,6 @@ slug = "healthcare"
 title = "Healthcare Providers"
 
 [[healthcare]]
-title = "Thrive"
-city = "Huntsville"
-bullets = [
-    "Will start HRT for patients with a letter from a mental health professional",
-    "Will continue HRT for patients that are already on it from a different clinic",
-    "Also offers general practice services"
-]
-phone = "256-536-4700"
-website = "https://thrivealabama.org/index.php/services/hiv-medical-clinics/huntsville"
-
-[[healthcare]]
 title = "Dr. Kathy Sparacino, Family Medicine"
 city = "Decatur"
 bullets = [
@@ -76,6 +65,22 @@ phone = "256-883-0107"
 website = "https://www.blossomwoodmedical.com/"
 
 [[healthcare]]
+title = "Magic City Wellness Center"
+city = "Birmingham"
+bullets = ["Will start HRT for patients with a letter from a mental health professional"]
+phone = "205-877-8677"
+website = "http://www.magiccitywellnesscenter.org/"
+
+[[healthcare]]
+title = "Queer Med"
+city = "Online/Atlanta"
+bullets = [
+    "Services are primarily online, so should be accesible anywhere in the state of Alabama",
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)"
+]
+website = "https://queermed.com/"
+
+[[healthcare]]
 title = "Planned Parenthood"
 city = "Nashville"
 bullets = [
@@ -86,11 +91,15 @@ phone = "866-711-1717"
 website = "https://www.plannedparenthood.org/health-center/tennessee/nashville/37203/nashville-health-center-2716-91550"
 
 [[healthcare]]
-title = "Magic City Wellness Center"
-city = "Birmingham"
-bullets = ["Will start HRT for patients with a letter from a mental health professional"]
-phone = "205-877-8677"
-website = "http://www.magiccitywellnesscenter.org/"
+title = "Thrive"
+city = "Huntsville"
+bullets = [
+    "Will start HRT for patients with a letter from a mental health professional",
+    "Will continue HRT for patients that are already on it from a different clinic",
+    "Also offers general practice services"
+]
+phone = "256-536-4700"
+website = "https://thrivealabama.org/index.php/services/hiv-medical-clinics/huntsville"
 
 # -------------------------------------------
 
