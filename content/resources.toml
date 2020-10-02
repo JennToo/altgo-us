@@ -41,11 +41,17 @@ bullets = [
 phone = "256-824-6203"
 email = "celia.mckechnie@uah.edu"
 
+[[therapy]]
+title = "Susan Riser"
+city = "Montgomery"
+phone = "334-387-2317"
+website = "http://www.montgomerytherapist.com"
+
 # -------------------------------------------
 
 [[category]]
 slug = "healthcare"
-title = "Healthcare Providers"
+title = "Healthcare / HRT Providers"
 
 [[healthcare]]
 title = "Dr. Kathy Sparacino, Family Medicine"
@@ -67,7 +73,10 @@ website = "https://www.blossomwoodmedical.com/"
 [[healthcare]]
 title = "Magic City Wellness Center"
 city = "Birmingham"
-bullets = ["Will start HRT for patients with a letter from a mental health professional"]
+bullets = [
+    "Will start HRT for patients with a letter from a mental health professional",
+    "Also offers general practice services"
+]
 phone = "205-877-8677"
 website = "http://www.magiccitywellnesscenter.org/"
 
@@ -185,6 +194,12 @@ city = "Hoover"
 bullets = ["Electrolysis"]
 phone = "205-410-8322"
 website = "https://www.atozelectrolysis.com/"
+
+[[hair-removal]]
+title = "Sherry Giermanski"
+city = "Montgomery"
+bullets = ["Electrolysis"]
+website = "https://unwantedhairsolutions.com/"
 
 # -------------------------------------------
 
