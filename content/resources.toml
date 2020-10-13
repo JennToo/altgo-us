@@ -272,6 +272,11 @@ title = "Rocket City Pride"
 city = "Huntsville"
 website = "http://rocketcitypride.org/"
 
+[[misc-lgbt]]
+title = "MobPride"
+city = "Mobile"
+website = "https://www.mobpride.org/"
+
 # -------------------------------------------
 
 [[category]]
