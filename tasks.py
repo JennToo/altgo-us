@@ -12,7 +12,7 @@ def serve(c):
 @task
 def build(c):
     generate_resources()
-    c.run("pelican content -t theme")
+    c.run("pelican content -t theme --verbose")
     c.run("rm -rf output/theme/.webassets-cache")
 
 
@@ -41,6 +41,7 @@ def generate_resources():
 RESOURCES_HEADER = """---
 title: Local Resources
 slug: local-resources
+description: A collection of Alabama businesses and services that are friendly to transgender and non-binary people
 ---
 
 All service providers listed below have been visited by a local member of the
@@ -72,8 +73,8 @@ slug: {slug}
     content = [render_resource(resource) for resource in resources[slug]]
 
     rendered = header + "\n".join(content) + RESOURCES_FOOTER
-    with open(os.path.join("content/pages/generated", f"{slug}.md"), "w") as f:
-        f.write(rendered)
+    #with open(os.path.join("content/pages/generated", f"{slug}.md"), "w") as f:
+    #    f.write(rendered)
 
 
 def render_resource(resource):

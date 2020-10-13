@@ -1,6 +1,7 @@
 ---
 title: Support Groups for South Alabama
 slug: groups-south
+description: A collection of transgender and non-binary support groups from southern Alabama
 ---
 
 # TransAL

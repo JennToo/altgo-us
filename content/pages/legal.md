@@ -1,6 +1,7 @@
 ---
 title: Legal Help
 slug: legal
+description: Guides for changing your name and gender markers in Alabama
 ---
 
 These guides are not written by lawyers, nor should they be interpreted as

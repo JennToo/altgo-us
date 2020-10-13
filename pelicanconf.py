@@ -1,6 +1,7 @@
 AUTHOR = "Jennifer Wilcox"
-SITENAME = "Transgender North Alabama"
-SITEURL = "https://trans-north-alabama.org"
+SITENAME = "ALTGO"
+SITEURL = "https://altgo.us"
+LOGO = "https://altgo.us/theme/images/logo.png"
 
 PATH = "content"
 

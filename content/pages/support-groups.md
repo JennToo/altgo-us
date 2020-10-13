@@ -1,6 +1,7 @@
 ---
 title: Support Groups
 slug: support-groups
+description: A list of online and in-person support groups for transgender and non-binary Alabamians
 ---
 
 # Online Communities

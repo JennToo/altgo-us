@@ -1,6 +1,7 @@
 ---
 title: Support Groups for North Alabama
 slug: groups-north
+description: A collection of transgender and non-binary support groups from northern Alabama
 ---
 
 These groups all meet in Huntsville, but many people from the surrounding
