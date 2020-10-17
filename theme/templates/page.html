@@ -5,7 +5,12 @@
 {% block description %}{{ page.description }}{% endblock %}
 {% block body %}
 <div id="page-body">
-    <a href="/">Home</a>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/pages/support-groups.html">Support Groups</a>
+        <a href="/pages/local-resources.html">Local Resources</a>
+        <a href="/pages/legal.html">Legal Help</a>
+    </nav>
     {{ page.content }}
 </div>
 {% endblock %}
