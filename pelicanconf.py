@@ -35,6 +35,7 @@ MARKDOWN = {
 STATIC_PATHS = ["extra_static"]
 EXTRA_PATH_METADATA = {
     "extra_static/favicon.ico": {"path": "favicon.ico"},
+    "extra_static/robots.txt": {"path": "robots.txt"},
     "extra_static/.htaccess": {"path": ".htaccess"},
 }
 
