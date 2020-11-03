@@ -258,6 +258,15 @@ bullets = [
 phone = "256-882-3605"
 
 [[surgeon]]
+title = "Dr. William Hedden"
+city = "Birmingham"
+bullets = [
+    "Services: breast augmentation",
+    "Practice is Hedden and Gunn Plastic Surgery"
+]
+phone = "205-980-1744"
+
+[[surgeon]]
 title = "UAB Gender Health Program"
 city = "Birmingham"
 bullets = [
