@@ -84,6 +84,12 @@ phone = "205-877-8677"
 website = "http://www.magiccitywellnesscenter.org/"
 
 [[healthcare]]
+title = "UAB Gender Health Program"
+city = "Birmingham"
+website = "https://www.uabmedicine.org/patient-care/treatments/gender-health"
+phone = "205-975-2737"
+
+[[healthcare]]
 title = "Queer Med"
 city = "Online/Atlanta"
 bullets = [
@@ -158,6 +164,12 @@ website = "https://csna.org/"
 [[category]]
 slug = "voice"
 title = "Voice Services"
+
+[[voice]]
+title = "UAB Gender Health Program"
+city = "Birmingham"
+website = "https://www.uabmedicine.org/patient-care/treatments/gender-health"
+phone = "205-975-2737"
 
 [[voice]]
 title = "Daya Deuskar"
@@ -246,14 +258,23 @@ bullets = [
 phone = "256-882-3605"
 
 [[surgeon]]
+title = "UAB Gender Health Program"
+city = "Birmingham"
+bullets = [
+    "Top and bottom surgery"
+]
+website = "https://www.uabmedicine.org/patient-care/treatments/gender-health"
+phone = "205-975-2737"
+
+[[surgeon]]
 title = "Dr. J. Patrick Selph"
 city = "Birmingham"
 bullets = [
-    "Services (transmasc): phalloplasty",
+    "Services (transmasc): metoidioplasty, phalloplasty",
     "Services (transfem): vaginoplasty, labiaplasty clitoroplasty, orchiectomy",
-    "Practice is UAB Urology Clinic"
+    "Part of the UAB Gender Health Program"
 ]
-phone = "205-996-8765"
+phone = "205-975-2737"
 website = "https://www.uab.edu/medicine/urology/faculty-temp/selph"
 
 # -------------------------------------------
