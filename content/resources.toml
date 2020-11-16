@@ -114,7 +114,8 @@ city = "Huntsville"
 bullets = [
     "Will start HRT for patients with a letter from a mental health professional",
     "Will continue HRT for patients that are already on it from a different clinic",
-    "Also offers general practice services"
+    "Also offers general practice services",
+    "<b>Warning:</b> The administrators of this website have received numerous (&gt; 10) complaints about the HRT treatment strategy used by this clinic for transfem/MtF patients. At this time we only recommend this clinic for transmasc/FtM patients, or for those transfem/MtF patients who cannot afford any other options."
 ]
 phone = "256-536-4700"
 website = "https://thrivealabama.org/index.php/services/hiv-medical-clinics/huntsville"

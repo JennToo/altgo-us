@@ -55,7 +55,7 @@ RESOURCES_FOOTER = """
 To update information on the site please [send us an email][email] or [submit a PR here][PR]
 
 [email]: mailto:webmistress@trans-north-alabama.org
-[PR]: https://github.com/Nitori-/north-alabama-trans
+[PR]: https://github.com/Nitori-/altgo-us
 """
 
 
