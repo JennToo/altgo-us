@@ -8,14 +8,21 @@ description: A list of online and in-person support groups for transgender and n
 
 ## Practically Trans - Adult Discord Server (18+)
 
-[Click here to join the server](https://discord.gg/Z8p4Dsv)
+A safe space for transgender, non-binary, and gender questioning adults 18
+years and older.
+
+Click to join Discord server:
+
+[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/Z8p4Dsv)
 
 ## Trans Youth Discord Server (13-18)
 
 A safe space for trans youth 13-18 to talk about trans stuff and life and all
 that.
 
- [Click here to join the server](https://discord.gg/WDm9udY)
+Click to join Discord server:
+
+[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/WDm9udY)
 
 # In-person Groups
 
