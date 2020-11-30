@@ -9,7 +9,8 @@ description: A list of online and in-person support groups for transgender and n
 ## Practically Trans - Adult Discord Server (18+)
 
 A safe space for transgender, non-binary, and gender questioning adults 18
-years and older.
+years and older. Comprised of people mostly from Alabama and surrounding areas
+(but others are welcome as well!)
 
 Click to join Discord server:
 
