@@ -100,9 +100,10 @@ possible to update your marker without GCS.
 
 Once you've updated your birth certificate, bring your <u>updated birth
 certificate</u> **and** <u>doctor's letter indicating medical transition</u> to
-the [DMV on Church Street in Huntsville][4]. Most DMVs cannot update your
-marker, but this office is known to work and several people have successfully
-updated their markers at this location. The office has been known to reject
+the [Madison County Service Center DMV][6] (recommended) or
+[DMV on Church Street in Huntsville][4] (not recommended). Most DMVs cannot update your
+marker, but these offices are known to work and several people have successfully
+updated their markers at these locations. The offices have been known to reject
 people who don't bring both the doctor's letter and the updated birth
 certificate.
 
@@ -111,5 +112,6 @@ certificate.
 [3]: https://transequality.org/documents
 [4]: https://goo.gl/maps/iBaCjcz4RJnewRVL7
 [5]: https://www.maynardcooper.com/professionals/cynthia-g-lamar-hart/
+[6]: https://goo.gl/maps/nAhMgHMpu9gN6zsk8
 [limestone]: http://eforms.alacourt.gov/Do%20It%20Yourself%20Forms/Request%20to%20Change%20Name.pdf
 [madison]: https://www.madisoncountyal.gov/departments/probate-judge/areas-of-service/name-changes
