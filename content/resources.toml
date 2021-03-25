@@ -26,12 +26,6 @@ city = "Huntsville"
 phone = "256-464-9755"
 
 [[therapy]]
-title = "Jane L. Wesley, LCSW"
-city = "Huntsville"
-phone = "256-534-1189"
-email = "Janewesleylcsw@gmail.com"
-
-[[therapy]]
 title = "Celia H. McKechnie, LPC - University of Alabama in Huntsville"
 city = "Huntsville"
 bullets = [
