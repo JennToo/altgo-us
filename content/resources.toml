@@ -35,6 +35,12 @@ city = "Montgomery"
 phone = "334-387-2317"
 website = "http://www.montgomerytherapist.com"
 
+[[therapy]]
+title = "Susan Bechert, LMSW"
+city = "Huntsville"
+email = "susan@hsvpcs.com"
+website = "https://www.hsvpcs.com/susan-bechert-lmsw/"
+
 # -------------------------------------------
 
 [[category]]
@@ -210,6 +216,12 @@ city = "Montgomery"
 bullets = ["Electrolysis"]
 website = "https://unwantedhairsolutions.com/"
 
+[[hair-removal]]
+title = "Elena Vaughn"
+city = "Decatur"
+bullets = ["Electrolysis"]
+phone = "256-355-6399"
+
 # -------------------------------------------
 
 [[category]]
@@ -318,3 +330,9 @@ title = "Morgan Tipton-Poell - H2O2"
 city = "Huntsville"
 bullets = ["Hair stylist"]
 phone = "256-698-5227"
+
+[[misc]]
+title = "Good Vibrations Barber Shop"
+city = "Decatur"
+bullets = ["Hair stylist"]
+website = "http://goodvibrationscuts.com"
