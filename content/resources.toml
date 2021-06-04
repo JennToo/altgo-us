@@ -316,23 +316,26 @@ website = "https://www.mobpride.org/"
 # -------------------------------------------
 
 [[category]]
-slug = "misc"
-title = "Other Misc. Services"
+slug = "hair"
+title = "Hair Styling Services"
 
-[[misc]]
+[[hair]]
 title = "Kimberly Tucker - Cost Cutters"
 city = "Madison"
-bullets = ["Hair stylist"]
 phone = "256-864-2784"
 
-[[misc]]
+[[hair]]
 title = "Morgan Tipton-Poell - H2O2"
 city = "Huntsville"
-bullets = ["Hair stylist"]
 phone = "256-698-5227"
 
-[[misc]]
+[[hair]]
 title = "Good Vibrations Barber Shop"
 city = "Decatur"
-bullets = ["Hair stylist"]
 website = "http://goodvibrationscuts.com"
+
+[[hair]]
+title = "Gwyneth at Salon U Midtown"
+city = "Birmingham"
+website = "https://www.salonustyle.com/midtown-artists"
+phone = "205-870-8708"
