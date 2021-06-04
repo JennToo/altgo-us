@@ -52,4 +52,4 @@ General LGBT server for the Huntsville area
 
 Click to join Discord server:
 
-[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/PJB7Z9D3)
+[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/cHX6Vx694M)
