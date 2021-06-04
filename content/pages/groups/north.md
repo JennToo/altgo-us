@@ -45,3 +45,11 @@ group members.
 Individuals interested in more information can reach out to [Celia H.
 McKechnie](mailto:celia.mckechnie@uah.edu) or UAH Cousenling, [(256)
 824-6203](tel:256-824-6203)
+
+# LGBT Huntsville
+
+General LGBT server for the Huntsville area
+
+Click to join Discord server:
+
+[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/PJB7Z9D3)
