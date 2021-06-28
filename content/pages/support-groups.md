@@ -14,7 +14,7 @@ years and older. Comprised of people mostly from Alabama and surrounding areas
 
 Click to join Discord server:
 
-[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/Z8p4Dsv)
+[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/3a9uxjwvbd)
 
 ## Trans Youth Discord Server (13-18)
 
