@@ -41,6 +41,12 @@ city = "Huntsville"
 email = "susan@hsvpcs.com"
 website = "https://www.hsvpcs.com/susan-bechert-lmsw/"
 
+[[therapy]]
+title = "Kathryn M Cox, LPC-S"
+city = "Decatur"
+phone = "256-686-3984"
+website = "http://coxcounselingassociates.com"
+
 # -------------------------------------------
 
 [[category]]
@@ -141,6 +147,12 @@ city = "Madison"
 bullets = ["Angela Waldrop, PMHNP-BC"]
 phone = "256-724-8880"
 website = "https://northalabamafamilypsychiatry.com/"
+
+[[psychiatrist]]
+title = "Laura Graham MSN, CRNP, PMHNP-BC"
+city = "Decatur"
+phone = "256-822-2002"
+website = "https://www.sunshinementalwellness.com/"
 
 # -------------------------------------------
 
