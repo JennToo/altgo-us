@@ -16,15 +16,6 @@ Click to join Discord server:
 
 [<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/3a9uxjwvbd)
 
-## Trans Youth Discord Server (13-18)
-
-A safe space for trans youth 13-18 to talk about trans stuff and life and all
-that.
-
-Click to join Discord server:
-
-[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/WDm9udY)
-
 # Regional Groups
 
  - North Alabama: [Huntsville / Madison / Decatur / Athens area][1]
