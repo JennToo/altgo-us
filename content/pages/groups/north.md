@@ -9,8 +9,6 @@ communities (Madison, Athens, Decatur, etc.) are members of the groups as well.
 
 # Transgender North Alabama - Adult Support Group (18+)
 
-**Please Note:** *Meetings are currently paused due to COVID-19*
-
 This group is hosted in Huntsville, and meets several times per month. We
 welcome all adult transgender and non-binary identifying people regardless of
 their physical or social state of transition.
@@ -22,11 +20,10 @@ fear of judgement.
 Group membership is kept confidential, and measures are taken to preserve privacy
 and avoid outing people.
 
-To help ensure the privacy and safety of the group, exact meeting details are not
-publicly available. If you would like more information please contact Alek 
-Mitterbach on [Facebook](https://www.facebook.com/mitterbach),
-[Email](mailto:membership@trans-north-alabama.org) or by phone/text
-at [(216) 533-1660](tel:216-533-1660).
+To help ensure the privacy and safety of the group, exact meeting details are
+not publicly available. If you would like more information please [send us an
+email](mailto:membership@altgo.us) or join the [Discord
+group](https://discord.gg/3a9uxjwvbd).
 
 # TransFamily Support Group - Parent Support Group
 
