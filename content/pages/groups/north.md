@@ -23,7 +23,8 @@ and avoid outing people.
 To help ensure the privacy and safety of the group, exact meeting details are
 not publicly available. If you would like more information please [send us an
 email](mailto:membership@altgo.us) or join the [Discord
-group](https://discord.gg/3a9uxjwvbd).
+group](https://discord.gg/3a9uxjwvbd) or call [(256)
+469-3453](tel:256-469-3453).
 
 # TransFamily Support Group - Parent Support Group
 
