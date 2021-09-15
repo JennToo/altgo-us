@@ -317,6 +317,14 @@ title = "MobPride"
 city = "Mobile"
 website = "https://www.mobpride.org/"
 
+[[misc-lgbt]]
+title = "Brit Horton"
+city = "Huntsville"
+email = "brit.e.horton@gmail.com"
+bullets = [
+    "Ordained minister"
+]
+
 # -------------------------------------------
 
 [[category]]

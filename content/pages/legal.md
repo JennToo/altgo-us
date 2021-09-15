@@ -35,6 +35,10 @@ copies of your court ordered name change.
 The office staff and judge are very friendly, so don't be intimidated! This
 process typically only takes about a week to get scheduled.
 
+## Morgan county
+
+Please refer to [this page for details on the process in Morgan county][morgan].
+
 ## After the court order
 
 Once you have a court order for your name change, the first place to visit is
@@ -113,5 +117,6 @@ certificate.
 [4]: https://goo.gl/maps/iBaCjcz4RJnewRVL7
 [5]: https://www.maynardcooper.com/professionals/cynthia-g-lamar-hart/
 [6]: https://goo.gl/maps/nAhMgHMpu9gN6zsk8
-[limestone]: http://eforms.alacourt.gov/Do%20It%20Yourself%20Forms/Request%20to%20Change%20Name.pdf
+[limestone]: https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf
 [madison]: https://www.madisoncountyal.gov/departments/probate-judge/areas-of-service/name-changes
+[morgan]: /pages/morgan-county.html
