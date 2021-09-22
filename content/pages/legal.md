@@ -87,9 +87,10 @@ also have been reports of problems (particularly a few cases from Birmingham).
 This is currently a pre-requisite for updating your driver's license, to the
 best of our understanding.
 
-If you were born in Alabama, there is a law firm in Birmingham that has helped
-several people update their birth certificates without requiring surgery. You
-can find [their contact information here][5].
+If you were born in Alabama, there are a few lawyers in Birmingham that have
+helped several people update their birth certificates without requiring
+surgery. You can try either [Maynard Cooper][5] or [Magic City legal
+services][magic-city].
 
 If you were born outside Alabama, refer to [the specific guide for your
 state][3].
@@ -111,6 +112,10 @@ updated their markers at these locations. The offices have been known to reject
 people who don't bring both the doctor's letter and the updated birth
 certificate.
 
+Even if you haven't updated your birth certificate, you could also try the
+state ALEA office in Jefferson County. Specifically try the office at [908
+Bankhead Hwy W, Birmingham, AL 35201][dmv]. Bring the standard doctor's letter.
+
 [1]: https://transequality.org/know-your-rights/social-security
 [2]: https://transequality.org/know-your-rights/passports
 [3]: https://transequality.org/documents
@@ -120,3 +125,5 @@ certificate.
 [limestone]: https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf
 [madison]: https://www.madisoncountyal.gov/departments/probate-judge/areas-of-service/name-changes
 [morgan]: /pages/morgan-county.html
+[magic-city]: mailto:sydney@birminghamaidsoutreach.org
+[dmv]: https://goo.gl/maps/CK9BJtbLu1uqM9QS9
