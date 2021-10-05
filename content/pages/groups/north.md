@@ -26,9 +26,19 @@ email](mailto:membership@altgo.us) or join the [Discord
 group](https://discord.gg/3a9uxjwvbd) or call [(256)
 469-3453](tel:256-469-3453).
 
-# TransFamily Support Group - Parent Support Group
+# TransFamily Support Group
 
-<img src="/theme/images/transfamily.svg" style="width: 100%" />
+[<img src="/extra_static/transfamily.jpg" width="200" />][transfam]
+
+Support groups for:
+
+ - Middle school
+ - High school
+ - Young adults
+ - Parents of trans children
+
+Website: [TransFamily Support Services - Alabama][transfam]
+
 
 # Trans+ - UAH Support Group
 
@@ -51,3 +61,5 @@ General LGBT server for the Huntsville area
 Click to join Discord server:
 
 [<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/cHX6Vx694M)
+
+[transfam]: https://transfamilysos.org/alabamachapter/
