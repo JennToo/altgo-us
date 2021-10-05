@@ -10,6 +10,21 @@ the North Alabama transgender and non-binary community.
 
 [TOC]
 
+# Lawyers
+
+[This presentation from the Magic City Legal Center][webinar] covers the
+process for name and gender marker changes, for adults and minors. [The slides
+are also available][slides].
+
+A lawyer is generally not required when updating your documentation (except
+when attempting to change gender marker on an Alabama birth certificate).
+However, if you are having trouble with this process there are two legal firms
+we recommend:
+
+ - The Magic City Legal Center. You can email Sydney Duncan at
+   [SDuncan@mcac-bao.org][mailto:SDuncan@mcac-bao.org]
+ - [Maynard Cooper][5]
+
 # Changing your name
 
 The process for changing your name varies by county:
@@ -84,13 +99,9 @@ also have been reports of problems (particularly a few cases from Birmingham).
 
 ## Birth Certificate
 
-This is currently a pre-requisite for updating your driver's license, to the
-best of our understanding.
-
 If you were born in Alabama, there are a few lawyers in Birmingham that have
 helped several people update their birth certificates without requiring
-surgery. You can try either [Maynard Cooper][5] or [Magic City legal
-services][magic-city].
+surgery. See the section about lawyers at the top of this page.
 
 If you were born outside Alabama, refer to [the specific guide for your
 state][3].
@@ -114,7 +125,8 @@ certificate.
 
 Even if you haven't updated your birth certificate, you could also try the
 state ALEA office in Jefferson County. Specifically try the office at [908
-Bankhead Hwy W, Birmingham, AL 35201][dmv]. Bring the standard doctor's letter.
+Bankhead Hwy W, Birmingham, AL 35201][dmv]. Bring the standard doctor's letter
+(the same one used for social security and passports).
 
 [1]: https://transequality.org/know-your-rights/social-security
 [2]: https://transequality.org/know-your-rights/passports
@@ -127,3 +139,5 @@ Bankhead Hwy W, Birmingham, AL 35201][dmv]. Bring the standard doctor's letter.
 [morgan]: /pages/morgan-county.html
 [magic-city]: mailto:sydney@birminghamaidsoutreach.org
 [dmv]: https://goo.gl/maps/CK9BJtbLu1uqM9QS9
+[webinar]: https://www.youtube.com/watch?v=AUUpITEDx-o&t=301s
+[slides]: /extra_static/mclc-slides-2021.pdf
