@@ -22,7 +22,7 @@ However, if you are having trouble with this process there are two legal firms
 we recommend:
 
  - The Magic City Legal Center. You can email Sydney Duncan at
-   [SDuncan@mcac-bao.org][mailto:SDuncan@mcac-bao.org]
+   [SDuncan@mcac-bao.org](mailto:SDuncan@mcac-bao.org)
  - [Maynard Cooper][5]
 
 # Changing your name
