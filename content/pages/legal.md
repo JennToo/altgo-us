@@ -126,7 +126,8 @@ certificate.
 Even if you haven't updated your birth certificate, you could also try the
 state ALEA office in Jefferson County. Specifically try the office at [908
 Bankhead Hwy W, Birmingham, AL 35201][dmv]. Bring the standard doctor's letter
-(the same one used for social security and passports).
+(the same one used for social security and passports). However, there are reports
+that this won't work even at this DMV. It's not clear why yet.
 
 [1]: https://transequality.org/know-your-rights/social-security
 [2]: https://transequality.org/know-your-rights/passports
