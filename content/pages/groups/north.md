@@ -9,6 +9,8 @@ communities (Madison, Athens, Decatur, etc.) are members of the groups as well.
 
 # Transgender North Alabama - Adult Support Group (18+)
 
+<img src="/extra_static/trans_north_al_logo.png" width="500" />
+
 This group is hosted in Huntsville, and meets several times per month. We
 welcome all adult transgender and non-binary identifying people regardless of
 their physical or social state of transition.
