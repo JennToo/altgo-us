@@ -47,6 +47,12 @@ city = "Decatur"
 phone = "256-686-3984"
 website = "http://coxcounselingassociates.com"
 
+[[therapy]]
+title = "Iantha Calloway, LPC"
+city = "Huntsville"
+phone = "256-801-8937"
+website = "https://alliancehsv.com/iantha-calloway-lpc/"
+
 # -------------------------------------------
 
 [[category]]
