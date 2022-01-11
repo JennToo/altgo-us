@@ -57,7 +57,7 @@ website = "https://alliancehsv.com/iantha-calloway-lpc/"
 
 [[category]]
 slug = "healthcare"
-title = "Healthcare / HRT Providers"
+title = "Physicians / HRT Providers"
 
 [[healthcare]]
 title = "Dr. Kathy Sparacino, Family Medicine"
@@ -301,6 +301,23 @@ bullets = [
 ]
 phone = "205-975-2737"
 website = "https://www.uab.edu/medicine/urology/faculty-temp/selph"
+
+# -------------------------------------------
+
+[[category]]
+slug = "pt"
+title = "Physical Therapists"
+
+[[pt]]
+title = "Dr. Sha'Rose Erion, PT, DPT"
+city = "Huntsville"
+bullets = [
+    "General physical therapy",
+    "Pelvic floor therapy",
+    "Post-op physical therapy"
+]
+email = "Erions@therapysouth.net"
+website = "https://therapysouth.com/staff/sharose-erion-pt-dpt/"
 
 # -------------------------------------------
 
