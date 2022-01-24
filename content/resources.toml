@@ -30,6 +30,15 @@ phone = "256-824-6203"
 email = "celia.mckechnie@uah.edu"
 
 [[therapy]]
+title = "Natalie Harrison, Ph.D."
+city = "Birmingham"
+bullets = [
+    "DBT (groups and individual)",
+    "Can do sessions remotely"
+]
+website = "https://www.bpmmb.com/dr-natalie-harrison"
+
+[[therapy]]
 title = "Susan Riser"
 city = "Montgomery"
 phone = "334-387-2317"
