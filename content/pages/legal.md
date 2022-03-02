@@ -83,19 +83,16 @@ usually required.
 As far as we are aware, no form of non-binary gender marker has been obtained
 on any official Alabama state documentation.
 
+## Passport
+
+Passport gender markers are entirely self-identified. Refer to [this guide from
+the state department][passport] for details.
+
 ## Social Security
 
 Refer to [this guide from the National Center for Transgender Equality][1].
 Marker changes have been done successfully at both the Huntsville and Decatur
 Social Security office.
-
-## Passport
-
-This uses the same letter as you use to update with Social Security. Refer to
-[this guide for details][2].
-
-Many people in the area have successfully updated their passports, but there
-also have been reports of problems (particularly a few cases from Birmingham).
 
 ## Birth Certificate
 
@@ -130,7 +127,6 @@ Bankhead Hwy W, Birmingham, AL 35201][dmv]. Bring the standard doctor's letter
 that this won't work even at this DMV. It's not clear why yet.
 
 [1]: https://transequality.org/know-your-rights/social-security
-[2]: https://transequality.org/know-your-rights/passports
 [3]: https://transequality.org/documents
 [4]: https://goo.gl/maps/iBaCjcz4RJnewRVL7
 [5]: https://www.maynardcooper.com/professionals/cynthia-g-lamar-hart/
@@ -142,3 +138,4 @@ that this won't work even at this DMV. It's not clear why yet.
 [dmv]: https://goo.gl/maps/CK9BJtbLu1uqM9QS9
 [webinar]: https://www.youtube.com/watch?v=AUUpITEDx-o&t=301s
 [slides]: /extra_static/mclc-slides-2021.pdf
+[passport]: https://travel.state.gov/content/travel/en/passports/need-passport/selecting-your-gender-marker.html
