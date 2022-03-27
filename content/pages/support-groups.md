@@ -6,7 +6,7 @@ description: A list of online and in-person support groups for transgender and n
 
 # Online State-wide Communities
 
-## Practically Trans - Adult Discord Server (18+)
+## Trans North Alabama - Adult Discord Server (18+)
 
 A safe space for transgender, non-binary, and gender questioning adults 18
 years and older. Comprised of people mostly from Alabama and surrounding areas
