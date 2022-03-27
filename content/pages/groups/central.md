@@ -6,4 +6,8 @@ description: A collection of transgender and non-binary support groups from cent
 
 # Magic City Acceptance Center
 
-[MCAC Website](https://www.magiccityacceptancecenter.org/)
+[<img src="/extra_static/mcac-logo.webp" width="901" />][MCAC]
+
+[MCAC Website][MCAC]
+
+[MCAC]: https://www.magiccityacceptancecenter.org/
