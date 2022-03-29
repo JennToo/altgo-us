@@ -149,6 +149,15 @@ bullets = [
 phone = "866-711-1717"
 website = "https://www.plannedparenthood.org/health-center/tennessee/nashville/37203/nashville-health-center-2716-91550"
 
+[[healthcare]]
+title = "Vine Hill Community Clinic"
+city = "Nashville"
+bullets = [
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)"
+]
+phone = "615-292-9770"
+website = "https://www.connectus.org/transgender-health"
+
 # -------------------------------------------
 
 [[category]]
