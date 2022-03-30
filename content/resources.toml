@@ -68,6 +68,12 @@ phone = "256-824-9171"
 email = "info@hsvpcs.com"
 website = "https://www.hsvpcs.com/monretta/"
 
+[[therapy]]
+title = "Jane L. Wesley, LCSW"
+city = "Huntsville"
+phone = "256-534-1189"
+email = "Janewesleylcsw@gmail.com"
+
 # -------------------------------------------
 
 [[category]]
