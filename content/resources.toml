@@ -315,21 +315,20 @@ phone = "205-980-1744"
 title = "UAB Gender Health Program"
 city = "Birmingham"
 bullets = [
-    "Top and bottom surgery"
+    "Top surgery"
 ]
 website = "https://www.uabmedicine.org/patient-care/treatments/gender-health"
 phone = "205-975-2737"
 
 [[surgeon]]
 title = "Dr. J. Patrick Selph"
-city = "Birmingham"
+city = "Nashville"
 bullets = [
     "Services (transmasc): metoidioplasty, phalloplasty",
     "Services (transfem): vaginoplasty, labiaplasty clitoroplasty, orchiectomy",
-    "Part of the UAB Gender Health Program"
 ]
-phone = "205-975-2737"
-website = "https://www.uab.edu/medicine/urology/faculty-temp/selph"
+phone = "615-622-5047"
+website = "https://www.urologynashville.com/providers/patrick-selph-md/"
 
 # -------------------------------------------
 
