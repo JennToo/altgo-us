@@ -83,12 +83,4 @@ If you are interested in attending our support group, please contact Colleen at
 phone at [256-434-1850](tel:256-434-1850) or Jimmie at
 [jgwilliams1800@aol.com](mailto:jgwilliams1800@aol.com).
 
-# LGBT Huntsville
-
-General LGBT server for the Huntsville area
-
-Click to join Discord server:
-
-[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/cHX6Vx694M)
-
 [transfam]: https://transfamilysos.org/alabamachapter/
