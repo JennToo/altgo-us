@@ -13,7 +13,8 @@ communities (Madison, Athens, Decatur, etc.) are members of the groups as well.
 
 This group is hosted in Huntsville, and meets several times per month. We
 welcome all adult transgender and non-binary identifying people regardless of
-their physical or social state of transition.
+their physical or social state of transition. You must also be 18 or older to
+attend.
 
 Group meetings are an opportunity for members to discuss whatever is on their
 mind, as well as providing a safe space to explore gender expression without
@@ -63,6 +64,24 @@ group members.
 
 Individuals interested in more information can reach out to UAH Counseling,
 [(256) 824-6203](tel:256-824-6203)
+
+# Mid-Life Transgender Support Group
+
+Our trans-led peer support group is open to people in mid-life or later. Our
+support group provides a safe space for people who are transgender, gender
+non-conforming, and their significant family members. We provide a place to
+come together to support one another, as we work though the challenges of
+gender dysphoria. Those of us in mid-life may be married, may be in mid-career,
+may be a business owner, and may have children (and grandchildren). Our
+circumstances and life experiences set up apart from younger transgender
+people. This support group is also a good place to come to get information and
+referrals for other services you may need. There is no cost to attend our
+support group.
+
+If you are interested in attending our support group, please contact Colleen at
+[Colleen.Marie@outlook.com](mailto:Colleen.Marie@outlook.com), or by mobile
+phone at [256-434-1850](tel:256-434-1850) or Jimmie at
+[jgwilliams1800@aol.com](mailto:jgwilliams1800@aol.com).
 
 # LGBT Huntsville
 
