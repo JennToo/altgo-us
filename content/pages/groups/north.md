@@ -81,6 +81,6 @@ support group.
 If you are interested in attending our support group, please contact Colleen at
 [Colleen.Marie@outlook.com](mailto:Colleen.Marie@outlook.com), or by mobile
 phone at [256-434-1850](tel:256-434-1850) or Jimmie at
-[jgwilliams1800@aol.com](mailto:jgwilliams1800@aol.com).
+[jgwilliams1800@aol.com](mailto:jgwilliams1800@aol.com) phone [256-679-3034](tel:256-679-3034).
 
 [transfam]: https://transfamilysos.org/alabamachapter/
