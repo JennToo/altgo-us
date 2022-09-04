@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v1
         with:
           python-version: 3.8
-      - uses: abatilo/actions-poetry@v2.1.0
+      - uses: abatilo/actions-poetry@v2.1.6
       - run: poetry install --no-dev
       - run: poetry run invoke build
       - run: openssl aes-256-cbc -salt -a -d -in deploy-key.enc -out deploy-key -k ${{ secrets.DEPLOY_KEY_PASS }}
