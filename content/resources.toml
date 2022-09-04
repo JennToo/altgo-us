@@ -330,6 +330,16 @@ bullets = [
 phone = "615-622-5047"
 website = "https://www.urologynashville.com/providers/patrick-selph-md/"
 
+[[surgeon]]
+title = "Vanderbilt Clinic for Transgender Health"
+city = "Nashville"
+bullets = [
+    "Dr. Salam Alkassis: top and bottom surgery",
+    "When you call, specifically say that you're looking for the transgender health clinic and they'll send you to the right person",
+]
+website = "https://www.vanderbilthealth.com/clinic/clinic-transgender-health"
+phone = "615-538-3668"
+
 # -------------------------------------------
 
 [[category]]
