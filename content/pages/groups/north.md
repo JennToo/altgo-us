@@ -25,9 +25,7 @@ and avoid outing people.
 
 To help ensure the privacy and safety of the group, exact meeting details are
 not publicly available. If you would like more information please [send us an
-email](mailto:membership@altgo.us) or join the [Discord
-group](https://discord.gg/3a9uxjwvbd) or call [(256)
-469-3453](tel:256-469-3453).
+email][tna-email] or join the [Discord group][tna-discord].
 
 **Note for group members:** We are currently following CDC guidelines for all
 in-person support group meetings. In particular, this means if the Madison
@@ -78,9 +76,12 @@ people. This support group is also a good place to come to get information and
 referrals for other services you may need. There is no cost to attend our
 support group.
 
-If you are interested in attending our support group, please contact Colleen at
-[Colleen.Marie@outlook.com](mailto:Colleen.Marie@outlook.com), or by mobile
-phone at [256-434-1850](tel:256-434-1850) or Jimmie at
-[jgwilliams1800@aol.com](mailto:jgwilliams1800@aol.com) phone [256-679-3034](tel:256-679-3034).
+If you are interested in attending our support group, please email the
+coordinators at [NoALaMidLifeGroup@outlook.com][mid-email] or contact Colleen
+at by mobile phone at [(256) 434-1850](tel:256-434-1850) or Jimmie at [(256)
+679-3034](tel:256-679-3034).
 
 [transfam]: https://transfamilysos.org/alabamachapter/
+[mid-email]: mailto:NoALaMidLifeGroup@outlook.com
+[tna-discord]: https://discord.gg/3a9uxjwvbd
+[tna-email]: mailto:membership@altgo.us
