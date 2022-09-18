@@ -45,16 +45,17 @@ description: A collection of Alabama businesses and services that are friendly t
 ---
 
 All service providers listed below have been visited by a local member of the
-transgender/non-binary community and have had a positive experience.
+transgender / non-binary community and have had a positive experience.
+
+**If you would like to submit an update for this list, please send us an email
+[website@altgo.us][email] or [submit a GitHub PR here][PR]**
 
 [TOC]
 
 """
 
 RESOURCES_FOOTER = """
-To update information on the site please [send us an email][email] or [submit a PR here][PR]
-
-[email]: mailto:webmistress@trans-north-alabama.org
+[email]: mailto:website@altgo.us
 [PR]: https://github.com/Nitori-/altgo-us
 """
 
