@@ -190,13 +190,6 @@ phone = "256-325-1349"
 email = "Patientservices@valleybehavioralservices.com"
 
 [[psychiatrist]]
-title = "North Alabama Family Psychiatry & Counseling"
-city = "Madison"
-bullets = ["Angela Waldrop, PMHNP-BC"]
-phone = "256-724-8880"
-website = "https://northalabamafamilypsychiatry.com/"
-
-[[psychiatrist]]
 title = "Laura Graham MSN, CRNP, PMHNP-BC"
 city = "Decatur"
 phone = "256-822-2002"
