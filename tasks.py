@@ -28,11 +28,9 @@ def generate_resources():
 
     main_page_content = []
     for category in resources["category"]:
-        generate_resource_category(category, resources)
-
-        main_page_content += [f"# {category['title']}\n"] + [
+        main_page_content += [f'# {category["title"]}\n<div class="resources">'] + [
             render_resource(resource) for resource in resources[category["slug"]]
-        ]
+        ] + ["</div>\n"]
 
     with open("content/pages/generated/local-resources.md", "w") as f:
         f.write(RESOURCES_HEADER + "\n".join(main_page_content) + RESOURCES_FOOTER)
@@ -48,7 +46,7 @@ All service providers listed below have been visited by a local member of the
 transgender / non-binary community and have had a positive experience.
 
 **If you would like to submit an update for this list, please send us an email
-[website@altgo.us][email] or [submit a GitHub PR here][PR]**
+at [website@altgo.us][email] or [submit a GitHub PR here][PR]**
 
 [TOC]
 
@@ -60,41 +58,33 @@ RESOURCES_FOOTER = """
 """
 
 
-def generate_resource_category(category, resources):
-    slug = category["slug"]
-    category_title = category["title"]
-    header = f"""---
-title: {category_title}
-slug: {slug}
----
-
-# {category_title}
-
-"""
-    content = [render_resource(resource) for resource in resources[slug]]
-
-    rendered = header + "\n".join(content) + RESOURCES_FOOTER
-    #with open(os.path.join("content/pages/generated", f"{slug}.md"), "w") as f:
-    #    f.write(rendered)
-
-
 def render_resource(resource):
-    bullets = resource.get("bullets", []) + [render_contact(resource)]
-    squashed = "\n".join("  - " + bullet for bullet in bullets)
-    return f"""**{resource['title']} ({resource['city']})**
-
+    bullets = render_contact(resource) + resource.get("bullets", [])
+    squashed = "\n".join(f"<li>{bullet}</li>" for bullet in bullets)
+    return f"""<div class="resource">
+<div class="resource-title">{resource['title']}</div>
+<ul class="resource-bullets">
+<li><span class="resource-label">Location:</span> {resource['city']}</li>
 {squashed}
+</ul>
+</div>
 """
 
 
 def render_contact(resource):
     contents = []
     if "website" in resource:
-        contents.append(f"[Website]({resource['website']})")
+        contents.append(f"""
+            <span class="resource-label">Website:</span> <a href="{resource["website"]}" class="website">{resource["website"]}</a>
+        """)
     if "phone" in resource:
         phone: str = resource["phone"]
         formatted = "(" + phone.replace("-", ") ", 1)
-        contents.append(f"[{formatted}](tel:{phone})")
+        contents.append(f"""
+            <span class="resource-label">Phone Number:</span> <a href="tel:{phone}">{formatted}</a>
+        """)
     if "email" in resource:
-        contents.append(f"[Email](mailto:{resource['email']})")
-    return ", ".join(contents)
+        contents.append(f"""
+            <span class="resource-label">Email:</span> <a href="mailto:{resource["email"]}" class="email">{resource["email"]}</a>
+        """)
+    return contents

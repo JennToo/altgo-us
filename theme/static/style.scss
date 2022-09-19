@@ -1,6 +1,7 @@
 $trans-pink: #F5A9B8;
 $trans-blue: #5BCEFA;
 $trans-blue-text: #51B1D4;
+$contrasting-background: #eee;
 
 body {
     margin: 0;
@@ -131,4 +132,24 @@ nav a {
     padding-left: 1.5em;
     text-decoration: none;
     font-size: 1.5em;
+}
+
+.email, .website {
+    word-break: break-all;
+}
+
+.resource {
+    padding: 1em;
+}
+
+.resource-label {
+    font-weight: bold;
+}
+
+.resource-title {
+    font-size: 1.5em;
+}
+
+.resource:nth-child(even) {
+    background-color: $contrasting-background;
 }
