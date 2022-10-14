@@ -82,6 +82,16 @@ phone = "256-824-9171"
 email = "info@hsvpcs.com"
 website = "https://www.hsvpcs.com/monretta/"
 
+[[therapy]]
+title = "Dr. Erin M Smith"
+city = "Madison"
+phone = "256-774-7100"
+bullets = [
+    "Clinical psychologist",
+    "Adult ADHD assessment",
+    "Surgery letters",
+]
+
 # -------------------------------------------
 
 [[category]]
