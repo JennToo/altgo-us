@@ -54,7 +54,7 @@ at [website@altgo.us][email] or [submit a GitHub PR here][PR]**
 
 RESOURCES_FOOTER = """
 [email]: mailto:website@altgo.us
-[PR]: https://github.com/Nitori-/altgo-us
+[PR]: https://github.com/JennToo/altgo-us
 """
 
 
