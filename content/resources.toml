@@ -111,7 +111,8 @@ phone = "256-340-5150"
 title = "Dr. Lona Haskell, MD"
 city = "Huntsville"
 bullets = [
-    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)"
+    "Will start HRT for patients with a letter from a mental health professional",
+    "Will continue HRT for patients who have been on HRT for a while, on an informed consent basis",
 ]
 phone = "256-429-4915"
 website = "https://www.crestwoodmedgroup.com/doctors-providers/haskell-lona-md-8380"
