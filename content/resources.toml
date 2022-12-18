@@ -135,6 +135,7 @@ bullets = [
     "Will start HRT for patients with a letter from a mental health professional",
     "Will continue HRT for patients that are already on it from a different clinic",
     "Also offers general practice services",
+    "When calling, try extension 2210"
 ]
 phone = "256-536-4700"
 
@@ -195,9 +196,10 @@ phone = "256-858-1676"
 
 [[psychiatrist]]
 title = "Dr. Daniel Laeupple"
-city = "Madison"
-phone = "256-325-1349"
-email = "Patientservices@valleybehavioralservices.com"
+city = "Huntsville"
+phone = "256-255-2148"
+website = "https://northalabamapsych.com/daniel-e-laeupple-md/"
+email = "drlaeuppleoffice@northalabamapsych.com"
 
 [[psychiatrist]]
 title = "Laura Graham MSN, CRNP, PMHNP-BC"
