@@ -322,6 +322,14 @@ bullets = [
 phone = "256-882-3605"
 
 [[surgeon]]
+title = "Dr. Jordan Hamilton"
+city = "Huntsville"
+bullets = [
+    "Services: hysterectomy",
+]
+phone = "256-265-4462"
+
+[[surgeon]]
 title = "Dr. William Hedden"
 city = "Birmingham"
 bullets = [
