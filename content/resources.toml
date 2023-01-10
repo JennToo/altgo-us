@@ -235,6 +235,9 @@ title = "Center For Speech and Language"
 city = "Huntsville"
 phone = "256-533-3314"
 website = "https://www.centerforspeech.net/"
+bullets = [
+    "They may require referrals",
+]
 
 [[voice]]
 title = "UAB Gender Health Program"
