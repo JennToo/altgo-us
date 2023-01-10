@@ -231,6 +231,12 @@ slug = "voice"
 title = "Voice Services"
 
 [[voice]]
+title = "Center For Speech and Language"
+city = "Huntsville"
+phone = "256-533-3314"
+website = "https://www.centerforspeech.net/"
+
+[[voice]]
 title = "UAB Gender Health Program"
 city = "Birmingham"
 website = "https://www.uabmedicine.org/patient-care/treatments/gender-health"
