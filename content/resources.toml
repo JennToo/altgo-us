@@ -210,6 +210,17 @@ website = "https://www.sunshinementalwellness.com/"
 # -------------------------------------------
 
 [[category]]
+slug = "sti-testing"
+title = "STI Testing"
+
+[[sti-testing]]
+title = "Thrive"
+city = "Huntsville"
+phone = "256-536-4700"
+
+# -------------------------------------------
+
+[[category]]
 slug = "dsv"
 title = "Domestic and Sexual Violence Resources"
 
@@ -334,7 +345,7 @@ phone = "256-882-3605"
 title = "Dr. Jordan Hamilton"
 city = "Huntsville"
 bullets = [
-    "Services: hysterectomy",
+    "Services: hysterectomy, post-op annual checkups",
 ]
 phone = "256-265-4462"
 
