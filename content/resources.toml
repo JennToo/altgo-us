@@ -20,6 +20,12 @@ city = "Huntsville"
 phone = "256-464-9755"
 
 [[therapy]]
+title = "Morgan Hamrick"
+city = "Huntsville"
+phone = "205-587-4293"
+website = "https://thrivetrauma.com/"
+
+[[therapy]]
 title = "UAH Counseling Center - University of Alabama in Huntsville"
 city = "Huntsville"
 bullets = [
