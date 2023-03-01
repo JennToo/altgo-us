@@ -184,7 +184,8 @@ website = "https://www.plannedparenthood.org/health-center/tennessee/nashville/3
 title = "Vine Hill Community Clinic"
 city = "Nashville"
 bullets = [
-    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)"
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
+    "**Will not accept patients from outside of Tennessee!**"
 ]
 phone = "615-292-9770"
 website = "https://www.connectus.org/transgender-health"
