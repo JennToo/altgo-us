@@ -49,6 +49,19 @@ phone = "256-400-1111"
 email = "celia@counselingassociatesofhuntsville.com"
 
 [[therapy]]
+title = "Laura Stisher, MS, LPC, CST"
+city = "Huntsville"
+email = "laura@counselingassociatesofhuntsville.com"
+phone = "256-400-1111"
+website = "https://www.counselingassociatesofhuntsville.com/about-us"
+
+[[therapy]]
+title = "Mizani Johnson, MS, LPC, NCC"
+city = "Huntsville"
+website = "https://www.psychologytoday.com/us/therapists/mizani-johnson-huntsville-al/866320"
+phone = "256-223-9463"
+
+[[therapy]]
 title = "Natalie Harrison, Ph.D."
 city = "Birmingham"
 bullets = [
@@ -190,6 +203,15 @@ bullets = [
 phone = "615-292-9770"
 website = "https://www.connectus.org/transgender-health"
 
+[[healthcare]]
+title = "Sharon Callison, MD, FACOG"
+city = "Huntsville"
+bullets = [
+    "Trans-friendly OBGYN"
+]
+website = "https://www.tvobgyn.com/sharon-callison-md"
+phone = "256-964-8947"
+
 # -------------------------------------------
 
 [[category]]
@@ -281,6 +303,13 @@ city = "Huntsville"
 bullets = ["Laser hair removal"]
 phone = "256-880-3672"
 website = "https://med-i-spa.com/location/huntsville/"
+
+[[hair-removal]]
+title = "Madison Wellness and Aesthetic Center"
+city = "Madison"
+bullets = ["Laser hair removal"]
+website = "https://madisonfamilycare.com/"
+phone = "256-722-0555"
 
 [[hair-removal]]
 title = "Skin Deep Electrolysis"
