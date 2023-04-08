@@ -111,6 +111,28 @@ bullets = [
     "Surgery letters",
 ]
 
+[[therapy]]
+title = "Charles Kessler"
+city = "Vestavia Hills"
+email = "Charles@KesslerCounselingandWellness.com"
+phone = "205-807-9334"
+website = "https://kesslercounselingandwellness.com/"
+
+[[therapy]]
+title = "Alexandra Baugh, MEd, LPC, NCC"
+city = "Hoover"
+website = "https://www.elevatewellnesstherapy.com/alexandra-baugh-therapy-counseling"
+phone = "205-618-8552"
+email = "abaugh@elevatewellnesstherapy.com"
+bullets = [
+    "Surgery letters",
+]
+
+[[therapy]]
+title = "Debbie Duquette, LICSW"
+city = "Madison"
+phone = "256-895-8148"
+
 # -------------------------------------------
 
 [[category]]
