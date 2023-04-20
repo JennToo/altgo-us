@@ -42,6 +42,11 @@ email = "holly@thebalancedlifellc.com"
 phone = "256-258-7777"
 
 [[therapy]]
+title = "Amy Player MA, LPC-S, NBCC"
+city = "Huntsville"
+website = "https://amyplayerlpc.com/"
+
+[[therapy]]
 title = "Celia Mckechnie, MS, LPC, CTC"
 city = "Huntsville"
 website = "https://www.counselingassociatesofhuntsville.com/about-us"
@@ -205,6 +210,15 @@ bullets = [
     "Will start or continue HRT on an informed consent basis (i.e. no letter needed)"
 ]
 website = "https://queermed.com/"
+
+[[healthcare]]
+title = "Folx"
+city = "Online"
+bullets = [
+    "Services are primarily online, so should be accessible anywhere in the state of Alabama",
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)"
+]
+website = "https://www.folxhealth.com/"
 
 [[healthcare]]
 title = "Planned Parenthood"
