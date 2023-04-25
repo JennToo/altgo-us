@@ -182,7 +182,7 @@ bullets = [
     "Will start HRT for patients with a letter from a mental health professional",
     "Will continue HRT for patients that are already on it from a different clinic",
     "Also offers general practice services",
-    "When calling, try extension 2210"
+    "When calling, try extension 2210",
 ]
 phone = "256-536-4700"
 
@@ -282,6 +282,14 @@ title = "STI Testing"
 [[sti-testing]]
 title = "Thrive"
 city = "Huntsville"
+bullets = [
+    "STI testing",
+    "STI treatment",
+    "PrEP",
+    "HIV/HepC testing and treatment",
+    "These services are also offered at Florence and Albertville locations",
+]
+website = "https://thrivealabama.org/about/locations"
 phone = "256-536-4700"
 
 # -------------------------------------------
@@ -372,6 +380,13 @@ title = "Elena Vaughn"
 city = "Decatur"
 bullets = ["Electrolysis"]
 phone = "256-355-6399"
+
+[[hair-removal]]
+title = "David Hardee - Hairadicator Electrolysis"
+city = "Mobile"
+website = "https://www.myelectrolysis.net/"
+bullets = ["Electrolysis"]
+phone = "251-447-9500"
 
 # -------------------------------------------
 
