@@ -144,6 +144,13 @@ title = "Debbie Duquette, LICSW"
 city = "Madison"
 phone = "256-895-8148"
 
+[[therapy]]
+title = "Phoenix Counseling and Resources, LLC"
+city = "Florence"
+website = "https://www.pcandrllc.com/"
+email = "info@pcandrllc.com"
+phone = "256-712-5665"
+
 # -------------------------------------------
 
 [[category]]
