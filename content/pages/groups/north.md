@@ -27,15 +27,6 @@ To help ensure the privacy and safety of the group, exact meeting details are
 not publicly available. If you would like more information please [send us an
 email][tna-email] or join the [Discord group][tna-discord].
 
-**Note for group members:** We are currently following CDC guidelines for all
-in-person support group meetings. In particular, this means if the Madison
-county COVID-19 Community Level is "High", masks are required for anyone
-attending the group. At "Medium" or "Low" masks are optional, but you are
-always free to wear a mask to group if you wish.
-
-<div data-cdc-widget="COVIDCountyCheck" data-horizontal="true" ></div>
-<script src="https://tools.cdc.gov/1M1B"></script>
-
 # TransFamily Support Group
 
 [<img src="/extra_static/transfamily.jpg" width="200" />][transfam]
