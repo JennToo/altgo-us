@@ -153,6 +153,16 @@ website = "https://www.pcandrllc.com/"
 email = "info@pcandrllc.com"
 phone = "256-712-5665"
 
+[[therapy]]
+title = "Scott Tonight / Beth Call"
+city = "Huntsville"
+phone = "256-263-9100"
+
+[[therapy]]
+title = "Rainn C Stone, LMSW, GTC"
+city = "Online"
+phone = "256-579-1525"
+
 # -------------------------------------------
 
 [[category]]
@@ -278,7 +288,7 @@ phone = "256-858-1676"
 [[psychiatrist]]
 title = "Dr. Daniel Laeupple"
 city = "Huntsville"
-phone = "256-255-2148"
+phone = "256-346-0126"
 website = "https://northalabamapsych.com/daniel-e-laeupple-md/"
 email = "drlaeuppleoffice@northalabamapsych.com"
 
@@ -342,7 +352,7 @@ bullets = [
 [[voice]]
 title = "UAB Gender Health Program"
 city = "Birmingham"
-website = "https://www.uabmedicine.org/patient-care/treatments/gender-health"
+website = "https://www.uabmedicine.org/specialties/gender-health/"
 phone = "205-975-2737"
 
 [[voice]]
@@ -564,3 +574,10 @@ city = "Madison"
 website = "https://www.facebook.com/Area52HairLab"
 phone = "256-361-5699"
 email = "Chelseydsandlin57@gmail.com"
+
+[[hair]]
+title = "LR Salon - Beth"
+city = "Madison"
+website = "https://www.LRBeautysalon.com"
+phone = "256-542-3333"
+email = "lrbeautysalon@gmail.com"
