@@ -446,15 +446,6 @@ phone = "256-536-9020"
 website = "https://www.northalaurology.com/"
 
 [[surgeon]]
-title = "Dr. Keith Jimenez"
-city = "Huntsville"
-bullets = [
-    "Services: orchiectomy",
-    "Practice is Urology Specialists, P.C."
-]
-phone = "256-882-3605"
-
-[[surgeon]]
 title = "Dr. Jordan Hamilton"
 city = "Huntsville"
 bullets = [
