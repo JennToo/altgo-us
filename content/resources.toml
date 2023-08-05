@@ -163,6 +163,12 @@ title = "Rainn C Stone, LMSW, GTC"
 city = "Online"
 phone = "256-579-1525"
 
+[[therapy]]
+title = "Raven O'Rourke, LCSW, MPH"
+city = "Online (must be within TN border during appointment)"
+phone = "615-285-9134"
+website = "https://www.birminghampsychologygroup.com/dr-natalie-harrison"
+
 # -------------------------------------------
 
 [[category]]
@@ -287,7 +293,7 @@ phone = "256-858-1676"
 
 [[psychiatrist]]
 title = "Dr. Daniel Laeupple"
-city = "Huntsville"
+city = "Madison"
 phone = "256-346-0126"
 website = "https://northalabamapsych.com/daniel-e-laeupple-md/"
 email = "drlaeuppleoffice@northalabamapsych.com"
@@ -572,3 +578,23 @@ city = "Madison"
 website = "https://www.LRBeautysalon.com"
 phone = "256-542-3333"
 email = "lrbeautysalon@gmail.com"
+
+[[hair]]
+title = "Seville"
+city = "Montgomery"
+website = "http://seville.hilltopmgm.com/"
+
+# -------------------------------------------
+
+[[category]]
+slug = "lawyer"
+title = "Lawyers"
+
+[[lawyer]]
+title = "Levi Alexander"
+city = "Madison"
+website = "https://www.legaljourneys.com"
+phone = "256-850-3431"
+bullets = [
+    "Estate planning"
+]
