@@ -39,6 +39,9 @@ After a several weeks (~6 currently), the court order for name change will be ma
 
 You may also need to specifically ask them to return your birth certificate.
 
+A community member has written [this more detailed
+guide](https://wiki.tris.fyi/FieldNotes/LegalName) which may be useful too.
+
 ## Limestone county
 
 You'll need to fill out [a name change request form][limestone] and [schedule a
