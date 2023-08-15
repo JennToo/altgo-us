@@ -4,10 +4,7 @@ slug: groups-north
 description: A collection of transgender and non-binary support groups from northern Alabama
 ---
 
-These groups all meet in Huntsville, but many people from the surrounding
-communities (Madison, Athens, Decatur, etc.) are members of the groups as well.
-
-# Transgender North Alabama - Adult Support Group (18+)
+# Transgender North Alabama - Adult Support Group (Huntsville)
 
 <img src="/extra_static/trans_north_al_logo.png" width="500" />
 
@@ -27,34 +24,7 @@ To help ensure the privacy and safety of the group, exact meeting details are
 not publicly available. If you would like more information please [send us an
 email][tna-email] or join the [Discord group][tna-discord].
 
-# TransFamily Support Group
-
-[<img src="/extra_static/transfamily.jpg" width="200" />][transfam]
-
-Support groups for:
-
- - Middle school
- - High school
- - Young adults
- - Parents of trans children
-
-Website: [TransFamily Support Services - Alabama][transfam]
-
-
-# Trans+ - UAH Support Group
-
-An interpersonal support group for UAH students who identify as transgender,
-non-binary or other gender diverse identities.
-
-Members must be vetted by Danielle Daniels or another member of the UAH
-Counseling Center to join and will be informed of the meeting dates, time and
-location once approved to ensure the safety and confidentiality of all our
-group members.
-
-Individuals interested in more information can reach out to UAH Counseling,
-[(256) 824-6203](tel:256-824-6203)
-
-# Mid-Life Transgender Support Group
+# Mid-Life Transgender Support Group (Athens)
 
 Our trans-led peer support group is open to people in mid-life or later. Our
 support group provides a safe space for people who are transgender, gender
@@ -72,7 +42,50 @@ coordinators at [NoALaMidLifeGroup@outlook.com][mid-email] or contact Colleen
 at by mobile phone at [(256) 434-1850](tel:256-434-1850) or Jimmie at [(256)
 679-3034](tel:256-679-3034).
 
+# Shoals Support Group (Florence)
+
+Hosted by Shoals Diversity Center, this all ages group meets every Tuesday at
+6:30pm in Florence. This is a peer-led LGBTQIA+ support group for anyone who
+wishes to join. 
+
+Group members are free to discuss anything on their minds, free of judgment and
+in a safe and supportive environment. 
+
+More information can be found [on the website][shoals] or by emailing
+[shoalsdiversitycenter@gmail.com][shoals-email]. Or text/call [(256)
+951-2842](tel:256-951-2842). You can also call this number if you are having
+trouble finding the meeting location or if you need help finding local
+resources.
+
+# TransFamily Support Group (Huntsville)
+
+[<img src="/extra_static/transfamily.jpg" width="200" />][transfam]
+
+Support groups for:
+
+ - Middle school
+ - High school
+ - Young adults
+ - Parents of trans children
+
+Website: [TransFamily Support Services - Alabama][transfam]
+
+# Trans+ - UAH Support Group (Huntsville)
+
+An interpersonal support group for UAH students who identify as transgender,
+non-binary or other gender diverse identities.
+
+Members must be vetted by Danielle Daniels or another member of the UAH
+Counseling Center to join and will be informed of the meeting dates, time and
+location once approved to ensure the safety and confidentiality of all our
+group members.
+
+Individuals interested in more information can reach out to UAH Counseling,
+[(256) 824-6203](tel:256-824-6203)
+
 [transfam]: https://transfamilysos.org/alabamachapter/
 [mid-email]: mailto:NoALaMidLifeGroup@outlook.com
 [tna-discord]: https://discord.gg/3a9uxjwvbd
 [tna-email]: mailto:membership@altgo.us
+[shoals]: https://www.shoalsdiversitycenter.org/
+[shoals-email]: mailto:shoalsdiversitycenter@gmail.com
