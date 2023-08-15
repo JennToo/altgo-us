@@ -579,6 +579,12 @@ title = "Seville"
 city = "Montgomery"
 website = "http://seville.hilltopmgm.com/"
 
+[[hair]]
+title = "Sarah Jane Shaw"
+city = "Huntsville"
+phone = "256-203-9777"
+website = "https://wheelhousesalon.com/"
+
 # -------------------------------------------
 
 [[category]]
