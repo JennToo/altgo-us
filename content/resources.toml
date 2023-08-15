@@ -522,14 +522,9 @@ slug = "misc-lgbt"
 title = "Other LGBT Resources"
 
 [[misc-lgbt]]
-title = "Rocket City Rainbow Pages"
-city = "Huntsville"
-website = "http://rocketcityrainbowpages.com/"
-
-[[misc-lgbt]]
 title = "Rocket City Pride"
 city = "Huntsville"
-website = "http://rocketcitypride.org/"
+website = "https://www.rocketcitypride.com/"
 
 [[misc-lgbt]]
 title = "MobPride"
