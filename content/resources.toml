@@ -419,6 +419,12 @@ website = "https://www.myelectrolysis.net/"
 bullets = ["Electrolysis"]
 phone = "251-447-9500"
 
+[[hair-removal]]
+title = "Electrolysis and Skin Care By Marina"
+city = "Franklin"
+bullets = ["Electrolysis"]
+phone = "615-891-1302"
+
 # -------------------------------------------
 
 [[category]]
