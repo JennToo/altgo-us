@@ -10,4 +10,10 @@ description: A collection of transgender and non-binary support groups from cent
 
 [MCAC Website][MCAC]
 
+# Full Spectrum JSU
+
+Non profit LGBTQ student organization open to students and members of the community!
+
+[Instagram][https://www.instagram.com/fullspectrumjsu/]
+
 [MCAC]: https://www.magiccityacceptancecenter.org/
