@@ -169,6 +169,30 @@ city = "Online (must be within TN border during appointment)"
 phone = "615-285-9134"
 website = "https://www.betweenthelakestherapy.com"
 
+[[therapy]]
+title = "Empower Counseling and Consulting"
+city = "Florence"
+phone = "256-330-2060"
+email = "admin@empowershoals.com"
+
+[[therapy]]
+title = "Audrey Smith, MA Ed, ALC, NCC"
+city = "Huntsville"
+phone = "256-278-2802"
+website = "https://www.treeoflifebehavioral.com/our-team.html"
+
+[[therapy]]
+title = "H.G. Hilton, ALC, M. Ed."
+city = "Huntsville"
+phone = "256-278-2802"
+website = "https://www.treeoflifebehavioral.com/our-team.html"
+
+[[therapy]]
+title = "Rainn Stone, MA"
+city = "Huntsville"
+phone = "256-278-2802"
+website = "https://www.treeoflifebehavioral.com/our-team.html"
+
 # -------------------------------------------
 
 [[category]]
@@ -591,6 +615,11 @@ city = "Huntsville"
 phone = "256-203-9777"
 website = "https://wheelhousesalon.com/"
 
+[[hair]]
+title = "Isaiah Marsh"
+city = "Huntsville"
+website = "https://booksy.com/en-us/440246_isaiahcutz_barber-shop_13762_huntsville?do=invite#ba_s=dl_1"
+
 # -------------------------------------------
 
 [[category]]
@@ -605,3 +634,9 @@ phone = "256-850-3431"
 bullets = [
     "Estate planning"
 ]
+
+[[lawyer]]
+title = "Jerrika Jones - Prvidence Law Group"
+city = "Huntsville"
+phone = "256-489-0555"
+website = "https://www.providencelawgroupllc.com/"
