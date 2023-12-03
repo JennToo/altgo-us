@@ -42,9 +42,14 @@ email = "holly@thebalancedlifellc.com"
 phone = "256-258-7777"
 
 [[therapy]]
-title = "Amy Player MA, LPC-S, NBCC"
+title = "Amy Player, MA, LPC-S, NBCC"
 city = "Huntsville"
-website = "https://amyplayerlpc.com/"
+phone = "256-824-9823"
+
+[[therapy]]
+title = "Christin Player, ALC"
+city = "Huntsville"
+phone = "256-824-9823"
 
 [[therapy]]
 title = "Michelle Bolton, LPC-S"
@@ -71,6 +76,11 @@ title = "Mizani Johnson, MS, LPC, NCC"
 city = "Huntsville"
 website = "https://www.psychologytoday.com/us/therapists/mizani-johnson-huntsville-al/866320"
 phone = "256-223-9463"
+
+[[therapy]]
+title = "Susan Landgraff, LICSW"
+city = "Huntsville"
+phone = "256-444-5511"
 
 [[therapy]]
 title = "Natalie Harrison, Ph.D."
@@ -295,15 +305,6 @@ bullets = [
 phone = "615-292-9770"
 website = "https://www.connectus.org/transgender-health"
 
-[[healthcare]]
-title = "Sharon Callison, MD, FACOG"
-city = "Huntsville"
-bullets = [
-    "Trans-friendly OBGYN"
-]
-website = "https://www.tvobgyn.com/sharon-callison-md"
-phone = "256-964-8947"
-
 # -------------------------------------------
 
 [[category]]
@@ -412,6 +413,12 @@ website = "https://madisonfamilycare.com/"
 phone = "256-722-0555"
 
 [[hair-removal]]
+title = "Pearl Skin Aesthetics"
+city = "Huntsville"
+bullets = ["Laser hair removal"]
+website = "https://psamedspa.com/"
+
+[[hair-removal]]
 title = "Skin Deep Electrolysis"
 city = "Madison"
 bullets = ["Electrolysis"]
@@ -482,6 +489,13 @@ phone = "256-536-9020"
 website = "https://www.northalaurology.com/"
 
 [[surgeon]]
+title = "Dr. Joseph Pettus"
+city = "Huntsville"
+bullets = ["Services: orchiectomy"]
+phone = "256-536-9020"
+website = "https://www.northalaurology.com/"
+
+[[surgeon]]
 title = "Dr. Jordan Hamilton"
 city = "Huntsville"
 bullets = [
@@ -526,6 +540,15 @@ bullets = [
 ]
 website = "https://www.vanderbilthealth.com/clinic/clinic-transgender-health"
 phone = "615-538-3668"
+
+[[surgeon]]
+title = "Sharon Callison, MD, FACOG"
+city = "Huntsville"
+bullets = [
+    "Trans-friendly OBGYN"
+]
+website = "https://www.tvobgyn.com/sharon-callison-md"
+phone = "256-964-8947"
 
 # -------------------------------------------
 
