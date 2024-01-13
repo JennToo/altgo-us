@@ -475,13 +475,6 @@ slug = "surgeon"
 title = "Surgeons"
 
 [[surgeon]]
-title = "Dr. Stephen Steinmetz"
-city = "Birmingham"
-bullets = ["Services: mastectomy"]
-phone = "205-930-0980"
-website = "http://www.steinmetzplasticsurgery.com/"
-
-[[surgeon]]
 title = "Dr. Paul Zbell"
 city = "Huntsville"
 bullets = ["Services: orchiectomy"]
