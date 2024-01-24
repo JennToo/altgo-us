@@ -203,6 +203,13 @@ city = "Huntsville"
 phone = "256-278-2802"
 website = "https://www.treeoflifebehavioral.com/our-team.html"
 
+[[therapy]]
+title = "Unity Walker M.Ed., Ph.D., NCC., ALC"
+city = "Madison"
+phone = "615-777-9303"
+email = "Christina@bsacounseling.com"
+website= "https://www.bsacounseling.com"
+
 # -------------------------------------------
 
 [[category]]
