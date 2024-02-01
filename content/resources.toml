@@ -210,6 +210,13 @@ phone = "615-777-9303"
 email = "Christina@bsacounseling.com"
 website= "https://www.bsacounseling.com"
 
+[[therapy]]
+title = "Melissa Stillman, LPC"
+city = "Online"
+website = "http://MelissaStillmanCounseling.com"
+email = "MelissaStillmanCounseling@gmail.com"
+phone = "305-600-3060"
+
 # -------------------------------------------
 
 [[category]]
