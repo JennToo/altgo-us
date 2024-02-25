@@ -217,6 +217,18 @@ website = "http://MelissaStillmanCounseling.com"
 email = "MelissaStillmanCounseling@gmail.com"
 phone = "305-600-3060"
 
+[[therapy]]
+title = "Katie Newberry, LICSW"
+city = "Decatur"
+phone = "256-542-1482"
+email = "Info@grandoakscounseling.com"
+
+[[therapy]]
+title = "Michael Burrow, ALC, NCC"
+city = "Decatur"
+phone = "256-542-1482"
+email = "Info@grandoakscounseling.com"
+
 # -------------------------------------------
 
 [[category]]
@@ -318,6 +330,15 @@ bullets = [
 ]
 phone = "615-292-9770"
 website = "https://www.connectus.org/transgender-health"
+
+[[healthcare]]
+title = "Daniel Englert, M.D."
+city = "Huntsville"
+phone = "256-517-1507"
+website = "https://www.crestwoodmedcenter.com/find-a-doctor/englert-daniel-md-26235"
+bullets = [
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
+]
 
 # -------------------------------------------
 
@@ -592,12 +613,26 @@ city = "Mobile"
 website = "https://www.mobpride.org/"
 
 [[misc-lgbt]]
+title = "TKO Society"
+bullets = [
+    "The Knights and Orchids Society builds the power of TLGB+ Black people across the South by providing a spectrum of health and wellness services. "
+]
+city = "Alabama"
+website = "https://www.tkosociety.org/"
+
+[[misc-lgbt]]
 title = "Brit Horton"
 city = "Huntsville"
 email = "brit.e.horton@gmail.com"
 bullets = [
     "Ordained minister"
 ]
+
+[[misc-lgbt]]
+title = "The Platinum Koi Tattoo Studio"
+city = "Huntsville"
+phone = "256-213-7653"
+website = "https://theplatinumkoi.com"
 
 # -------------------------------------------
 
