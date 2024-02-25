@@ -125,11 +125,19 @@ updated their markers at these locations. The offices have been known to reject
 people who don't bring both the doctor's letter and the updated birth
 certificate.
 
-Even if you haven't updated your birth certificate, you could also try the
-state ALEA office in Jefferson County. Specifically try the office at [908
-Bankhead Hwy W, Birmingham, AL 35201][dmv]. Bring the standard doctor's letter
-(the same one used for social security and passports). However, there are reports
-that this won't work even at this DMV. It's not clear why yet.
+In at least one case, it was possible to get an updated gender marker with an
+orchiectomy. This may also work for other gender-affirming surgeries too. This
+template letter on official office letterhead seems to work:
+
+> To whom it may concern, 
+>
+> [Name] is a patient under my care and on [date] she had a bilateral inguinal
+> orchiectomy gender reassignment performed and completed by me. There were no
+> complications during the procedure and the patient is doing well. 
+>
+> If you have any questions, please let me know. 
+>
+>[Doctor’s signature]
 
 [1]: https://transequality.org/know-your-rights/social-security
 [3]: https://transequality.org/documents
@@ -140,7 +148,6 @@ that this won't work even at this DMV. It's not clear why yet.
 [madison]: https://www.madisoncountyal.gov/departments/probate-judge/areas-of-service/name-changes
 [morgan]: /pages/morgan-county.html
 [magic-city]: mailto:sydney@birminghamaidsoutreach.org
-[dmv]: https://goo.gl/maps/CK9BJtbLu1uqM9QS9
 [webinar]: https://www.youtube.com/watch?v=AUUpITEDx-o&t=301s
 [slides]: /extra_static/mclc-slides-2021.pdf
 [passport]: https://travel.state.gov/content/travel/en/passports/need-passport/selecting-your-gender-marker.html

@@ -153,3 +153,13 @@ nav a {
 .resource:nth-child(even) {
     background-color: $contrasting-background;
 }
+
+blockquote {
+    background-color: #ddd;
+    border-left-color: gray;
+    border-left-width: 4pt;
+    border-left-style: solid;
+    padding: 2pt;
+    padding-left: 8pt;
+    font-style: italic;
+}
