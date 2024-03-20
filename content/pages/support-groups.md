@@ -16,6 +16,16 @@ Click to join Discord server:
 
 [<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/3a9uxjwvbd)
 
+# ALTRAC - Political Action Group
+
+The Alabama Trans Rights Action Coalition is an entirely volunteer-run
+organization founded in Alabama. Its mission is to build a better future for
+queer and transgender people in Alabama by creating resources and tools to help
+people be engaged politically and to effectively connect with their
+legislators.
+
+[For more information, refer to the official ALTRAC website][ALTRAC]
+
 # Regional Groups
 
  - North Alabama: [Huntsville / Madison / Decatur / Athens area][1]
@@ -25,3 +35,4 @@ Click to join Discord server:
 [1]: /pages/groups-north.html
 [2]: /pages/groups-south.html
 [3]: /pages/groups-central.html
+[ALTRAC]: https://altrac.works/

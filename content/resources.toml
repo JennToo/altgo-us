@@ -634,6 +634,19 @@ city = "Huntsville"
 phone = "256-213-7653"
 website = "https://theplatinumkoi.com"
 
+[[misc-lgbt]]
+title = "Tamitha Broadway - Perdita Beauty"
+city = "Huntsville"
+email = "tbroadway@perditabeauty.com"
+bullets = [
+    "Post-op medical tattoos"
+]
+
+[[misc-lgbt]]
+title = "Southern Trans Youth Emergency Project"
+city = "Statewide"
+website = "https://southernequality.org/styep/"
+
 # -------------------------------------------
 
 [[category]]

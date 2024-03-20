@@ -75,7 +75,7 @@ from the experience of the local community. It is highly advisable that you
 consult with an attorney if you are seeing a legal name change with prior
 criminal history.
 
-[official]: http://www.morgancountyprobate.com/media/53848/name-change-requirements-2019.pdf
+[official]: http://www.morgancountyprobate.com/media/79357/name-change-requirements-2020.pdf
 [PS-12]: https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf
 [ALEA]: https://www.alea.gov/sites/default/files/inline-files/SBI-ApplicationReviewALCHRI.pdf
 [FBI]: https://forms.fbi.gov/identity-history-summary-checks-review
