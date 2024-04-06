@@ -3,9 +3,9 @@ title: box Help
 slug: box
 description: Guides for our transboxs and help pages
 ---
-<img alt="trans box logo by Lily" src="/theme/images/box_logo.png">
+<img alt="trans box logo by Lily Kelly aka SoLilyKweez" src="/theme/images/box_logo.png">
 
-<pdf >
+Logo by Lily Kelly aka SoLilyKweez
 
 [TOC]
 
@@ -47,3 +47,9 @@ Here are two great reasorces to follow on this topic:
 [box-flyer]: /theme/pdf/box_lists.pdf
 # Reach out 
 email us at blank@gmail.com with questions. 
+
+# Special Thanks
+Special thanks to 
+
+ - Lily Kelly for her logo she made for our project! She does graphic Design so please reach out to her if you are in need of a great designer! 
+ - Cascadia for her box icon for the home page
