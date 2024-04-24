@@ -340,6 +340,14 @@ bullets = [
     "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
 ]
 
+[[healthcare]]
+title = "TransClinique"
+city = "Online"
+website = "https://transclinique.com/"
+bullets = [
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
+]
+
 # -------------------------------------------
 
 [[category]]
@@ -697,6 +705,11 @@ website = "https://wheelhousesalon.com/"
 title = "Isaiah Marsh"
 city = "Huntsville"
 website = "https://booksy.com/en-us/440246_isaiahcutz_barber-shop_13762_huntsville?do=invite#ba_s=dl_1"
+
+[[hair]]
+title = "Rebecca McGee"
+city = "Athens"
+phone = "256-998-6183"
 
 # -------------------------------------------
 
