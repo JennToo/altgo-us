@@ -142,11 +142,11 @@ website = "https://kesslercounselingandwellness.com/"
 [[therapy]]
 title = "Alexandra Baugh, MEd, LPC, NCC"
 city = "Hoover"
-website = "https://www.elevatewellnesstherapy.com/alexandra-baugh-therapy-counseling"
+website = "http://emberembodiedwellness.com/"
 phone = "205-618-8552"
-email = "abaugh@elevatewellnesstherapy.com"
+email = "alexandra@emberembodied.com"
 bullets = [
-    "Surgery letters",
+    "HRT and Surgery letters",
 ]
 
 [[therapy]]
@@ -469,6 +469,12 @@ phone = "256-698-3111"
 website = "http://skindeepelectrolysis.com/"
 
 [[hair-removal]]
+title = "Aesthetic Institute of the Shoals"
+city = "Florence"
+bullets = ["Laser hair removal"]
+website = "https://www.aestheticsshoals.com/"
+
+[[hair-removal]]
 title = "Ellen Pugh - Electrolysis Global Image"
 city = "Nashville"
 bullets = ["Electrolysis"]
@@ -710,6 +716,11 @@ website = "https://booksy.com/en-us/440246_isaiahcutz_barber-shop_13762_huntsvil
 title = "Rebecca McGee"
 city = "Athens"
 phone = "256-998-6183"
+
+[[hair]]
+title = "Beth - Hair Haven"
+city = "Huntsville"
+website = "https://www.hairhavenhuntsville.com/"
 
 # -------------------------------------------
 
