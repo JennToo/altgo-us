@@ -139,6 +139,15 @@ template letter on official office letterhead seems to work:
 >
 >[Doctor’s signature]
 
+Another working template of a letter after top surgery:
+
+> [Name] has been a patient of mine since [Date]. Both psychological and
+> medical testing has been carried out to determine [Name]'s true gender and
+> they have undergone all necessary surgical treatment for the transition from
+> male to female on [Date]. This qualifies [Name] to be legally considered
+> female within the guidelines of the particular jurisdiction in which she
+> seeks to legally change her gender status from male to female.
+
 [1]: https://transequality.org/know-your-rights/social-security
 [3]: https://transequality.org/documents
 [4]: https://goo.gl/maps/iBaCjcz4RJnewRVL7
