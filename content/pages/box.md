@@ -10,17 +10,17 @@ Logo by Lily Kelly aka SoLilyKweez
 [TOC]
 
 
-# Who are we
+# Who we are
 
-As of now we are two elder trans people wanting to help our community. Co-creators of the box are Uma and Willow.
+Currently, we are two elder trans people who want to help our local community prosper. The current leads of the project are Uma and Willow; however, we are always looking to expand. If you are interested reach out to northalabamabaskets@gmail.com
 
 # Purpose of the Boxes
 
-These boxes are made to help those who have just started to figure out who they are. We want to assist those who have a hard time getting supplies for their firsts. Its impossibly hard to go into stores or venues alone to get essentals. With this it allows you to have a starting point. A beginnning to build off of to help you find your true self! 
+Our intention of the boxes are to support newer trans people in the community or those that do not have the funds to access basic gender transition related goods. It is often daunting, scary, and expensive to shop for the initial supplies. Our hope is with the boxes it will make it easier and more comfortable to start your gender transition journey.
 
-# Keep us Going
+# Helping Fund the Project
 
-Each box costs us roughly $50. If you are able to donate to us when you recive a box it would be extreamly helpful but NOT required. If you know someone who can give to help us keep these boxes going then please have them reach out to us. We love this community and want to see it grow and florish. Any help you can give to keeping us going is amazing! 
+It approximately costs 50$ to create a box. Currently, just Willow and Uma are funding the project to support their community. We would appreciate your support to help fund the boxes to further support our community. A donation is appreciated if you receive a box, but is absolutely not required. If you know of someone or you yourself are interested in supporting our project please email us at northalabamabaskets@gmail.com
 
 # Box Content
 
@@ -46,7 +46,7 @@ Here are two great reasorces to follow on this topic:
 [2]: https://wivov.com/transtape-manual/
 [box-flyer]: /theme/pdf/box_lists.pdf
 # Reach out 
-email us at blank@gmail.com with questions. 
+email us at northalabamabaskets@gmail.com with questions. 
 
 # Special Thanks
 Special thanks to 
