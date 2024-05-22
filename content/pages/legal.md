@@ -116,18 +116,19 @@ marker on your driver's license if you provide an updated birth certificate
 with your new gender marker. Thus, depending on your circumstances, it is
 possible to update your marker without GCS.
 
-Once you've updated your birth certificate, bring your <u>updated birth
-certificate</u> **and** <u>doctor's letter indicating medical transition</u> to
-the [Madison County Service Center DMV][6] (recommended) or
-[DMV on Church Street in Huntsville][4] (not recommended). Most DMVs cannot update your
-marker, but these offices are known to work and several people have successfully
-updated their markers at these locations. The offices have been known to reject
-people who don't bring both the doctor's letter and the updated birth
-certificate.
+Once you've updated your birth certificate (see below for alternatives), bring
+your <u>updated birth certificate</u> **and** <u>doctor's letter indicating
+medical transition</u> to the [Madison County Service Center DMV][6] or [DMV on
+Governors Drive in Huntsville][4]. Most DMVs cannot update your marker, but
+these offices are known to work and several people have successfully updated
+their markers at these locations. The offices have been known to reject people
+who don't bring both the doctor's letter and the updated birth certificate.
 
-In at least one case, it was possible to get an updated gender marker with an
-orchiectomy. This may also work for other gender-affirming surgeries too. This
-template letter on official office letterhead seems to work:
+In a few documented cases, it seems to be possible to get an updated gender
+marker on a license without changing birth certificate. This is done with a
+letter from your doctor after having _any_ gender affirming surgery.
+
+One example of a letter that worked:
 
 > To whom it may concern, 
 >
@@ -152,7 +153,7 @@ Another working template of a letter after top surgery:
 [3]: https://transequality.org/documents
 [4]: https://goo.gl/maps/iBaCjcz4RJnewRVL7
 [5]: https://www.maynardcooper.com/professionals/cynthia-g-lamar-hart/
-[6]: https://goo.gl/maps/nAhMgHMpu9gN6zsk8
+[6]: https://maps.app.goo.gl/nAAoCg1HegpbiKtp7
 [limestone]: https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf
 [madison]: https://www.madisoncountyal.gov/departments/probate-judge/areas-of-service/name-changes
 [morgan]: /pages/morgan-county.html
