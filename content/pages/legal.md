@@ -161,7 +161,7 @@ Another working template of a letter after top surgery:
 > female within the guidelines of the particular jurisdiction in which she
 > seeks to legally change her gender status from male to female.
 
-[1]: https://faq.ssa.gov/en-us/Topic/article/KA-01453
+[1]: https://www.ssa.gov/personal-record/change-sex-identification
 [2]: https://www.ssa.gov/forms/ss-5.pdf
 [3]: https://transequality.org/documents
 [4]: https://goo.gl/maps/iBaCjcz4RJnewRVL7
