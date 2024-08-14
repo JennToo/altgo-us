@@ -42,6 +42,12 @@ You may also need to specifically ask them to return your birth certificate.
 A community member has written [this more detailed
 guide](https://wiki.tris.fyi/FieldNotes/LegalName) which may be useful too.
 
+When completing the name change with Social Security, it is possible to 
+simultaneously update your gender marker with that office when submitting form
+SS-5 (see below Social Security section for details). This must be done eventually
+if changing gender marker with the state, and can be done with the SS office
+without medical documentation.
+
 ## Limestone county
 
 You'll need to fill out [a name change request form][limestone] and [schedule a
@@ -61,8 +67,17 @@ Please refer to [this page for details on the process in Morgan county][morgan].
 
 ## After the court order
 
-Once you have a court order for your name change, the first place to visit is
-Social Security. When you update with Social Security they will give you a
+Once you have a court order for your name change, [the first place to visit is
+Social Security][7]. 
+
+If you're able to print, you can save time by completing page 5 of [Form SS-5][2]
+in advance. At this stage, it is possible to simultaneously [update your gender marker][1] 
+with them when submitting Form SS-5 (see below Gender Marker section for details).
+This must be done eventually if changing your gender marker with the state, 
+and can be completed without providing any medical documentation. Checking 
+this box now may save you time later.
+
+When you update with Social Security they will give you a
 letter indicating that you requested changes. This letter is important, so hold
 on to it!
 
@@ -95,9 +110,10 @@ the state department][passport] for details.
 
 ## Social Security
 
-Refer to [this guide from the National Center for Transgender Equality][1].
+Refer to [this article from the Social Security Administration][1].
 Marker changes have been done successfully at both the Huntsville and Decatur
-Social Security office.
+Social Security office. The link to the form on their page is currently broken, 
+but you can find it here: [Application for a Social Security Card (Form SSA-5)][2].
 
 ## Birth Certificate
 
@@ -149,11 +165,13 @@ Another working template of a letter after top surgery:
 > female within the guidelines of the particular jurisdiction in which she
 > seeks to legally change her gender status from male to female.
 
-[1]: https://transequality.org/know-your-rights/social-security
+[1]: https://faq.ssa.gov/en-us/Topic/article/KA-01453
+[2]: https://www.ssa.gov/forms/ss-5.pdf
 [3]: https://transequality.org/documents
 [4]: https://goo.gl/maps/iBaCjcz4RJnewRVL7
 [5]: https://www.maynardcooper.com/professionals/cynthia-g-lamar-hart/
 [6]: https://maps.app.goo.gl/nAAoCg1HegpbiKtp7
+[7]: https://www.ssa.gov/personal-record/change-name
 [limestone]: https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf
 [madison]: https://www.madisoncountyal.gov/departments/probate-judge/areas-of-service/name-changes
 [morgan]: /pages/morgan-county.html
