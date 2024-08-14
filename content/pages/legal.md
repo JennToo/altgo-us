@@ -70,13 +70,12 @@ Social Security][7].
 If you're able to print, you can save time by completing page 5 of [Form SS-5][2]
 in advance. At this stage, it is possible to simultaneously [update your gender marker][1] 
 with them when submitting Form SS-5 (see below Gender Marker section for details).
-This must be done eventually if changing your gender marker with the state, 
+This must be done eventually if changing your gender marker, 
 and can be completed without providing any medical documentation. Checking 
 this box now may save you time later.
 
-When you update with Social Security they will give you a
-letter indicating that you requested changes. This letter is important, so hold
-on to it!
+When you update with Social Security they will give you a letter indicating that 
+you requested changes. This letter is important, so hold on to it!
 
 24 hours after updating with Social Security you can update your driver's
 license. Most DMVs should be able to change your name. Be sure to bring your
