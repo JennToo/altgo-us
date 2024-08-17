@@ -41,9 +41,6 @@ You may also need to specifically ask them to return your birth certificate.
 
 A community member has written [this more detailed
 guide](https://wiki.tris.fyi/FieldNotes/LegalName) which may be useful too.
-When completing the name change with Social Security, at this time it is possible to 
-simultaneously update your gender marker with them as well. See the "After
-the court order" section below for details.
 
 ## Limestone county
 
