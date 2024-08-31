@@ -45,6 +45,8 @@ phone = "256-258-7777"
 title = "Amy Player, MA, LPC-S, NBCC"
 city = "Huntsville"
 phone = "256-824-9823"
+website = "https://inspirationalcounseling.net/"
+email = "Amyplayer@therapist.net"
 
 [[therapy]]
 title = "Christin Player, ALC"
@@ -451,7 +453,7 @@ phone = "256-722-0555"
 [[hair-removal]]
 title = "Pearl Skin Aesthetics"
 city = "Huntsville"
-bullets = ["Laser hair removal"]
+bullets = ["Laser hair removal", "Electrolysis"]
 website = "https://psamedspa.com/"
 
 [[hair-removal]]
@@ -497,6 +499,12 @@ title = "Electrolysis and Skin Care By Marina"
 city = "Franklin"
 bullets = ["Electrolysis"]
 phone = "615-891-1302"
+
+[[hair-removal]]
+title = "Lyons Electrolysis"
+city = "Vestavia"
+website = "https://lyonselectrolysis.com/"
+bullets = ["Electrolysis (including surgery prep)"]
 
 # -------------------------------------------
 
@@ -715,6 +723,21 @@ title = "Beth - Hair Haven"
 city = "Huntsville"
 website = "https://www.hairhavenhuntsville.com/"
 
+[[hair]]
+title = "Creative Edge Salon"
+city = "Florence"
+website = "https://www.creative-edgesalon.com/"
+
+[[hair]]
+title = "Good Vibrations Barbershop"
+city = "Decatur"
+website = "https://www.instagram.com/goodvibrationsbarbershop?igsh=MTB1eXJkZjRmODNhNA=="
+
+[[hair]]
+title = "Mary"
+city = "Huntsville"
+website = "https://www.instagram.com/radicalroots_by_mary?igsh=MTFvaXlsNWhhcHpxZA=="
+
 # -------------------------------------------
 
 [[category]]
@@ -735,3 +758,8 @@ title = "Jerrika Jones - Prvidence Law Group"
 city = "Huntsville"
 phone = "256-489-0555"
 website = "https://www.providencelawgroupllc.com/"
+
+[[lawyer]]
+title = "Levi Alexander"
+city = "Madison"
+website = "https://legaljourneys.com/about-us/levi-alexander/"

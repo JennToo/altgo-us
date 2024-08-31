@@ -4,6 +4,15 @@ slug: groups-south
 description: A collection of transgender and non-binary support groups from southern Alabama
 ---
 
+# Montgomery Pride
+
+We are a safe space uniting the community and advocating for LGBTQ+ rights in
+Montgomery, Alabama since 2015.
+
+[Visit the website here][Montgomery]
+
+[Montgomery]: https://montgomeryprideunited.org/
+
 # TransAL
 
 <a href="https://www.mobpride.org/transal">

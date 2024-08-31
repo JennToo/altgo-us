@@ -17,3 +17,14 @@ Non profit LGBTQ student organization open to students and members of the commun
 [Instagram][https://www.instagram.com/fullspectrumjsu/]
 
 [MCAC]: https://www.magiccityacceptancecenter.org/
+
+# The T
+
+The T is a Birmingham greater area group exclusively for trans and gender
+diverse individuals 18 or over in the state of Alabama to support each other in
+all facets of life, with regular Friday night meetings both virtually, and on
+the first Friday of each month, in person.
+
+[Join the Discord group here][T]
+
+[T]: https://discord.com/invite/QGbGuzxx
