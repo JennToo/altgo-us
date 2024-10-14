@@ -158,6 +158,9 @@ Another working template of a letter after top surgery:
 > female within the guidelines of the particular jurisdiction in which she
 > seeks to legally change her gender status from male to female.
 
+There's some indication that these letters might no longer be sufficient. The
+letter may also need to specifically say "sex surgery transition is complete".
+
 [1]: https://www.ssa.gov/personal-record/change-sex-identification
 [2]: https://www.ssa.gov/forms/ss-5.pdf
 [3]: https://transequality.org/documents

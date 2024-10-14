@@ -224,6 +224,11 @@ city = "Decatur"
 phone = "256-542-1482"
 email = "Info@grandoakscounseling.com"
 
+[[therapy]]
+title = "Aj Bush"
+city = "Madison / Online"
+website = "https://www.psychologytoday.com/us/therapists/aj-bush-madison-al/1264678"
+
 # -------------------------------------------
 
 [[category]]
@@ -285,7 +290,7 @@ website = "http://www.magiccitywellnesscenter.org/"
 [[healthcare]]
 title = "UAB Gender Health Program"
 city = "Birmingham"
-website = "https://www.uabmedicine.org/patient-care/treatments/gender-health"
+website = "https://www.uabmedicine.org/specialties/gender-health/"
 phone = "205-975-2737"
 
 [[healthcare]]
@@ -360,6 +365,11 @@ city = "Madison"
 phone = "256-346-0126"
 website = "https://northalabamapsych.com/daniel-e-laeupple-md/"
 email = "drlaeuppleoffice@northalabamapsych.com"
+
+[[psychiatrist]]
+title = "Dr. Regina Doody"
+city = "Madison"
+website = "https://albehavioralhealth.com/"
 
 [[psychiatrist]]
 title = "Laura Graham MSN, CRNP, PMHNP-BC"
