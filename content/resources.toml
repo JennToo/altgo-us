@@ -535,13 +535,6 @@ slug = "surgeon"
 title = "Surgeons"
 
 [[surgeon]]
-title = "Dr. Paul Zbell"
-city = "Huntsville"
-bullets = ["Services: orchiectomy"]
-phone = "256-536-9020"
-website = "https://www.northalaurology.com/"
-
-[[surgeon]]
 title = "Dr. Joseph Pettus"
 city = "Huntsville"
 bullets = ["Services: orchiectomy"]
