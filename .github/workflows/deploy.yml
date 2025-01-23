@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: "3.10"
       - uses: abatilo/actions-poetry@v2.3.0
-      - run: poetry install
+      - run: poetry install --no-root
       - run: poetry run invoke build
       - run: openssl aes-256-cbc -salt -a -d -in deploy-key.enc -out deploy-key -k ${{ secrets.DEPLOY_KEY_PASS }}
       - run: chmod 600 ./deploy-key ./deploy-fingerprints
