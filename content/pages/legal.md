@@ -18,11 +18,8 @@ are also available][slides].
 
 A lawyer is generally not required when updating your documentation (except
 when attempting to change gender marker on an Alabama birth certificate).
-However, if you are having trouble with this process there are two legal firms
-we recommend:
+However, if you are having trouble with this process we recommend:
 
- - The Magic City Legal Center. You can email
-   [jrthomas@mclc-bao.org](mailto:jrthomas@mclc-bao.org)
  - [Maynard Cooper][5]
 
 # Changing your name
