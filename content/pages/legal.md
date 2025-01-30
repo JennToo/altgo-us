@@ -19,31 +19,16 @@ However, if you are having trouble with this process we recommend:
 
 # Changing your name
 
-The process for changing your name varies by county.
+The process for changing your name varies by county. The goal here is to 
+get a Court Order Changing Name, which you can then use to update other documents.
 
-A community member has created a good [guide for changing your 
-name][name-guide]. The guide was created for Madison County, but the
-process is similar for other counties. The goal here is to get a Court
-Order Changing Name, which you can then use to update other documents.
-
-If you live in a different county and are having trouble locating the
-name change forms, find your probate court’s website, or search for 
-“\<county> county probate court name change”. A [statewide form][al-name-change-form] 
-is also available, but you should make sure your county doesn’t have their 
-own form they prefer first.
-
-In some counties, you may need to schedule a hearing before the probate 
-judge to complete the name change. Check your local probate court office’s
-website for details, or give them a call.
-
-Once the name change is complete, you’ll end up with certified copies of
-the completed name change Court Order. They’ll have an embossed seal on 
-them from the probate court. 
-
-Hang onto these! You will need them later.
-
+There's specific info below for Madison, Limestone, and Morgan counties.
 
 ## Madison county
+
+A community member has created a good [guide for changing your name][name-guide]. 
+The guide was created for Madison County, but the process is similar for other
+counties. 
 
 You'll need to fill out [the appropriate paperwork][madison] and bring it to
 the Madison county probate office (which is in the Madison County Services
@@ -69,6 +54,23 @@ process typically only takes about a week to get scheduled.
 ## Morgan county
 
 Please refer to [this page for details on the process in Morgan county][morgan].
+
+## Other counties
+
+If you're having trouble locating your county's name change forms, find 
+your probate court’s website, or search for “\<county> county probate court 
+name change”. A [statewide form][al-name-change-form] is also available, but
+you should make sure your county doesn’t have their own form they prefer first.
+
+In some counties, you may need to schedule a hearing before the probate 
+judge to complete the name change. Check your local probate court office’s
+website for details, or give them a call.
+
+Once the name change is complete, you’ll end up with certified copies of
+the completed name change Court Order. They’ll have an embossed seal on 
+them from the probate court. 
+
+Hang onto these! You will need them later.
 
 ## After you get your court order
 
@@ -100,17 +102,21 @@ other places that know your name. Some important places to notify:
 
 # Updating your gender marker
 
-Following the letter of the law in Alabama, you must obtain a letter of
-transition from a medical provider to update the gender on your birth
-certificate. If you're at least on hormones and can get a letter from a 
-doctor or other provider, this process may be possible for you.
+Currently, having an updated birth certificate is the quickest way to change
+your gender marker on other legal docs (like your driver's license). If you're at 
+least on hormones and can get a letter from a doctor or other provider, this 
+process may be possible for you.
 
-At this time, Alabama does not offer a non-binary gender identification.
+At this time, Alabama does not offer a nonbinary gender identification.
 
 ## Birth Certificate
 
+Following the letter of the law in Alabama, you must obtain a letter of
+transition from a medical provider to update the gender on your birth
+certificate.
+
 If you have an Alabama birth certificate, [you can use this guide from ALTRAC 
-to update it without the use of a lawyer][gender-guide]. This has been proven 
+to update it without the use of a lawyer][gender-guide]. This has been proven
 to work in Madison County, and could potentially work in other counties.
 
 Morgan County will not process birth certificate changes. If you know of
@@ -126,7 +132,7 @@ an amended birth certificate.
 
 Once you've received certified copies of your amended birth certificate,
 you can bring one to an ALEA office at a DMV, service center, or other
-licensing office. Find a local office here(link)
+licensing office. [Find a local office here][alea-locator].
 
 If you've had "full" bottom surgery (excluding orchiectomy, etc) there is a 
 shorter path to changing the gender marker on your driver's license. Based on 
@@ -163,3 +169,4 @@ attempt to update one's gender marker with Social Security.
 [slides]: /extra_static/mclc-slides-2021.pdf
 [passport]: https://travel.state.gov/content/travel/en/passports/need-passport/selecting-your-gender-marker.html
 [passport-warning]: https://bsky.app/profile/aclu.org/post/3lgixjvnwm223
+[alea-locator]: https://www.alea.gov/dps/driver-license/driver-license-offices
