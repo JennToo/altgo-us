@@ -58,8 +58,8 @@ Please refer to [this page for details on the process in Morgan county][morgan].
 ## Other counties
 
 If you're having trouble locating your county's name change forms, find 
-your probate court’s website, or search for “\<county> county probate court 
-name change”. A [statewide form][al-name-change-form] is also available, but
+your probate court’s website, or search for "&lt;county&gt; county probate court 
+name change". A [statewide form][al-name-change-form] is also available, but
 you should make sure your county doesn’t have their own form they prefer first.
 
 In some counties, you may need to schedule a hearing before the probate 

@@ -20,8 +20,6 @@ SOCIAL = None
 
 DEFAULT_PAGINATION = False
 
-PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ["assets", "sitemap"]
 MARKDOWN = {
     "extension_configs": {
         "markdown.extensions.toc": {},
