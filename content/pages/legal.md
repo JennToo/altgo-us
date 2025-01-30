@@ -169,4 +169,4 @@ attempt to update one's gender marker with Social Security.
 [slides]: /extra_static/mclc-slides-2021.pdf
 [passport]: https://travel.state.gov/content/travel/en/passports/need-passport/selecting-your-gender-marker.html
 [passport-warning]: https://bsky.app/profile/aclu.org/post/3lgixjvnwm223
-[alea-locator]: https://www.alea.gov/dps/driver-license/driver-license-offices
+[alea-locator]: https://algeohub.maps.arcgis.com/apps/webappviewer/index.html?id=1b33c56f33dc4e62818b701ca84e1b92
