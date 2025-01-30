@@ -60,11 +60,14 @@ phone = "256-291-7221"
 website = "https://myaffinity.clientsecure.me/"
 
 [[therapy]]
-title = "Celia Mckechnie, MS, LPC, CTC"
+title = "Celia H. McKechnie, MS, LPC-S, TCT"
 city = "Huntsville"
-website = "https://www.counselingassociatesofhuntsville.com/about-us"
+website = "https://www.bigspring-cc.com/"
 phone = "256-400-1111"
-email = "celia@counselingassociatesofhuntsville.com"
+bullets = [
+    "Phone extension 5"
+]
+email = "BlackSheepCounselingServices@gmail.com"
 
 [[therapy]]
 title = "Laura Stisher, MS, LPC, CST"
@@ -228,6 +231,12 @@ email = "Info@grandoakscounseling.com"
 title = "Aj Bush"
 city = "Madison / Online"
 website = "https://www.psychologytoday.com/us/therapists/aj-bush-madison-al/1264678"
+
+[[therapy]]
+title = "Brittany Clifford LMFT"
+city = "Huntsville"
+phone = "256-686-9195"
+website = "https://www.luminouscounseling.org/"
 
 # -------------------------------------------
 
@@ -660,6 +669,11 @@ title = "Southern Trans Youth Emergency Project"
 city = "Statewide"
 website = "https://southernequality.org/styep/"
 
+[[misc-lgbt]]
+title = "Rocket City Roller Derby"
+city = "Huntsville"
+website = "https://rocketcityderby.com/"
+
 # -------------------------------------------
 
 [[category]]
@@ -735,6 +749,12 @@ website = "https://www.instagram.com/goodvibrationsbarbershop?igsh=MTB1eXJkZjRmO
 title = "Mary"
 city = "Huntsville"
 website = "https://www.instagram.com/radicalroots_by_mary?igsh=MTFvaXlsNWhhcHpxZA=="
+
+[[hair]]
+title = "Batty Barber"
+website = "https://batty-barber.square.site/"
+city = "Harvest"
+phone = "256-203-6571"
 
 # -------------------------------------------
 
