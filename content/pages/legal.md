@@ -12,21 +12,23 @@ the North Alabama transgender and non-binary community.
 
 # Lawyers
 
-[This presentation from the Magic City Legal Center][webinar] covers the
-process for name and gender marker changes, for adults and minors. [The slides
-are also available][slides].
-
-A lawyer is generally not required when updating your documentation (except
-when attempting to change gender marker on an Alabama birth certificate).
+A lawyer is generally not required when updating your documentation.
 However, if you are having trouble with this process we recommend:
 
  - [Maynard Cooper][5]
 
 # Changing your name
 
-The process for changing your name varies by county:
+The process for changing your name varies by county. The goal here is to 
+get a Court Order Changing Name, which you can then use to update other documents.
+
+There's specific info below for Madison, Limestone, and Morgan counties.
 
 ## Madison county
+
+A community member has created a good [guide for changing your name][name-guide]. 
+The guide was created for Madison County, but the process is similar for other
+counties. 
 
 You'll need to fill out [the appropriate paperwork][madison] and bring it to
 the Madison county probate office (which is in the Madison County Services
@@ -35,9 +37,6 @@ Center) along with the other documents listed on the forms.
 After a several weeks (~6 currently), the court order for name change will be mailed to you.
 
 You may also need to specifically ask them to return your birth certificate.
-
-A community member has written [this more detailed
-guide](https://wiki.tris.fyi/FieldNotes/LegalName) which may be useful too.
 
 ## Limestone county
 
@@ -56,7 +55,24 @@ process typically only takes about a week to get scheduled.
 
 Please refer to [this page for details on the process in Morgan county][morgan].
 
-## After the court order
+## Other counties
+
+If you're having trouble locating your county's name change forms, find 
+your probate court’s website, or search for “\<county> county probate court 
+name change”. A [statewide form][al-name-change-form] is also available, but
+you should make sure your county doesn’t have their own form they prefer first.
+
+In some counties, you may need to schedule a hearing before the probate 
+judge to complete the name change. Check your local probate court office’s
+website for details, or give them a call.
+
+Once the name change is complete, you’ll end up with certified copies of
+the completed name change Court Order. They’ll have an embossed seal on 
+them from the probate court. 
+
+Hang onto these! You will need them later.
+
+## After you get your court order
 
 Once you have a court order for your name change, [the first place to visit is
 Social Security][7]. 
@@ -86,77 +102,54 @@ other places that know your name. Some important places to notify:
 
 # Updating your gender marker
 
-In most circumstances, surgery is *not* required to update your legal gender
-markers. Hormone treatment or other steps indicating "medical transition" are
-usually required.
+Currently, having an updated birth certificate is the quickest way to change
+your gender marker on other legal docs (like your driver's license). If you're at 
+least on hormones and can get a letter from a doctor or other provider, this 
+process may be possible for you.
 
-As far as we are aware, no form of non-binary gender marker has been obtained
-on any official Alabama state documentation.
-
-## Passport
-
-Passport gender markers are entirely self-identified. Refer to [this guide from
-the state department][passport] for details.
-
-## Social Security
-
-Refer to [this article from the Social Security Administration][1].
-Marker changes have been done successfully at both the Huntsville and Decatur
-Social Security office. The link to the form on their page is currently broken, 
-but you can find it here: [Application for a Social Security Card (Form SSA-5)][2].
+At this time, Alabama does not offer a nonbinary gender identification.
 
 ## Birth Certificate
 
-If you were born in Alabama, there are a few lawyers in Birmingham that have
-helped several people update their birth certificates without requiring
-surgery. See the section about lawyers at the top of this page.
+Following the letter of the law in Alabama, you must obtain a letter of
+transition from a medical provider to update the gender on your birth
+certificate.
 
-If you were born outside Alabama, refer to [the specific guide for your
-state][3].
+If you have an Alabama birth certificate, [you can use this guide from ALTRAC 
+to update it without the use of a lawyer][gender-guide]. This has been proven
+to work in Madison County, and could potentially work in other counties.
+
+Morgan County will not process birth certificate changes. If you know of
+any other counties that claim to not have jurisdiction, please notify the
+team at gender@altrac.works.
+
+If you were born outside Alabama, refer to [the specific guide for your state][3].
 
 ## Alabama Driver's License
 
-According to ALEA's interpretation of Alabama law, proof of GCS is required to
-change the marker on you driver's license. However, ALEA will also update the
-marker on your driver's license if you provide an updated birth certificate
-with your new gender marker. Thus, depending on your circumstances, it is
-possible to update your marker without GCS.
+ALEA will update the gender marker on a driver's license when presented with
+an amended birth certificate.
 
-Once you've updated your birth certificate (see below for alternatives), bring
-your <u>updated birth certificate</u> **and** <u>doctor's letter indicating
-medical transition</u> to the [Madison County Service Center DMV][6] or [DMV on
-Governors Drive in Huntsville][4]. Most DMVs cannot update your marker, but
-these offices are known to work and several people have successfully updated
-their markers at these locations. The offices have been known to reject people
-who don't bring both the doctor's letter and the updated birth certificate.
+Once you've received certified copies of your amended birth certificate,
+you can bring one to an ALEA office at a DMV, service center, or other
+licensing office. [Find a local office here][alea-locator].
 
-In a few documented cases, it seems to be possible to get an updated gender
-marker on a license without changing birth certificate. This is done with a
-letter from your doctor after having _any_ gender affirming surgery.
+If you've had "full" bottom surgery (excluding orchiectomy, etc) there is a 
+shorter path to changing the gender marker on your driver's license. Based on 
+current ALEA policy, letters regarding other gender-affirming surgeries will 
+not be enough to change the gender marker with. The letter will need to be 
+from the surgeon and say that they "performed and completed" "gender 
+reassignment surgery".
 
-One example of a letter that worked:
+## Passport
 
-> To whom it may concern, 
->
-> [Name] is a patient under my care and on [date] she had a bilateral inguinal
-> orchiectomy gender reassignment performed and completed by me. There were no
-> complications during the procedure and the patient is doing well. 
->
-> If you have any questions, please let me know. 
->
->[Doctor’s signature]
+At this time (January 2025), [the ACLU is recommending that people not update
+the gender markers on their passports][passport-warning].
 
-Another working template of a letter after top surgery:
+## Social Security
 
-> [Name] has been a patient of mine since [Date]. Both psychological and
-> medical testing has been carried out to determine [Name]'s true gender and
-> they have undergone all necessary surgical treatment for the transition from
-> male to female on [Date]. This qualifies [Name] to be legally considered
-> female within the guidelines of the particular jurisdiction in which she
-> seeks to legally change her gender status from male to female.
-
-There's some indication that these letters might no longer be sufficient. The
-letter may also need to specifically say "sex surgery transition is complete".
+Similar to passports, it may not be a good idea at this time (January 2025) to
+attempt to update one's gender marker with Social Security.
 
 [1]: https://www.ssa.gov/personal-record/change-sex-identification
 [2]: https://www.ssa.gov/forms/ss-5.pdf
@@ -165,6 +158,9 @@ letter may also need to specifically say "sex surgery transition is complete".
 [5]: https://www.maynardcooper.com/professionals/cynthia-g-lamar-hart/
 [6]: https://maps.app.goo.gl/nAAoCg1HegpbiKtp7
 [7]: https://www.ssa.gov/personal-record/change-name
+[name-guide]: https://wiki.tris.fyi/FieldNotes/LegalName
+[gender-guide]: https://altrac.link/genderguide
+[al-name-change-form]: https://eforms.alacourt.gov/media/jtzbncuw/request-to-change-name.pdf
 [limestone]: https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf
 [madison]: https://www.madisoncountyal.gov/departments/probate-judge/areas-of-service/name-changes
 [morgan]: /pages/morgan-county.html
@@ -172,3 +168,5 @@ letter may also need to specifically say "sex surgery transition is complete".
 [webinar]: https://www.youtube.com/watch?v=AUUpITEDx-o&t=301s
 [slides]: /extra_static/mclc-slides-2021.pdf
 [passport]: https://travel.state.gov/content/travel/en/passports/need-passport/selecting-your-gender-marker.html
+[passport-warning]: https://bsky.app/profile/aclu.org/post/3lgixjvnwm223
+[alea-locator]: https://algeohub.maps.arcgis.com/apps/webappviewer/index.html?id=1b33c56f33dc4e62818b701ca84e1b92
