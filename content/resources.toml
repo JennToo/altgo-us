@@ -238,6 +238,18 @@ city = "Huntsville"
 phone = "256-686-9195"
 website = "https://www.luminouscounseling.org/"
 
+[[therapy]]
+title = "Auburn University Psychological Services Center"
+city = "Auburn"
+phone = "334-844-4889"
+email = "aupsc@auburn.edu"
+website = "https://cla.auburn.edu/psychological-sciences/aupsc"
+
+[[therapy]]
+title = "Auburn University Marriage and Family Therapy Center"
+city = "Auburn"
+website = "https://www.mftcenter.auburn.edu/"
+
 # -------------------------------------------
 
 [[category]]
@@ -525,6 +537,12 @@ city = "Vestavia"
 website = "https://lyonselectrolysis.com/"
 bullets = ["Electrolysis (including surgery prep)"]
 
+[[hair-removal]]
+title = "Aesthetica Montgomery"
+city = "Montgomery"
+bullets = ["Laser hair removal"]
+website = "https://aestheticamontgomery.com/"
+
 # -------------------------------------------
 
 [[category]]
@@ -643,6 +661,16 @@ city = "Alabama"
 website = "https://www.tkosociety.org/"
 
 [[misc-lgbt]]
+title = "Pride on the Plains"
+city = "Auburn"
+website = "https://linktr.ee/prideontheplains"
+
+[[misc-lgbt]]
+title = "PFLAG Auburn"
+city = "Auburn"
+website = "https://www.facebook.com/auburnpflag"
+
+[[misc-lgbt]]
 title = "Brit Horton"
 city = "Huntsville"
 email = "brit.e.horton@gmail.com"
@@ -755,6 +783,16 @@ title = "Batty Barber"
 website = "https://batty-barber.square.site/"
 city = "Harvest"
 phone = "256-203-6571"
+
+[[hair]]
+title = "The Lee Tones"
+city = "Columbus"
+website = "https://www.theleetones.com/"
+
+[[hair]]
+title = "Huntsville Hair Fairy"
+city = "Huntsville"
+website = "https://square.site/book/BXVPPAKMD5W1P/huntsville-hair-fairy"
 
 # -------------------------------------------
 
