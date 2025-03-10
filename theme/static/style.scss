@@ -3,95 +3,25 @@ $trans-blue: #5bcefa;
 $trans-blue-text: #51b1d4;
 $contrasting-background: #eee;
 
+//
+// Generic elements
+//
+
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#top-bar,
-#bottom-bar {
-    width: 100%;
-}
-
-.blue-bar,
-.pink-bar {
-    width: 100%;
-    height: 2em;
-    padding: 0;
-    margin: 0;
-}
-
-.blue-bar {
-    background-color: $trans-blue;
-}
-
-.pink-bar {
-    background-color: $trans-pink;
-}
-
-.index-body {
     display: flex;
-    align-items: center;
     flex-direction: column;
-}
-
-#page-body {
-    padding-left: 3em;
-    padding-right: 3em;
-}
-
-#inner-body {
-    padding: 2.5em;
-}
-
-@media only screen and (max-width: 1000px) {
-    #page-body {
-        width: initial;
-        padding-left: initial;
-    }
-
-    #inner-body {
-        padding: 1em;
-    }
-
-    nav {
-        flex-direction: column;
-    }
-}
-
-.nav-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-
-.nav-grid .grid-item {
-    text-align: center;
-    display: block;
-    font-size: 1.2em;
-    margin: 1em;
-    width: 128px;
-
-    color: black;
-    text-decoration: none;
-    font-weight: bold;
-    line-height: 1.2;
-}
-
-.nav-grid img {
-    width: 128px;
-}
-
-.nav-grid span {
-    display: block;
+    height: 100vh;
+    width: 100;
+    margin: 0 auto;
+    padding: 0 auto;
+	min-height: 100vh;
 }
 
 h1 {
     border-bottom-style: solid;
     border-color: #ccc;
     border-bottom-width: thin;
-    padding-bottom: 0.2em;
+    padding-bottom: 0.5rem;
 }
 
 a,
@@ -103,63 +33,6 @@ a:hover {
     color: $trans-pink;
 }
 
-img {
-    max-width: 100%;
-}
-
-html,
-body {
-    height: 100%;
-}
-body {
-    display: flex;
-    flex-direction: column;
-}
-#inner-body {
-    flex: 1 0 auto;
-}
-#bottom-bar,
-#top-bar {
-    flex-shrink: 0;
-}
-
-li {
-    margin-bottom: 0.25em;
-}
-
-nav {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-nav a {
-    padding-right: 1.5em;
-    padding-left: 1.5em;
-    text-decoration: none;
-    font-size: 1.5em;
-}
-
-.email,
-.website {
-    word-break: break-all;
-}
-
-.resource {
-    padding: 1em;
-}
-
-.resource-label {
-    font-weight: bold;
-}
-
-.resource-title {
-    font-size: 1.5em;
-}
-
-.resource:nth-child(even) {
-    background-color: $contrasting-background;
-}
-
 blockquote {
     background-color: #ddd;
     border-left-color: gray;
@@ -168,4 +41,140 @@ blockquote {
     padding: 2pt;
     padding-left: 8pt;
     font-style: italic;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    margin-bottom: 0.25rem;
+}
+
+nav {
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding-bottom: 1rem;
+
+    a {
+        padding-right: 1rem;
+        font-size: 1.5rem;
+    }
+}
+
+//
+// Layout
+//
+
+#top-bar,
+#bottom-bar {
+    width: 100%;
+}
+
+.blue-bar,
+.pink-bar {
+    width: 100%;
+    height: 2rem;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+.blue-bar {
+    background-color: $trans-blue;
+}
+
+.pink-bar {
+    background-color: $trans-pink;
+}
+
+#page-body {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+#inner-body {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    flex: 1 0 auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+#bottom-bar,
+#top-bar {
+    flex-shrink: 0;
+}
+
+//
+// Homepage icons
+//
+
+.nav-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.nav-grid .grid-item {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 1rem;
+    font-weight: bold;
+    display: block;
+}
+
+.nav-grid img {
+    width: 8rem;
+}
+
+.nav-grid span {
+    display: block;
+}
+
+//
+// Resources
+//
+
+.email,
+.website {
+    word-break: break-all;
+}
+
+.resource {
+    padding: 1rem;
+}
+
+.resource-label {
+    font-weight: bold;
+}
+
+.resource-title {
+    font-size: 1.5rem;
+}
+
+.resource:nth-child(even) {
+    background-color: $contrasting-background;
+}
+
+//
+// Scaling
+//
+
+@media only screen and (max-width: 1000px) {
+    #page-body {
+        width: initial;
+        padding-left: initial;
+    }
+
+    #inner-body {
+        padding: 1rem;
+    }
+
+    nav {
+        flex-direction: column;
+    }
 }
