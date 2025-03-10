@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "nitori_org"
 version = "0.1.0"
-description = ""
+description = "Website for Alabama's Transgender and Gender Diversity Organizations."
 authors = ["Jennifer Wilcox <jennifer@nitori.org>"]
 package-mode = false
 
