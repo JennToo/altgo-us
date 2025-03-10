@@ -2,6 +2,7 @@ $trans-pink: #f5a9b8;
 $trans-blue: #5bcefa;
 $trans-blue-text: #51b1d4;
 $contrasting-background: #eee;
+$contrasting-background-dark: #2e2e2e;
 
 //
 // Generic elements
@@ -14,7 +15,7 @@ body {
     width: 100;
     margin: 0 auto;
     padding: 0 auto;
-	min-height: 100vh;
+    min-height: 100vh;
 }
 
 h1 {
@@ -31,16 +32,6 @@ a:visited {
 
 a:hover {
     color: $trans-pink;
-}
-
-blockquote {
-    background-color: #ddd;
-    border-left-color: gray;
-    border-left-width: 4pt;
-    border-left-style: solid;
-    padding: 2pt;
-    padding-left: 8pt;
-    font-style: italic;
 }
 
 img {
@@ -176,5 +167,20 @@ nav {
 
     nav {
         flex-direction: column;
+    }
+}
+
+//
+// Dark mode
+//
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: whitesmoke;
+        background-color: #1f1f1f;
+    }
+
+    .resource:nth-child(even) {
+        background-color: $contrasting-background-dark;
     }
 }
