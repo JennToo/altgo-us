@@ -16,7 +16,8 @@ We are mostly comprised of people from North Alabama and the surrounding areas, 
 
 # ALTRAC - Political Action Group
 
-[<img src="/extra_static/altrac-logo.png" width="50%" />][altrac-logo]
+<!-- commented out until hunter gives me an updated altrac banner -->
+<!-- [<img src="/extra_static/altrac-logo.png" width="50%" />][altrac-logo] -->
 
 The Alabama Transgender Rights Action Coalition is an entirely volunteer-run organization founded in Alabama.
 

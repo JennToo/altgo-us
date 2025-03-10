@@ -180,7 +180,18 @@ nav {
         background-color: #1f1f1f;
     }
 
+    h1 {
+        border-color: gray;
+    }
+
     .resource:nth-child(even) {
         background-color: $contrasting-background-dark;
+    }
+
+    // This is a NASTY way to invert our images
+    // without breaking things by converting them to SVG currently
+    // (it's also because I'm really lazy and bad at this) - Espi
+    .color-invertible {
+        filter: invert(100%);
     }
 }
