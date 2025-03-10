@@ -23,15 +23,15 @@ The Alabama Transgender Rights Action Coalition is an entirely volunteer-run org
 Its mission is to build a better future for queer and transgender people in Alabama by creating resources and
 tools to help people be engaged politically and to effectively connect with their legislators.
 
-[For more information, refer to the ALTRAC website][altrac-website]
+[For more information, refer to the ALTRAC website.][altrac-website]
 
 # Regional Groups
 
 There are many online and in-person support groups focusing on specific regions of Alabama.
 
--   North Alabama: [Huntsville / Madison / Decatur / Athens area][group-north]
--   Central Alabama: [Birmingham area][group-central]
--   South Alabama: [Mobile area][group-south]
+-   [North Alabama][group-north] (Huntsville / Madison / Decatur / Athens / Florence)
+-   [Central Alabama][group-central] (Birmingham / Homewood / Hoover / Gadsden / Tuscaloosa)
+-   [South Alabama][group-south] (Montgomery / Auburn / Mobile / Dothan / Enterprise / Gulf Coast)
 
 [tna-discord-logo]: https://discord.gg/3a9uxjwvbd "The Trans North Alabama logo, a rocket in the colors of the trans flag"
 [tna-discord-invite]: https://discord.gg/3a9uxjwvbd "Discord Invite to the Trans North Alabama Discord server"

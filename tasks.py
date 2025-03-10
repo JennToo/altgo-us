@@ -42,7 +42,7 @@ def generate_resources():
 RESOURCES_HEADER = """---
 title: Local Resources
 slug: local-resources
-description: A collection of Alabama businesses and services friendly to people falling under the transgender umbrella.
+description: A collection of Alabama businesses and services friendly to people included in the transgender umbrella.
 ---
 
 All service providers listed below have been visited by a local member of the

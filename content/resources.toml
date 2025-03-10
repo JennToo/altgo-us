@@ -30,7 +30,7 @@ title = "UAH Counseling Center - University of Alabama in Huntsville"
 city = "Huntsville"
 bullets = [
     "The UAH Counseling Center offers a wide array of services to students currently enrolled in at last 3 credit hours, including individual sessions, groups and crisis appointments.",
-    "Groups include Art Therapy, Anxiety/Depression coping strategies, social skills for students on the Autism Spectrum, and a group specifically for young black men who identify as gay or bi. "
+    "Groups include Art Therapy, Anxiety/Depression coping strategies, social skills for students on the Autism Spectrum, and a group specifically for young black men who identify as gay or bi. ",
 ]
 phone = "256-824-6203"
 
@@ -64,9 +64,7 @@ title = "Celia H. McKechnie, MS, LPC-S, TCT"
 city = "Huntsville"
 website = "https://www.bigspring-cc.com/"
 phone = "256-400-1111"
-bullets = [
-    "Phone extension 5"
-]
+bullets = ["Phone extension 5"]
 email = "BlackSheepCounselingServices@gmail.com"
 
 [[therapy]]
@@ -90,10 +88,7 @@ phone = "256-444-5511"
 [[therapy]]
 title = "Natalie Harrison, Ph.D."
 city = "Birmingham"
-bullets = [
-    "DBT (groups and individual)",
-    "Can do sessions remotely"
-]
+bullets = ["DBT (groups and individual)", "Can do sessions remotely"]
 website = "https://www.birminghampsychologygroup.com/dr-natalie-harrison"
 
 [[therapy]]
@@ -131,11 +126,7 @@ website = "https://www.hsvpcs.com/monretta/"
 title = "Dr. Erin M Smith"
 city = "Madison"
 phone = "256-774-7100"
-bullets = [
-    "Clinical psychologist",
-    "Adult ADHD assessment",
-    "Surgery letters",
-]
+bullets = ["Clinical psychologist", "Adult ADHD assessment", "Surgery letters"]
 
 [[therapy]]
 title = "Alexandra Baugh, MEd, LPC, NCC"
@@ -143,9 +134,7 @@ city = "Hoover"
 website = "http://emberembodiedwellness.com/"
 phone = "205-618-8552"
 email = "alexandra@emberembodied.com"
-bullets = [
-    "HRT and Surgery letters",
-]
+bullets = ["HRT and Surgery letters"]
 
 [[therapy]]
 title = "Debbie Duquette, LICSW"
@@ -206,7 +195,7 @@ title = "Unity Walker M.Ed., Ph.D., NCC., ALC"
 city = "Madison"
 phone = "615-777-9303"
 email = "Christina@bsacounseling.com"
-website= "https://www.bsacounseling.com"
+website = "https://www.bsacounseling.com"
 
 [[therapy]]
 title = "Melissa Stillman, LPC"
@@ -269,7 +258,7 @@ city = "Decatur"
 bullets = [
     "Patients see Stephanie Williams, the nurse practitioner",
     "Will start or continue HRT for patients with a letter from a mental health professional",
-    "Also offers general practice services"
+    "Also offers general practice services",
 ]
 phone = "256-340-5150"
 
@@ -289,7 +278,7 @@ city = "Huntsville"
 bullets = [
     "Will start or continue HRT for patients with a letter from a mental health professional",
     "Also offers general practice services",
-    "Patients must be 21 years or older"
+    "Patients must be 21 years or older",
 ]
 phone = "256-883-0107"
 website = "https://www.blossomwoodmedical.com/"
@@ -310,7 +299,7 @@ title = "Magic City Wellness Center"
 city = "Birmingham"
 bullets = [
     "Will start HRT for patients with a letter from a mental health professional",
-    "Also offers general practice services"
+    "Also offers general practice services",
 ]
 phone = "205-877-8677"
 website = "http://www.magiccitywellnesscenter.org/"
@@ -326,7 +315,7 @@ title = "Queer Med"
 city = "Online/Atlanta"
 bullets = [
     "Services are primarily online, so should be accessible anywhere in the state of Alabama",
-    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)"
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
 ]
 website = "https://queermed.com/"
 
@@ -335,7 +324,7 @@ title = "Folx"
 city = "Online"
 bullets = [
     "Services are primarily online, so should be accessible anywhere in the state of Alabama",
-    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)"
+    "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
 ]
 website = "https://www.folxhealth.com/"
 
@@ -344,7 +333,7 @@ title = "Planned Parenthood"
 city = "Nashville"
 bullets = [
     "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
-    "Open on 2 Saturdays per month in addition to weekdays"
+    "Open on 2 Saturdays per month in addition to weekdays",
 ]
 phone = "866-711-1717"
 website = "https://www.plannedparenthood.org/health-center/tennessee/nashville/37203/nashville-health-center-2716-91550"
@@ -354,7 +343,7 @@ title = "Vine Hill Community Clinic"
 city = "Nashville"
 bullets = [
     "Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
-    "**Will not accept patients from outside of Tennessee!**"
+    "**Will not accept patients from outside of Tennessee!**",
 ]
 phone = "615-292-9770"
 website = "https://www.connectus.org/transgender-health"
@@ -433,11 +422,7 @@ title = "Domestic and Sexual Violence Resources"
 [[dsv]]
 title = "Crisis Services of North Alabama"
 city = "Huntsville, Madison"
-bullets = [
-    "Crisis center",
-    "DV / SV support groups",
-    "Court advocacy"
-]
+bullets = ["Crisis center", "DV / SV support groups", "Court advocacy"]
 phone = "256-716-1000"
 website = "https://csna.org/"
 
@@ -452,9 +437,7 @@ title = "Center For Speech and Language"
 city = "Huntsville"
 phone = "256-533-3314"
 website = "https://www.centerforspeech.net/"
-bullets = [
-    "They may require referrals",
-]
+bullets = ["They may require referrals"]
 
 [[voice]]
 title = "UAB Gender Health Program"
@@ -578,9 +561,7 @@ website = "https://www.northalaurology.com/"
 [[surgeon]]
 title = "Dr. Jordan Hamilton"
 city = "Huntsville"
-bullets = [
-    "Services: hysterectomy, post-op annual checkups",
-]
+bullets = ["Services: hysterectomy, post-op annual checkups"]
 phone = "256-265-4462"
 
 [[surgeon]]
@@ -588,7 +569,7 @@ title = "Dr. William Hedden"
 city = "Birmingham"
 bullets = [
     "Services: breast augmentation",
-    "Practice is Hedden and Gunn Plastic Surgery"
+    "Practice is Hedden and Gunn Plastic Surgery",
 ]
 phone = "205-980-1744"
 
@@ -615,9 +596,7 @@ phone = "615-538-3668"
 [[surgeon]]
 title = "Sharon Callison, MD, FACOG"
 city = "Huntsville"
-bullets = [
-    "Trans-friendly OBGYN"
-]
+bullets = ["Trans-friendly OBGYN"]
 website = "https://www.tvobgyn.com/sharon-callison-md"
 phone = "256-964-8947"
 
@@ -633,7 +612,7 @@ city = "Huntsville"
 bullets = [
     "General physical therapy",
     "Pelvic floor therapy",
-    "Post-op physical therapy"
+    "Post-op physical therapy",
 ]
 email = "sharose@rosepelvicphysio.com"
 website = "https://www.rosepelvicphysio.com/"
@@ -653,7 +632,7 @@ website = "https://www.mobpride.org/"
 [[misc-lgbt]]
 title = "TKO Society"
 bullets = [
-    "The Knights and Orchids Society builds the power of TLGB+ Black people across the South by providing a spectrum of health and wellness services. "
+    "The Knights and Orchids Society builds the power of TLGB+ Black people across the South by providing a spectrum of health and wellness services. ",
 ]
 city = "Alabama"
 website = "https://www.tkosociety.org/"
@@ -672,9 +651,7 @@ website = "https://www.facebook.com/auburnpflag"
 title = "Brit Horton"
 city = "Huntsville"
 email = "brit.e.horton@gmail.com"
-bullets = [
-    "Ordained minister"
-]
+bullets = ["Ordained minister"]
 
 [[misc-lgbt]]
 title = "The Platinum Koi Tattoo Studio"
@@ -686,9 +663,7 @@ website = "https://theplatinumkoi.com"
 title = "Tamitha Broadway - Perdita Beauty"
 city = "Huntsville"
 email = "tbroadway@perditabeauty.com"
-bullets = [
-    "Post-op medical tattoos"
-]
+bullets = ["Post-op medical tattoos"]
 
 [[misc-lgbt]]
 title = "Southern Trans Youth Emergency Project"
@@ -808,9 +783,7 @@ title = "Levi Alexander"
 city = "Madison"
 website = "https://www.legaljourneys.com"
 phone = "256-850-3431"
-bullets = [
-    "Estate planning"
-]
+bullets = ["Estate planning"]
 
 [[lawyer]]
 title = "Jerrika Jones - Providence Law Group"

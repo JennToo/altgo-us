@@ -1,30 +1,34 @@
 ---
-title: Support Groups for Central Alabama
+title: Central Alabama Support Groups
 slug: groups-central
-description: A collection of transgender and non-binary support groups from central Alabama
+description: A collection of support groups in Central Alabama for those included in the transgender umbrella.
 ---
 
 # Magic City Acceptance Center
 
-[<img src="/extra_static/mcac-logo.webp" width="901" />][MCAC]
+[<img src="/extra_static/mcac-logo.png" width="50%" />][mcac-website]
 
-[MCAC Website][MCAC]
+The Magic City Acceptance Center (MCAC) is most well-known for their youth programs
+for folk between the ages of 13-20, but they also provide services for children, adults, and families.
+
+In addition to their in-person programs, they also offer state-wide virtual
+programs and professional cultural humility workshops and training for
+businesses, non-profits, educators, and organizations.
+
+[Magic City Acceptance Center's Website][mcac-website]
 
 # Full Spectrum JSU
 
-Non profit LGBTQ student organization open to students and members of the community!
+A non-profit LGBTQ student organization open to JSU students and
+members of the community.
 
-[Instagram][https://www.instagram.com/fullspectrumjsu/]
+[Full Spectrum JSU on Instagram][fullspectrum-jsu]
 
-[MCAC]: https://www.magiccityacceptancecenter.org/
+# Birmingham LGBT
 
-# The T
+[Birmingham LGBT][birmingham-lgbt] lists various social and peer support
+groups in the Birmingham and surrounding areas.
 
-The T is a Birmingham greater area group exclusively for trans and gender
-diverse individuals 18 or over in the state of Alabama to support each other in
-all facets of life, with regular Friday night meetings both virtually, and on
-the first Friday of each month, in person.
-
-[Join the Discord group here][T]
-
-[T]: https://discord.com/invite/QGbGuzxx
+[mcac-website]: https://www.magiccityacceptancecenter.org/ "Magic City Acceptance Center"
+[fullspectrum-jsu]: https://www.instagram.com/fullspectrumjsu "Full Spectrum JSU on Instagram"
+[birmingham-lgbt]: https://blgbt.org/community-groups/ "Birmingham LGBT's website"

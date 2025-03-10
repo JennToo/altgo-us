@@ -1,6 +1,6 @@
-$trans-pink: #F5A9B8;
-$trans-blue: #5BCEFA;
-$trans-blue-text: #51B1D4;
+$trans-pink: #f5a9b8;
+$trans-blue: #5bcefa;
+$trans-blue-text: #51b1d4;
 $contrasting-background: #eee;
 
 body {
@@ -9,11 +9,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#top-bar, #bottom-bar {
+#top-bar,
+#bottom-bar {
     width: 100%;
 }
 
-.blue-bar, .pink-bar {
+.blue-bar,
+.pink-bar {
     width: 100%;
     height: 2em;
     padding: 0;
@@ -36,7 +38,7 @@ body {
 
 #page-body {
     padding-left: 3em;
-    width: 75%;
+    padding-right: 3em;
 }
 
 #inner-body {
@@ -50,7 +52,7 @@ body {
     }
 
     #inner-body {
-        padding: 1.0em;
+        padding: 1em;
     }
 
     nav {
@@ -92,7 +94,8 @@ h1 {
     padding-bottom: 0.2em;
 }
 
-a, a:visited {
+a,
+a:visited {
     color: $trans-blue-text;
 }
 
@@ -104,9 +107,10 @@ img {
     max-width: 100%;
 }
 
-html, body {
+html,
+body {
     height: 100%;
-  }
+}
 body {
     display: flex;
     flex-direction: column;
@@ -114,7 +118,8 @@ body {
 #inner-body {
     flex: 1 0 auto;
 }
-#bottom-bar, #top-bar {
+#bottom-bar,
+#top-bar {
     flex-shrink: 0;
 }
 
@@ -134,7 +139,8 @@ nav a {
     font-size: 1.5em;
 }
 
-.email, .website {
+.email,
+.website {
     word-break: break-all;
 }
 
