@@ -17,7 +17,6 @@ toml = "^0.10.2"
 cssmin = "^0.2.0"
 pelican-sitemap = "^1.2.0"
 
-
 [tool.poetry.dev-dependencies]
 black = "*"
 

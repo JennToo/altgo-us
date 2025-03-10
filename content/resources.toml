@@ -593,15 +593,6 @@ bullets = [
 phone = "205-980-1744"
 
 [[surgeon]]
-title = "UAB Gender Health Program"
-city = "Birmingham"
-bullets = [
-    "Top surgery"
-]
-website = "https://www.uabmedicine.org/patient-care/treatments/gender-health"
-phone = "205-975-2737"
-
-[[surgeon]]
 title = "Dr. J. Patrick Selph"
 city = "Nashville"
 bullets = [
