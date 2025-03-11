@@ -1,7 +1,7 @@
 ---
 title: Support Groups
 slug: support-groups
-description: A collection of support groups for transgender, nonbinary, and gender nonconforming Alabamians
+description: A collection of support groups in Alabama supporting those in the transgender umbrella.
 ---
 
 # Trans North Alabama - Adult Discord Server (18+)
@@ -10,7 +10,7 @@ description: A collection of support groups for transgender, nonbinary, and gend
 
 A safe space for transgender, nonbinary, and gender questioning adults 18 years and older.
 
-We are mostly comprised of people from North Alabama and the surrounding areas, but others are welcome as well!
+We are mostly comprised of people from Alabama and the surrounding areas, but others are welcome as well!
 
 [Join Trans North Alabama on Discord!][tna-discord-invite]
 
