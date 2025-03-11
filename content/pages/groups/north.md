@@ -4,15 +4,13 @@ slug: groups-north
 description: A collection of support groups in North Alabama for those included in the transgender umbrella.
 ---
 
-# Trans North Alabama - Adult Support Group (Huntsville, 18+)
+# Trans North Alabama - Adult Support Group (Huntsville)
 
 [<img src="/extra_static/tna-logo.png" width="50%" />][tna-discord]
 
 This group is hosted in Huntsville and meets several times per month. We
 welcome all adult transgender, nonbinary, and gender nonconfirming people regardless of
-their physical or social state of transition.
-
-- **You must be 18 or older to attend.**
+their physical or social state of transition. You must be 18 or older to attend.
 
 Group meetings are an opportunity for members to discuss whatever is on their
 mind as well as providing a safe space to explore gender expression without fear of judgement.

@@ -1,13 +1,13 @@
 ---
 title: Legal Help
 slug: legal
-description: Guides for changing your name, gender markers, and more in Alabama.
+description: Guides for changing your name and gender markers in Alabama.
 ---
 
 [TOC]
 
 These guides are not written by lawyers, nor should they be interpreted as legal advice.
-They are based on the personal experiences of many members of the queer North Alabama community.
+They are based on the personal experiences of many members of the Alabama trans community.
 
 # Lawyers
 
@@ -94,7 +94,6 @@ Once you've got a new ID, you can start elsewhere. Some important places:
 - Your health insurance company
 - Your school or university
 - Doctors and/or medical providers
-- Your local post office (setup mail forwarding!)
 - And many more (it's amazing how many people know your name).
 
 # Updating your gender marker
@@ -102,7 +101,7 @@ Once you've got a new ID, you can start elsewhere. Some important places:
 Currently, having an updated birth certificate is the quickest way to change your gender marker on other legal documents.
 
 - If you're at least on hormones and can get a letter from a doctor or other provider, this process may be possible.
-- As of January 2025, Alabama does not offer a nonbinary or third gender identification option.
+- Alabama does not offer a nonbinary or third gender identification option.
 
 ## Birth Certificate
 
