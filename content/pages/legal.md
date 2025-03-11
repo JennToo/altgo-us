@@ -107,7 +107,8 @@ Currently, having an updated birth certificate is the quickest way to change you
 
 You **must** obtain a letter of transition from a medical provider to update the gender on your birth certificate.
 
-- If you have an Alabama birth certificate, [a guide is provided by ALTRAC to update it without a lawyer][altrac-genderguide].
+If you have an Alabama birth certificate, [a guide is provided by ALTRAC to update it without a lawyer][altrac-genderguide].
+
 - This has been proven to work in Madison County, and **could** potentially work in other counties.
 
 Morgan County will not process birth certificate changes.

@@ -1,7 +1,7 @@
 ---
 title: Morgan County Name Change Process
 slug: morgan-county
-description: Guide for legally changing your name in Morgan County, Alabama
+description: Guide for legally changing your name in Morgan County, Alabama.
 ---
 
 # Morgan County Name Change Process
@@ -30,9 +30,9 @@ It is a good reference to have, however it is incorrect and incomplete.
 
 1. Obtain 2 copies of your fingerprints on FBI Blue Cards at the [Morgan County Sheriff's Office][morgancounty-sheriff].
 
-   - There is a $20.00 fee, **cash is only accepted**.
+   - There is a $20.00 fee, **only cash is accepted**.
 
-2. Print and fillthe following forms:
+2. Print and fill the following forms:
 
    - [ALEA background check][form-alea]
    - [FBI background check][form-fbi]

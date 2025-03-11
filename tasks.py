@@ -3,14 +3,12 @@ import toml
 import os
 
 
-# serve a local development server
 @task
 def serve(c):
     generate_resources()
     re_exec("pelican content -l -r -t theme -b 0.0.0.0")
 
 
-# build content
 @task
 def build(c):
     generate_resources()
@@ -23,7 +21,6 @@ def re_exec(cmd):
     os.execvp(args[0], args)
 
 
-# generate static resources
 def generate_resources():
     os.makedirs("content/pages/generated", exist_ok=True)
     with open("content/resources.toml", "r") as f:
@@ -62,7 +59,6 @@ RESOURCES_FOOTER = """
 """
 
 
-# renders resources
 def render_resource(resource):
     bullets = render_contact(resource) + resource.get("bullets", [])
     squashed = "\n".join(f"<li>{bullet}</li>" for bullet in bullets)
@@ -79,13 +75,11 @@ def render_resource(resource):
 def render_contact(resource):
     contents = []
 
-    # append websites
     if "website" in resource:
         contents.append(f"""
             <span class="resource-label">Website:</span> <a href="{resource["website"]}" class="website">{resource["website"]}</a>
         """)
 
-    # append phone numbers
     if "phone" in resource:
         phone: str = resource["phone"]
         formatted = "(" + phone.replace("-", ") ", 1)
@@ -93,7 +87,6 @@ def render_contact(resource):
             <span class="resource-label">Phone Number:</span> <a href="tel:{phone}">{formatted}</a>
         """)
 
-    # append emails
     if "email" in resource:
         contents.append(f"""
             <span class="resource-label">Email:</span> <a href="mailto:{resource["email"]}" class="email">{resource["email"]}</a>
