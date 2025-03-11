@@ -9,121 +9,136 @@ $contrasting-background-dark: #2e2e2e;
 //
 
 body {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    width: 100;
-    margin: 0 auto;
-    padding: 0 auto;
-    min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	width: 100;
+	margin: 0 auto;
+	padding: 0 auto;
+	min-height: 100vh;
 }
 
 h1 {
-    border-bottom-style: solid;
-    border-color: #ccc;
-    border-bottom-width: thin;
-    padding-bottom: 0.5rem;
+	border-bottom-style: solid;
+	border-color: #ccc;
+	border-bottom-width: thin;
+	padding-bottom: 0.5rem;
 }
 
 a,
 a:visited {
-    color: $trans-blue-text;
+	color: $trans-blue-text;
 }
 
 a:hover {
-    color: $trans-pink;
+	color: $trans-pink;
 }
 
 img {
-    max-width: 100%;
+	max-width: 100%;
 }
 
 li {
-    margin-bottom: 0.25rem;
+	margin-bottom: 0.25rem;
 }
 
 nav {
-    display: inline-flex;
-    flex-wrap: wrap;
-    padding-bottom: 1rem;
+	display: inline-flex;
+	flex-wrap: wrap;
+	padding-bottom: 1rem;
 
-    a {
-        padding-right: 1rem;
-        font-size: 1.5rem;
-    }
+	a {
+		padding-right: 1rem;
+		font-size: 1.5rem;
+	}
 }
 
 //
 // Layout
 //
 
+#page-body {
+	padding-left: 3rem;
+	padding-right: 3rem;
+}
+
+#inner-body {
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	display: flex;
+	flex: 1 0 auto;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+
 #top-bar,
 #bottom-bar {
-    width: 100%;
+	width: 100%;
+	flex-shrink: 0;
 }
 
 .blue-bar,
 .pink-bar {
-    width: 100%;
-    height: 2rem;
-    padding: 0 auto;
-    margin: 0 auto;
+	width: 100%;
+	height: 2rem;
+	padding: 0 auto;
+	margin: 0 auto;
 }
 
 .blue-bar {
-    background-color: $trans-blue;
+	background-color: $trans-blue;
 }
 
 .pink-bar {
-    background-color: $trans-pink;
-}
-
-#page-body {
-    padding-left: 3rem;
-    padding-right: 3rem;
-}
-
-#inner-body {
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    display: flex;
-    flex: 1 0 auto;
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    padding-left: 5rem;
-    padding-right: 5rem;
-}
-
-#bottom-bar,
-#top-bar {
-    flex-shrink: 0;
+	background-color: $trans-pink;
 }
 
 //
 // Homepage icons
 //
 
+.index-body {
+	text-align: center;
+	margin: 1rem;
+}
+
+.index-logo {
+	width: 40rem;
+	padding-bottom: 2rem;
+}
+
 .nav-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
 
-.nav-grid .grid-item {
-    text-align: center;
-    font-size: 1.2rem;
-    padding: 1rem;
-    font-weight: bold;
-    display: block;
-}
+	img {
+		height: 6rem;
+		margin-bottom: 0.5rem;
+	}
 
-.nav-grid img {
-    width: 8rem;
-}
+	.grid-item {
+		text-align: center;
+		padding: 2rem;
+	}
 
-.nav-grid span {
-    display: block;
+	a {
+		font-size: 1.2rem;
+		font-weight: bold;
+		text-decoration: none;
+	}
+
+	span {
+		display: block;
+	}
+
+	.pink-icon {
+		filter: invert(81%) sepia(31%) saturate(993%) hue-rotate(296deg)
+			brightness(106%) contrast(92%);
+	}
 }
 
 //
@@ -132,23 +147,23 @@ nav {
 
 .email,
 .website {
-    word-break: break-all;
+	word-break: break-all;
 }
 
 .resource {
-    padding: 1rem;
+	padding: 1rem;
 }
 
 .resource-label {
-    font-weight: bold;
+	font-weight: bold;
 }
 
 .resource-title {
-    font-size: 1.5rem;
+	font-size: 1.5rem;
 }
 
 .resource:nth-child(even) {
-    background-color: $contrasting-background;
+	background-color: $contrasting-background;
 }
 
 //
@@ -156,18 +171,18 @@ nav {
 //
 
 @media only screen and (max-width: 1000px) {
-    #page-body {
-        width: initial;
-        padding-left: initial;
-    }
+	#page-body {
+		width: initial;
+		padding-left: initial;
+	}
 
-    #inner-body {
-        padding: 1rem;
-    }
+	#inner-body {
+		padding: 1rem;
+	}
 
-    nav {
-        flex-direction: column;
-    }
+	nav {
+		flex-direction: column;
+	}
 }
 
 //
@@ -175,23 +190,25 @@ nav {
 //
 
 @media (prefers-color-scheme: dark) {
-    body {
-        color: whitesmoke;
-        background-color: #1f1f1f;
-    }
+	body {
+		color: whitesmoke;
+		background-color: #1f1f1f;
+	}
 
-    h1 {
-        border-color: gray;
-    }
+	a,
+	a:visited {
+		color: $trans-blue
+	}
 
-    .resource:nth-child(even) {
-        background-color: $contrasting-background-dark;
-    }
+	a:hover {
+		color: $trans-pink;
+	}
 
-    // This is a NASTY way to invert our images
-    // without breaking things by converting them to SVG currently
-    // (it's also because I'm really lazy and bad at this) - Espi
-    .color-invertible {
-        filter: invert(100%);
-    }
+	h1 {
+		border-color: gray;
+	}
+
+	.resource:nth-child(even) {
+		background-color: $contrasting-background-dark;
+	}
 }

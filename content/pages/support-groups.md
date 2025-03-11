@@ -16,8 +16,7 @@ We are mostly comprised of people from North Alabama and the surrounding areas, 
 
 # ALTRAC - Political Action Group
 
-<!-- commented out until hunter gives me an updated altrac banner -->
-<!-- [<img src="/extra_static/altrac-logo.png" width="50%" />][altrac-logo] -->
+[<img src="/extra_static/altrac-logo.png" width="50%" />][altrac-logo]
 
 The Alabama Transgender Rights Action Coalition is an entirely volunteer-run organization founded in Alabama.
 
@@ -30,9 +29,9 @@ tools to help people be engaged politically and to effectively connect with thei
 
 There are many online and in-person support groups focusing on specific regions of Alabama.
 
--   [North Alabama][group-north] (Huntsville / Madison / Decatur / Athens / Florence)
--   [Central Alabama][group-central] (Birmingham / Homewood / Hoover / Gadsden / Tuscaloosa)
--   [South Alabama][group-south] (Montgomery / Auburn / Mobile / Dothan / Enterprise / Gulf Coast)
+- [North Alabama][group-north] (Huntsville / Madison / Decatur / Athens / Florence)
+- [Central Alabama][group-central] (Birmingham / Homewood / Hoover / Gadsden / Tuscaloosa)
+- [South Alabama][group-south] (Montgomery / Auburn / Mobile / Dothan / Enterprise / Gulf Coast)
 
 [tna-discord-logo]: https://discord.gg/3a9uxjwvbd "The Trans North Alabama logo, a rocket in the colors of the trans flag"
 [tna-discord-invite]: https://discord.gg/3a9uxjwvbd "Discord Invite to the Trans North Alabama Discord server"

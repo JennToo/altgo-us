@@ -18,30 +18,30 @@ It is a good reference to have, however it is incorrect and incomplete.
 
 # **Required Documents**
 
--   Social Security card
--   Certified copy of your birth certificate
--   Unexpired government issued photo ID
--   Morgan County lease/deed/rental agreement (if the address on your ID is outdated)
--   [ALEA background check][form-alea]
--   [FBI background check][form-fbi]
--   [Petition to the court, form PS-12][form-ps12]
+- Social Security card
+- Certified copy of your birth certificate
+- Unexpired government issued photo ID
+- Morgan County lease/deed/rental agreement (if the address on your ID is outdated)
+- [ALEA background check][form-alea]
+- [FBI background check][form-fbi]
+- [Petition to the court, form PS-12][form-ps12]
 
 # Preparation
 
 1. Obtain 2 copies of your fingerprints on FBI Blue Cards at the [Morgan County Sheriff's Office][morgancounty-sheriff].
 
-    - There is a $20.00 fee, **cash is only accepted**.
+   - There is a $20.00 fee, **cash is only accepted**.
 
 2. Print and fillthe following forms:
 
-    - [ALEA background check][form-alea]
-    - [FBI background check][form-fbi]
+   - [ALEA background check][form-alea]
+   - [FBI background check][form-fbi]
 
 3. Send the forms out in the mail:
 
-    - The forms must be notarized.
-    - Include the necessary fees, paperwork, and fingerprints.
-    - ALEA tends to take around 4-6 weeks; the FBI around 6-8.
+   - The forms must be notarized.
+   - Include the necessary fees, paperwork, and fingerprints.
+   - ALEA tends to take around 4-6 weeks; the FBI around 6-8.
 
 Once you receive your background checks from ALEA and the FBI, you can
 continue with the process.
@@ -53,15 +53,15 @@ your lease, deed, or rental agreement proving residence of Morgan County.
 
 1. [Print and fill court petition PS-12][form-ps12]:
 
-    - Print and hand sign. Be sure to get it notarized.
+   - Print and hand sign. Be sure to get it notarized.
 
 2. Ensure all paperwork from the preparation list is gathered. It is all required.
 
 3. File everything at the [Morgan County probate office][morgancounty-courthouse].
-    - The office is located on the 2nd floor of the [Morgan County Courthouse][morgancounty-courthouse].
-    - Pay the filing fee. It is $22, but "subject to change". **Only cash is accepted**.
-    - You should get a phone call when it is ready, usually within a few business days.
-    - It is advised to get multiple copies of the court order upon pickup. There is usually a fee for this.
+   - The office is located on the 2nd floor of the [Morgan County Courthouse][morgancounty-courthouse].
+   - Pay the filing fee. It is $22, but "subject to change". **Only cash is accepted**.
+   - You should get a phone call when it is ready, usually within a few business days.
+   - It is advised to get multiple copies of the court order upon pickup. There is usually a fee for this.
 
 **Note**: The probate office does not accept debit or credit cards for paying
 filing fees. It is highly advisable to bring cash with you, but if you forget,
@@ -78,26 +78,9 @@ from the experience of the local community. It is highly advisable that you
 consult with an attorney if you are seeing a legal name change with prior
 criminal history.
 
-[morgancounty-guidelines]:
-    https://web.archive.org/web/20240429212154/http://www.morgancountyprobate.com/media/79357/name-change-requirements-2020.pdf
-    "Morgan County name change requirements documentation (Archived)"
-
-[morgancounty-sheriff]:
-    https://www.morgancountysheriffal.gov/fingerprinting-service
-    "Morgan County Sheriff's Office fingerprinting service information"
-
-[form-ps12]:
-    https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf
-    "Alabama name change petition form"
-
-[form-alea]:
-    https://www.alea.gov/sites/default/files/inline-files/SBI-ApplicationReviewALCHRI.pdf
-    "ALEA Criminal History form"
-
-[form-fbi]:
-    https://forms.fbi.gov/identity-history-summary-checks-review
-    "FBI background check form"
-
-[morgancounty-courthouse]:
-    https://g.co/kgs/gfyHkR2
-    "Directions to the Morgan County courthouse"
+[morgancounty-guidelines]: https://web.archive.org/web/20240429212154/http://www.morgancountyprobate.com/media/79357/name-change-requirements-2020.pdf "Morgan County name change requirements documentation (Archived)"
+[morgancounty-sheriff]: https://www.morgancountysheriffal.gov/fingerprinting-service "Morgan County Sheriff's Office fingerprinting service information"
+[form-ps12]: https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf "Alabama name change petition form"
+[form-alea]: https://www.alea.gov/sites/default/files/inline-files/SBI-ApplicationReviewALCHRI.pdf "ALEA Criminal History form"
+[form-fbi]: https://forms.fbi.gov/identity-history-summary-checks-review "FBI background check form"
+[morgancounty-courthouse]: https://g.co/kgs/gfyHkR2 "Directions to the Morgan County courthouse"

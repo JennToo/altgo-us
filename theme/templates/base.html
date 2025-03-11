@@ -1,37 +1,44 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link href="https://altgo.us/{{ output_file }}" rel="canonical" />
-        <meta
-            name="description"
-            content="{% block description %}{% endblock %}"
-        />
 
-        {% assets filters="libsass,cssmin", output="css/style.min.css", "style.scss" %}
-        <link rel="stylesheet" href="/{{ ASSET_URL }}" />
-        {% endassets %}
-        {% assets filters="libsass,cssmin", output="css/normalize.min.css", "normalize.css" %}
-        <link rel="stylesheet" href="/{{ ASSET_URL }}" />
-        {% endassets %}
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport"
+					content="width=device-width, initial-scale=1.0" />
 
-        <title>ALTGO :: {% block title %}{% endblock %}</title>
-    </head>
+		<link href="https://altgo.us/{{ output_file }}"
+					rel="canonical" />
 
-    <body>
-        <div id="top-bar">
-            <div class="blue-bar"></div>
-            <div class="pink-bar"></div>
-        </div>
-        <div id="inner-body">
-            <header></header>
-            <main>{% block body %} {% endblock %}</main>
-            <footer></footer>
-        </div>
-        <div id="bottom-bar">
-            <div class="pink-bar"></div>
-            <div class="blue-bar"></div>
-        </div>
-    </body>
+		<meta name="description"
+					content="{% block description %}{% endblock %}" />
+
+		{% assets filters="libsass,cssmin", output="css/style.min.css", "style.scss" %}
+		<link rel="stylesheet"
+					href="/{{ ASSET_URL }}" />
+		{% endassets %}
+
+		{% assets filters="libsass,cssmin", output="css/normalize.min.css", "normalize.css" %}
+		<link rel="stylesheet"
+					href="/{{ ASSET_URL }}" />
+		{% endassets %}
+
+		<title>ALTGO :: {% block title %}{% endblock %}</title>
+	</head>
+
+	<body>
+		<div id="top-bar">
+			<div class="blue-bar"></div>
+			<div class="pink-bar"></div>
+		</div>
+		<div id="inner-body">
+			<header></header>
+			<main>{% block body %} {% endblock %}</main>
+			<footer></footer>
+		</div>
+		<div id="bottom-bar">
+			<div class="pink-bar"></div>
+			<div class="blue-bar"></div>
+		</div>
+	</body>
+
 </html>

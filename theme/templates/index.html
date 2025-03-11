@@ -1,64 +1,60 @@
 {% extends "base.html" %}
 
-{% block title %} Alabama's Transgender and Gender Diversity Organizations {% endblock %}
+{% block title %} Alabama's Transgender and Gender Diversity Organizations {%
+endblock %}
 
-{% block description %} A collection of support groups, resources, and legal help for Alabamians included in the transgender umbrella. {% endblock %}
+{% block description %} A collection of support groups, resources, and legal
+help for Alabamians included in the transgender umbrella. {% endblock %}
 
 {% block body %}
 
 <div class="index-body">
-    <img
-        src="/theme/images/logo.png"
-        class="color-invertible"
-        alt="Alabama's Transgender and Gender Diversity Organizations"
-    />
+	<img src="/theme/images/logo.svg"
+			 alt="Alabama's Transgender and Gender Diversity Organizations"
+			 class="index-logo" />
 
-    <div class="nav-grid">
-        <a
-            href="/pages/support-groups.html"
-            class="grid-item"
-            title="Support Group"
-        >
-            <img
-                src="/theme/images/support-groups.png"
-                class="color-invertible"
-                alt="Support Groups"
-            />
-            <span>Support Groups</span>
-        </a>
-        <a
-            href="/pages/local-resources.html"
-            class="grid-item"
-            title="Local Resources"
-        >
-            <img
-                src="/theme/images/local-resources.png"
-                class="color-invertible"
-                alt="Local Resources"
-            />
-            <span>Local Resources</span>
-        </a>
-        <a
-            href="/pages/legal.html"
-            class="grid-item"
-            title="Name and Marker Changes"
-        >
-            <img
-                src="/theme/images/legal.png"
-                class="color-invertible"
-                alt="Name and Marker Changes"
-            />
-            <span>Legal Help</span>
-        </a>
-        <a href="/pages/box.html" class="grid-item" title="Trans Boxes">
-            <img
-                src="/theme/images/box.png"
-                class="color-invertible"
-                alt="Trans Boxes"
-            />
-            <span>Trans Boxes</span>
-        </a>
-    </div>
+	<div class="nav-grid">
+		<a href="/pages/support-groups.html"
+			 class="grid-item"
+			 title="Support Group">
+
+			<img src="/theme/images/support.svg"
+					 alt="An icon with two people on it"
+					 class="pink-icon">
+
+			<span>Support Groups</span>
+		</a>
+		<a href="/pages/local-resources.html"
+			 class="grid-item"
+			 title="Local Resources">
+
+			<img src="/theme/images/resources.svg"
+					 alt="A book icon"
+					 class="pink-icon">
+
+			<span>Local Resources</span>
+		</a>
+		<a href="/pages/legal.html"
+			 class="grid-item"
+			 title="Name and Marker Changes">
+
+			<img src="/theme/images/legal.svg"
+					 alt="A legal gavel icon"
+					 class="pink-icon">
+
+			<span>Legal Help</span>
+		</a>
+		<a href="/pages/box.html"
+			 class="grid-item"
+			 title="A gift wrapped box icon">
+
+			<img src="/theme/images/boxes.svg"
+					 alt="A gift box icon"
+					 class="pink-icon">
+
+			<span>Trans Boxes</span>
+		</a>
+	</div>
 </div>
 
 {% endblock %}

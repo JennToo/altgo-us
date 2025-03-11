@@ -12,7 +12,7 @@ This group is hosted in Huntsville and meets several times per month. We
 welcome all adult transgender, nonbinary, and gender nonconfirming people regardless of
 their physical or social state of transition.
 
--   **You must be 18 or older to attend.**
+- **You must be 18 or older to attend.**
 
 Group meetings are an opportunity for members to discuss whatever is on their
 mind as well as providing a safe space to explore gender expression without fear of judgement.
@@ -22,8 +22,8 @@ Group membership is kept confidential, and measures are taken to preserve privac
 To help ensure the privacy and safety of the group, exact meeting details are
 not publicly available.
 
--   If you would like more information, please [send us an
-    email][email-tna] or [join us on Discord][tna-discord].
+- If you would like more information, please [send us an
+  email][email-tna] or [join us on Discord][tna-discord].
 
 # Mid-Life Transgender Support Group (Athens)
 
@@ -40,34 +40,34 @@ younger transgender people.
 This support group is also a good place to come to get information and
 referrals for other services you may need.
 
--   There is no cost to attend our support group.
--   For further information, please email us at [NoALaMidLifeGroup@outlook.com][email-midlife],
--   You may also contact Colleen by phone at [(256) 951-2842][phone-colleen] or Jimmie at [(256) 679-3034][phone-jimmie].
+- There is no cost to attend our support group.
+- For further information, please email us at [NoALaMidLifeGroup@outlook.com][email-midlife],
+- You may also contact Colleen by phone at [(256) 951-2842][phone-colleen] or Jimmie at [(256) 679-3034][phone-jimmie].
 
 # Shoals Support Group (Florence)
 
 Hosted by Shoals Diversity Center, this all ages group meets every Tuesday at
 6:30pm in Florence.
 
--   This is a peer-led LGBTQIA+ support group for anyone who
-    wishes to join.
--   Group members are free to discuss anything on their minds, free of judgment and
-    in a safe and supportive environment.
+- This is a peer-led LGBTQIA+ support group for anyone who
+  wishes to join.
+- Group members are free to discuss anything on their minds, free of judgment and
+  in a safe and supportive environment.
 
 More information can be found [on the website][shoals-diversitycenter], by emailing
 [shoalsdiversitycenter@gmail.com][email-shoalsdiversity] or by phone at [(256) 951-2842][phone-shoalsdiversitycenter].
 
--   You may also call this number if you are having
-    trouble finding the meeting location or if you need help finding local
-    resources.
+- You may also call this number if you are having
+  trouble finding the meeting location or if you need help finding local
+  resources.
 
 # TransFamily Support Group (Huntsville)
 
 Support groups for:
 
--   Young adults
--   Middle and high school students
--   Parents who's children are included in the transgender umbrella
+- Young adults
+- Middle and high school students
+- Parents who's children are included in the transgender umbrella
 
 [TransFamily Support Services' Website][transfamily-supportcenter]
 
@@ -81,8 +81,8 @@ Counseling Center to join and will be informed of the meeting dates, time and
 location once approved to ensure the safety and confidentiality of all of our
 group members.
 
--   Individuals interested in more information can reach out to UAH Counseling by
-    phone at [(256) 824-6203][phone-uah].
+- Individuals interested in more information can reach out to UAH Counseling by
+  phone at [(256) 824-6203][phone-uah].
 
 [tna-discord]: https://discord.gg/3a9uxjwvbd "The Trans North Alabama logo, a rocket in the colors of the trans flag."
 [email-tna]: mailto:membership@altgo.us "Email to contact the Trans North Alabama support group"
