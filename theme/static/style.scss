@@ -60,6 +60,7 @@ nav {
 #page-body {
 	padding-left: 3rem;
 	padding-right: 3rem;
+	max-width: 85rem;
 }
 
 #inner-body {
@@ -134,11 +135,6 @@ nav {
 	span {
 		display: block;
 	}
-
-	.pink-icon {
-		filter: invert(81%) sepia(31%) saturate(993%) hue-rotate(296deg)
-			brightness(106%) contrast(92%);
-	}
 }
 
 //
@@ -206,6 +202,12 @@ nav {
 
 	h1 {
 		border-color: gray;
+	}
+
+
+	.pink-icon {
+		filter: invert(81%) sepia(31%) saturate(993%) hue-rotate(296deg)
+			brightness(106%) contrast(92%);
 	}
 
 	.resource:nth-child(even) {
