@@ -1,10 +1,10 @@
 # [altgo-us](altgo.us)
 
-Website for Alabama's Transgender and Gender Diversity Organizations.
+The website for ALTGO, a collection of support groups, resources, and legal help for Alabamians included in the transgender umbrella.
 
-## Building
+## Local server
 
-Requires Python >=3.10 and Poetry >=1.0 installed.
+Requires [Python][python] >=3.10 and [Poetry][poetry] >=1.0 installed.
 
 1. `poetry install`
 2. `poetry run invoke build`

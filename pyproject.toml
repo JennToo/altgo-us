@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "nitori_org"
 version = "0.1.0"
-description = "Website for Alabama's Transgender and Gender Diversity Organizations."
+description = "The website for ALTGO, a collection of support groups, resources, and legal help for Alabamians included in the transgender umbrella."
 authors = [
 	"Jennifer Wilcox <jennifer@nitori.org>",
 	"Espi Marisa <contact@espi.me>",
