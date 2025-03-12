@@ -3,6 +3,7 @@
 
 	<head>
 		<meta charset="UTF-8" />
+		<meta name="theme-color" content="#5bcefa" />
 		<meta name="viewport"
 					content="width=device-width, initial-scale=1.0" />
 
@@ -14,11 +15,13 @@
 
 		{% assets filters="libsass,cssmin", output="css/style.min.css", "style.scss" %}
 		<link rel="stylesheet"
+					type="text/css"
 					href="/{{ ASSET_URL }}" />
 		{% endassets %}
 
 		{% assets filters="libsass,cssmin", output="css/normalize.min.css", "normalize.css" %}
 		<link rel="stylesheet"
+					type="text/css"
 					href="/{{ ASSET_URL }}" />
 		{% endassets %}
 

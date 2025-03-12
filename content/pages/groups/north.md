@@ -9,8 +9,9 @@ description: A collection of support groups in North Alabama for those included 
 [<img src="/extra_static/tna-logo.png" width="50%" />][tna-discord]
 
 This group is hosted in Huntsville and meets several times per month. We
-welcome all adult transgender, nonbinary, and gender nonconfirming people regardless of
-their physical or social state of transition. You must be 18 or older to attend.
+welcome all adult transgender, nonbinary, and individuals otherwise included
+in the transgender umbrella regardless of their physical or social state of
+transition. You must be 18 or older to attend.
 
 Group meetings are an opportunity for members to discuss whatever is on their
 mind as well as providing a safe space to explore gender expression without fear of judgement.
@@ -26,8 +27,9 @@ not publicly available.
 # Mid-Life Transgender Support Group (Athens)
 
 Our trans-led peer support group is open to people in mid-life or later. Our
-support group provides a safe space for people who are transgender, gender
-nonconforming, and their significant family members.
+support group provides a safe space for people who are transgender, nonbinary,
+or otherwise fall under the transgender umbrella,
+as well as their significant family members.
 
 We provide a place to come together to support one another as we work though
 the challenges of gender dysphoria. Those of us in mid-life may be married,

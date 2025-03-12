@@ -114,7 +114,7 @@ nav {
 .nav-grid {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-evenly;
+	justify-content: space-around;
 
 	img {
 		height: 6rem;
@@ -193,7 +193,7 @@ nav {
 
 	a,
 	a:visited {
-		color: $trans-blue
+		color: $trans-blue;
 	}
 
 	a:hover {
@@ -204,13 +204,11 @@ nav {
 		border-color: gray;
 	}
 
-
-	.pink-icon {
-		filter: invert(81%) sepia(31%) saturate(993%) hue-rotate(296deg)
-			brightness(106%) contrast(92%);
-	}
-
 	.resource:nth-child(even) {
 		background-color: $contrasting-background-dark;
+	}
+
+	.invertable {
+		filter: invert(100%)
 	}
 }

@@ -149,7 +149,7 @@ Similar to passports, it is not a good idea as of January 2025 to attempt to upd
 [madison-servicecenter]: https://g.co/kgs/h4vAXQL "Directions to the Madison County Service Center"
 [form-limestone-name]: https://eforms.com/images/2017/09/Alabama-Name-Change-Petition-Form-PS-12.pdf "Limestone County name change form"
 [phone-athensprobate]: tel:256-233-6427 "Athens Probate phone number"
-[morgan-resources]: /pages/morgan-county.html "Morgan County resources"
+[morgan-resources]: /pages/morgan-county "Morgan County resources"
 [form-al-name]: https://eforms.alacourt.gov/media/jtzbncuw/request-to-change-name.pdf "Alabama Name Change court form"
 [form-ssa-card]: https://www.ssa.gov/forms/ss-5.pdf "Social Security card application form"
 [form-ssa-name]: https://www.ssa.gov/personal-record/change-name "SSA name change guidelines"
