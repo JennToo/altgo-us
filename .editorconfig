@@ -24,6 +24,11 @@ indent_style = space
 [*.{md,mdx}]
 trim_trailing_whitespace = false
 
+# SASS requires 2 spaces
+[*.{sass}]
+indent_size = 2
+indent_style = space
+
 # YAML requires 2 spaces
 [*.{yml,yaml}]
 indent_size = 2
