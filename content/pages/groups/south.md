@@ -1,29 +1,27 @@
 ---
-title: Support Groups for South Alabama
+title: South Alabama Support Groups
 slug: groups-south
-description: A collection of transgender and non-binary support groups from southern Alabama
+description: A collection of support groups in South Alabama for those included in the transgender umbrella.
 ---
 
-# Montgomery Pride
+# Montgomery Pride United
 
-We are a safe space uniting the community and advocating for LGBTQ+ rights in
-Montgomery, Alabama since 2015.
+Montgomery Pride United provides a safe space for LGBTQIA+ people and
+advocates for their rights in the Deep South.
 
-[Visit the website here][Montgomery]
+- Their center holds support groups, provides resources, and hosts community
+  gatherings.
 
-[Montgomery]: https://montgomeryprideunited.org/
+[Montgomery Pride United's Website][montgomery-pride]
 
-# TransAL
+# Trans Pride of Mobile
 
-<a href="https://www.mobpride.org/transal">
-<img src="/extra_static/transal.png" alt="TransAL" />
-</a>
+[Trans Pride of Mobile](mobile-trans-pride) is a program of [Rainbow Pride of Mobile](mobile-pride) serving the trans-umbrella
+community of lower Alabama.
 
-[TransAL][MP] is an outreach program of MobPride designed to support
-Transgender and Non-Binary people in Mobile, AL and the surrounding Gulf Coast.
+- They host events and social gatherings, share information, and advocate to
+  the general public.
 
-TransAL meets on the 3rd Tuesday of each month at 6:30pm. Location is on the
-event and [Facebook pages][FB].
-
-[FB]: https://www.facebook.com/groups/571549773631069
-[MP]: https://www.mobpride.org/transal
+[montgomery-pride]: https://montgomeryprideunited.org/ "Montgomery Pride United's website"
+[tpom-facebook]: https://www.facebook.com/groups/571549773631069 "Trans Pride of Mobile on Facebook"
+[rpom]: https://www.rainbowprideofmobile.org "Rainbow Pride of Mobile's website"

@@ -1,55 +1,60 @@
 ---
-title: box Help
+title: Trans Boxes
 slug: box
-description: Guides for our transboxs and help pages
+description: Information about the Trans Boxes project
 ---
-<img alt="trans box logo by Lily Kelly aka SoLilyKweez" src="/theme/images/box_logo.png">
 
-Logo by Lily Kelly aka SoLilyKweez
+# Trans Boxes
 
-[TOC]
+<img src="/extra_static/box-logo.png" class="header-image" alt="Trans box logo by Lily Kelly aka SoLilyKweez" />
 
+We are two elder trans people who want to help our local community prosper.
 
-# Who we are
+- The current leads of the project are Uma and Willow; however we are always looking to expand.
+- If you are interested in the project, please email us at [northalabamabaskets@gmail.com][baskets-email].
 
-Currently, we are two elder trans people who want to help our local community prosper. The current leads of the project are Uma and Willow; however, we are always looking to expand. If you are interested reach out to northalabamabaskets@gmail.com
+# Intent
 
-# Purpose of the Boxes
+Our intention with the boxes is to support newer trans people in the community or those that do not have the funds to access basic gender transition related goods.
 
-Our intention of the boxes are to support newer trans people in the community or those that do not have the funds to access basic gender transition related goods. It is often daunting, scary, and expensive to shop for the initial supplies. Our hope is with the boxes it will make it easier and more comfortable to start your gender transition journey.
+It is often daunting, scary, and expensive to shop for the initial supplies. Our hope is that the boxes will make it easier and more comfortable to
+start one's gender transition journey.
 
-# Helping Fund the Project
+# Funding
 
-It approximately costs 50$ to create a box. Currently, just Willow and Uma are funding the project to support their community. We would appreciate your support to help fund the boxes to further support our community. A donation is appreciated if you receive a box, but is absolutely not required. If you know of someone or you yourself are interested in supporting our project please email us at northalabamabaskets@gmail.com
+It costs approximately 50$ to create a box. Currently, just Willow and Uma are funding the project to support their community.
 
-# Box Content
+We would appreciate your support to help fund the boxes to further support our community. A donation is appreciated if you receive a box, but is absolutely not required.
 
-We will have 3 types of boxes but for now we only have two:
+- If you know of someone that is, or you are interested in supporting us, contact us at [northalabamabaskets@gmail.com][baskets-email].
 
- - Transfemme oriented box
+# Content
 
- - Transmasc oriented box
+We will have 3 types of boxes (but currently only have two):
 
- - Enby oriented box (WIP): this will be a system to select items from any of the boxes you would want or need
+- Transfem oriented box
+- Transmasc oriented box
+- Nonbinary oriented box (WIP): a system to select items from any of the boxes you would want or need
 
 [PDF of flyers showing all content of each box][box-flyer]
 
-# Trans Tape Saftey!!!!
-First most importantly, trans tape is not required to be used! But if you think it will be helpful for you please follow all saftey procedures. 
+# Trans Tape Safety
 
-Here are two great reasorces to follow on this topic: 
+First and most importantly, trans tape is not required to be used! But if you think it will be helpful for you, please follow all safety procedures.
 
- - [Offical Trans Tape Help][1]
- - [Winvov help][2]
+Here are two great resources on the topic:
 
-[1]: https://transtape.life/pages/education
-[2]: https://wivov.com/transtape-manual/
-[box-flyer]: /theme/pdf/box_lists.pdf
-# Reach out 
-email us at northalabamabaskets@gmail.com with questions. 
+- [Trans tape support][trans-tape-help]
+- [Winvov chest tape support][wivov-help]
 
 # Special Thanks
-Special thanks to 
 
- - Lily Kelly for her logo she made for our project! She does graphic Design so please reach out to her if you are in need of a great designer! 
- - Cascadia for her box icon for the home page
+Special thanks to:
+
+- Lily Kelly for creating the project logo
+- Cascadia for creating the box icon on the home page
+
+[baskets-email]: mailto:northalabamabaskets@gmail.com "Email the North Alabama baskets program"
+[box-flyer]: /theme/pdf/box-lists.pdf "Information on box contents"
+[trans-tape-help]: https://transtape.life/pages/education "Transtape support information"
+[wivov-help]: https://wivov.com/pages/chest-tape-manual "Wivov chest tape support information"

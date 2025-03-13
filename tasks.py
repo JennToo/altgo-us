@@ -39,22 +39,23 @@ def generate_resources():
 RESOURCES_HEADER = """---
 title: Local Resources
 slug: local-resources
-description: A collection of Alabama businesses and services that are friendly to transgender and non-binary people
+description: A collection of businesses and services in Alabama friendly to people included in the transgender umbrella.
 ---
 
-All service providers listed below have been visited by a local member of the
-transgender / non-binary community and have had a positive experience.
+All service providers listed below have been visited by a local community
+member included in the transgender umbrella and that have had a
+positive experience.
 
-**If you would like to submit an update for this list, please send us an email
-at [website@altgo.us][email] or [submit a GitHub PR here][PR]**
+**If you would like to update this list, please send us an email
+at [website@altgo.us][altgo-email] or [submit a GitHub Pull Request][altgo-github]**
 
 [TOC]
 
 """
 
 RESOURCES_FOOTER = """
-[email]: mailto:website@altgo.us
-[PR]: https://github.com/JennToo/altgo-us
+[altgo-email]: mailto:website@altgo.us
+[altgo-github]: https://github.com/JennToo/altgo-us
 """
 
 
@@ -73,16 +74,19 @@ def render_resource(resource):
 
 def render_contact(resource):
     contents = []
+
     if "website" in resource:
         contents.append(f"""
             <span class="resource-label">Website:</span> <a href="{resource["website"]}" class="website">{resource["website"]}</a>
         """)
+
     if "phone" in resource:
         phone: str = resource["phone"]
         formatted = "(" + phone.replace("-", ") ", 1)
         contents.append(f"""
             <span class="resource-label">Phone Number:</span> <a href="tel:{phone}">{formatted}</a>
         """)
+
     if "email" in resource:
         contents.append(f"""
             <span class="resource-label">Email:</span> <a href="mailto:{resource["email"]}" class="email">{resource["email"]}</a>

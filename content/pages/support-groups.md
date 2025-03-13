@@ -1,38 +1,42 @@
 ---
 title: Support Groups
 slug: support-groups
-description: A list of online and in-person support groups for transgender and non-binary Alabamians
+description: A collection of support groups in Alabama supporting those in the transgender umbrella.
 ---
 
-# Online State-wide Communities
+# Trans North Alabama - Adult Discord Server (18+)
 
-## Trans North Alabama - Adult Discord Server (18+)
+[<img src="/extra_static/tna-logo.png" class="header-image" />][tna-discord-logo]
 
-A safe space for transgender, non-binary, and gender questioning adults 18
-years and older. Comprised of people mostly from Alabama and surrounding areas
-(but others are welcome as well!)
+A safe space for transgender, nonbinary, and gender questioning adults 18 years and older.
 
-Click to join Discord server:
+We are mostly comprised of people from Alabama and the surrounding areas, but others are welcome as well!
 
-[<img alt="Click here to join the server" src="/theme/images/discord.png" width="250" height="85">](https://discord.gg/3a9uxjwvbd)
+[Join Trans North Alabama on Discord!][tna-discord-invite]
 
 # ALTRAC - Political Action Group
 
-The Alabama Trans Rights Action Coalition is an entirely volunteer-run
-organization founded in Alabama. Its mission is to build a better future for
-queer and transgender people in Alabama by creating resources and tools to help
-people be engaged politically and to effectively connect with their
-legislators.
+[<img src="/extra_static/altrac-logo.png" class="header-image" />][altrac-logo]
 
-[For more information, refer to the official ALTRAC website][ALTRAC]
+The Alabama Transgender Rights Action Coalition is an entirely volunteer-run organization founded in Alabama.
+
+Its mission is to build a better future for queer and transgender people in Alabama by creating resources and
+tools to help people be engaged politically and to effectively connect with their legislators.
+
+[For more information, refer to the ALTRAC website.][altrac-website]
 
 # Regional Groups
 
- - North Alabama: [Huntsville / Madison / Decatur / Athens area][1]
- - Central Alabama: [Birmingham area][3]
- - South Alabama: [Mobile area][2]
+There are many online and in-person support groups focusing on specific regions of Alabama.
 
-[1]: /pages/groups-north.html
-[2]: /pages/groups-south.html
-[3]: /pages/groups-central.html
-[ALTRAC]: https://altrac.works/
+- [North Alabama][group-north] (Huntsville / Madison / Decatur / Athens / Florence)
+- [Central Alabama][group-central] (Birmingham / Homewood / Hoover / Gadsden / Tuscaloosa)
+- [South Alabama][group-south] (Montgomery / Auburn / Mobile / Dothan / Enterprise / Gulf Coast)
+
+[tna-discord-logo]: https://discord.gg/3a9uxjwvbd "The Trans North Alabama logo, a rocket in the colors of the trans flag"
+[tna-discord-invite]: https://discord.gg/3a9uxjwvbd "Discord Invite to the Trans North Alabama Discord server"
+[altrac-logo]: https://altrac.works/ "ALTRAC's logo/banner, the borders of Alabama with the cross in the colors of the trans flag"
+[altrac-website]: https://altrac.works/ "ALTRAC's website"
+[group-north]: /pages/groups-north "North Alabama specific support groups"
+[group-central]: /pages/groups-central "Central Alabama specific support groups"
+[group-south]: /pages/groups-south "South Alabama specific support groups"
