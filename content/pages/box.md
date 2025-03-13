@@ -6,7 +6,7 @@ description: Information about the Trans Boxes project
 
 # Trans Boxes
 
-<img src="/extra_static/box-logo.png" width="50%" alt="Trans box logo by Lily Kelly aka SoLilyKweez" />
+<img src="/extra_static/box-logo.png" class="header-image" alt="Trans box logo by Lily Kelly aka SoLilyKweez" />
 
 We are two elder trans people who want to help our local community prosper.
 

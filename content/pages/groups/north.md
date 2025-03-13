@@ -6,7 +6,7 @@ description: A collection of support groups in North Alabama for those included 
 
 # Trans North Alabama - Adult Support Group (Huntsville)
 
-[<img src="/extra_static/tna-logo.png" width="50%" />][tna-discord]
+[<img src="/extra_static/tna-logo.png" class="header-image" />][tna-discord]
 
 This group is hosted in Huntsville and meets several times per month. We
 welcome all adult transgender, nonbinary, and individuals otherwise included
