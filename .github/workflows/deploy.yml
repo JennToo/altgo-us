@@ -1,12 +1,11 @@
-on:
-  push:
-    branches:
-      - master
-name: Deploy
+on: [push, pull_request]
+name: CI
 jobs:
-  deploy:
-    name: Deploy
+  ci:
+    name: CI
     runs-on: ubuntu-24.04
+    # Prevent double-builds on PRs from branches within the repo
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name != github.event.pull_request.base.repo.full_name
     steps:
       - uses: actions/checkout@master
       - run: sudo apt-get update
@@ -16,3 +15,4 @@ jobs:
       - run: openssl aes-256-cbc -salt -a -d -in deploy-key.enc -out deploy-key -k ${{ secrets.DEPLOY_KEY_PASS }}
       - run: chmod 600 ./deploy-key ./deploy-fingerprints
       - run: rsync -avz -e "ssh -o StrictHostKeyChecking=yes -o UserKnownHostsFile=./deploy-fingerprints -i ./deploy-key" --progress ./output/ jenntoo_nalatrans@ssh.nyc1.nearlyfreespeech.net:/home/public
+        if: startsWith(github.ref, 'refs/heads/main')
