@@ -11,6 +11,7 @@ jobs:
       - run: sudo apt-get update
       - run: sudo apt-get install -y rsync libcurl4-openssl-dev python3-poetry
       - run: poetry install
+      - run: poetry lock --no-update
       - run: poetry run invoke build
       - run: openssl aes-256-cbc -salt -a -d -in deploy-key.enc -out deploy-key -k ${{ secrets.DEPLOY_KEY_PASS }}
       - run: chmod 600 ./deploy-key ./deploy-fingerprints
