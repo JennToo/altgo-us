@@ -97,7 +97,6 @@ nav {
 	background-color: $trans-pink;
 }
 
-
 .header-image {
 	max-width: 50%;
 }
@@ -181,6 +180,11 @@ nav {
 		padding: 1rem;
 	}
 
+	// grr how dare you exist
+	.grid-item {
+		width: 50%;
+	}
+
 	nav {
 		flex-direction: column;
 	}
@@ -214,6 +218,6 @@ nav {
 	}
 
 	.invertable {
-		filter: invert(100%)
+		filter: invert(100%);
 	}
 }
