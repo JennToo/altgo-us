@@ -4,7 +4,7 @@ A collection of support groups, resources, and legal help for Alabamians include
 
 ## Local server
 
-Requires [Python][python] >=3.13 and [Poetry][poetry] >=2.1 installed.
+Requires [Python][python] >=3.11 and [Poetry][poetry] >=1.0 installed.
 
 1. `poetry install`
 2. `poetry run invoke build`
