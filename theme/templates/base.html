@@ -8,8 +8,10 @@
 		<meta name="viewport"
 					content="width=device-width, initial-scale=1.0" />
 
-		<link href="https://altgo.us/{{ output_file }}"
+		{% if output_file == "index.html" %}
+		<link href="https://altgo.us/"
 					rel="canonical" />
+		{% endif %}
 
 		<meta name="description"
 					content="{% block description %}{% endblock %}" />
