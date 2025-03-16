@@ -6,7 +6,7 @@ description: A collection of support groups in Central Alabama for those include
 
 # Magic City Acceptance Center
 
-[<img src="/extra_static/mcac-logo.png" class="header-image" />][mcac-website]
+[<img src="/extra_static/mcac-logo.png" class="header-image" alt="MCAC logo" />][mcac-website]
 
 The Magic City Acceptance Center (MCAC) is most well-known for their youth programs
 for folk between the ages of 13-20, but they also provide services for children, adults, and families.
