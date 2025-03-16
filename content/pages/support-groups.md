@@ -6,7 +6,7 @@ description: A collection of support groups in Alabama supporting those in the t
 
 # Trans North Alabama - Adult Discord Server (18+)
 
-[<img src="/extra_static/tna-logo.png" class="header-image" />][tna-discord-logo]
+[<img src="/extra_static/tna-logo.png" class="header-image" alt="TNA logo" />][tna-discord-logo]
 
 A safe space for transgender, nonbinary, and gender questioning adults 18 years and older.
 
@@ -16,7 +16,7 @@ We are mostly comprised of people from Alabama and the surrounding areas, but ot
 
 # ALTRAC - Political Action Group
 
-[<img src="/extra_static/altrac-logo.png" class="header-image" />][altrac-logo]
+[<img src="/extra_static/altrac-logo.png" class="header-image" alt="ALTRAC logo" />][altrac-logo]
 
 The Alabama Transgender Rights Action Coalition is an entirely volunteer-run organization founded in Alabama.
 

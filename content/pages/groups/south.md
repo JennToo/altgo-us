@@ -16,7 +16,7 @@ advocates for their rights in the Deep South.
 
 # Trans Pride of Mobile
 
-[Trans Pride of Mobile](mobile-trans-pride) is a program of [Rainbow Pride of Mobile](mobile-pride) serving the trans-umbrella
+[Trans Pride of Mobile][tpom-facebook] is a program of [Rainbow Pride of Mobile][rpom] serving the trans-umbrella
 community of lower Alabama.
 
 - They host events and social gatherings, share information, and advocate to
