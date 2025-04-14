@@ -485,6 +485,14 @@ phone = "256-698-3111"
 website = "http://skindeepelectrolysis.com/"
 
 [[hair-removal]]
+title = "Growing Younger"
+city = "Madison"
+bullets = ["Laser hair removal"]
+website = "https://www.growingyoungerclinic.com/"
+phone = "256-325-6398"
+email = "info@growingyoungerclinic.com"
+
+[[hair-removal]]
 title = "Aesthetic Institute of the Shoals"
 city = "Florence"
 bullets = ["Laser hair removal"]
