@@ -111,7 +111,10 @@ If you have an Alabama birth certificate, [a guide is provided by ALTRAC to upda
 
 - This has been proven to work in Madison County, and **could** potentially work in other counties.
 
-Morgan County will not process birth certificate changes.
+The following county probate courts are known to refuse to process birth certificate changes:
+
+* Morgan County
+* Shelby County
 
 - If you know of any other counties that claim to not have jurisdiction, please notify ALTRAC at [gender@altrac.works][email-altracgender].
 
