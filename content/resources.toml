@@ -176,19 +176,19 @@ email = "admin@empowershoals.com"
 title = "Audrey Smith, MA Ed, ALC, NCC"
 city = "Huntsville"
 phone = "256-278-2802"
-website = "https://www.treeoflifebehavioral.com/our-team.html"
+website = "https://www.treeoflifebehavioral.com/ourteam.html"
 
 [[therapy]]
 title = "H.G. Hilton, ALC, M. Ed."
 city = "Huntsville"
 phone = "256-278-2802"
-website = "https://www.treeoflifebehavioral.com/our-team.html"
+website = "https://www.treeoflifebehavioral.com/ourteam.html"
 
 [[therapy]]
 title = "Rainn Stone, MA"
 city = "Huntsville"
 phone = "256-278-2802"
-website = "https://www.treeoflifebehavioral.com/our-team.html"
+website = "https://www.treeoflifebehavioral.com/ourteam.html"
 
 [[therapy]]
 title = "Unity Walker M.Ed., Ph.D., NCC., ALC"
@@ -779,6 +779,11 @@ website = "https://square.site/book/BXVPPAKMD5W1P/huntsville-hair-fairy"
 title = "Bella P., 3B Salon Suites"
 city = "Huntsville"
 website = "https://www.instagram.com/isabelladoesmyhair/"
+
+[[hair]]
+title = "Laura Ash - Cult Hair"
+city = "Florence"
+website = "https://www.instagram.com/lauratrashhair/?hl=en"
 
 # -------------------------------------------
 
