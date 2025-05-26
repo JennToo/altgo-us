@@ -224,8 +224,8 @@ website = "https://www.psychologytoday.com/us/therapists/aj-bush-madison-al/1264
 [[therapy]]
 title = "Brittany Clifford LMFT"
 city = "Huntsville"
-phone = "256-686-9195"
-website = "https://www.luminouscounseling.org/"
+phone = "256-325-2500"
+website = "https://www.lighthousepsychal.com/"
 
 [[therapy]]
 title = "Auburn University Psychological Services Center"
@@ -245,6 +245,18 @@ city = "Huntsville"
 phone = "256-489-1583"
 bullets = ["Mainly for evaluations, though some counseling slots too"]
 website = "https://silverliningsclinic.com/"
+
+[[therapy]]
+title = "Dr. Pam Holtz, PhD, ABPP"
+city = "Online"
+website = "https://www.drpamholtz.com/"
+phone = "334-679-6213"
+
+[[therapy]]
+title = "Delia G. Reeves, LPC, NCC, CST"
+city = "Madison"
+email = "delia.reevesllcc@gmail.com"
+phone = "256-303-2290"
 
 # -------------------------------------------
 
@@ -364,6 +376,19 @@ website = "https://transclinique.com/"
 bullets = [
 	"Will start or continue HRT on an informed consent basis (i.e. no letter needed)",
 ]
+
+[[healthcare]]
+title = "Elaina Adderly, MD"
+city = "Montgomery"
+phone = "334-293-8877"
+website = "https://www.jackson.org/"
+bullets = ["HRT provider"]
+
+[[healthcare]]
+title = "Plume"
+city = "Online"
+website = "https://getplume.co/"
+bullets = ["HRT provider"]
 
 # -------------------------------------------
 
