@@ -109,14 +109,18 @@ You **must** obtain a letter of transition from a medical provider to update the
 
 If you have an Alabama birth certificate, [a guide is provided by ALTRAC to update it without a lawyer][altrac-genderguide].
 
-- This has been proven to work in Madison County, and **could** potentially work in other counties.
+The following county probate courts have recently processed petitions following the process described in that guide:
 
-The following county probate courts are known to refuse to process birth certificate changes:
+* Madison County
+* Jefferson County
+
+The following county probate courts are known to refuse to process birth certificate change petitions:
 
 * Morgan County
-* Shelby County
+* Shelby County (mixed results, recent refusals)
+* Montgomery County (mixed information, recent refusals)
 
-- If you know of any other counties that claim to not have jurisdiction, please notify ALTRAC at [gender@altrac.works][email-altracgender].
+**Even if your county probate court is on the "refuse" list, it's worth double checking to see if their policies have changed.** If the information above is incorrect, you have additional information about counties that claim to not have jurisdiction over birth certificate changes, or you experience any other issues, please notify ALTRAC at [gender@altrac.works][email-altracgender].
 
 If you were born outside Alabama, refer to [the specific guide for your
 state][transequality].
