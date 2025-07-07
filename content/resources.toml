@@ -265,16 +265,6 @@ slug = "healthcare"
 title = "Physicians / HRT Providers"
 
 [[healthcare]]
-title = "Dr. Kathy Sparacino, Family Medicine"
-city = "Decatur"
-bullets = [
-	"Patients see Stephanie Williams, the nurse practitioner",
-	"Will start or continue HRT for patients with a letter from a mental health professional",
-	"Also offers general practice services",
-]
-phone = "256-340-5150"
-
-[[healthcare]]
 title = "Dr. Lona Haskell, MD"
 city = "Huntsville"
 bullets = [
@@ -607,16 +597,6 @@ bullets = [
 phone = "205-980-1744"
 
 [[surgeon]]
-title = "Dr. J. Patrick Selph"
-city = "Nashville"
-bullets = [
-	"Services (transmasc): metoidioplasty, phalloplasty",
-	"Services (transfem): vaginoplasty, labiaplasty clitoroplasty, orchiectomy",
-]
-phone = "615-622-5047"
-website = "https://www.urologynashville.com/providers/patrick-selph-md/"
-
-[[surgeon]]
 title = "Vanderbilt Clinic for Transgender Health"
 city = "Nashville"
 bullets = [
@@ -809,6 +789,12 @@ website = "https://www.instagram.com/isabelladoesmyhair/"
 title = "Laura Ash - Cult Hair"
 city = "Florence"
 website = "https://www.instagram.com/lauratrashhair/?hl=en"
+
+[[hair]]
+title = "Mythic Hair Salon"
+city = "Birmingham"
+website = "https://www.fresha.com/a/mythic-hair-salon-birmingham-704-37th-street-south-gj500jew"
+phone = "205-600-4865"
 
 # -------------------------------------------
 
