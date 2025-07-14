@@ -144,11 +144,15 @@ shorter path to changing the gender marker on your ID.
 
 ## Passport
 
-As of January 2025, [the ACLU is recommending that people not attempt to update gender markers on their passports][passport-warning].
+As of January 2025, [it was not possible to update the gender marker on your passport due to State Department policy][passport-warning].
+
+However, as of June 2025, you may be able to get a passwport with the correct gender marker under [a preliminary injunction obtained by the ACLU][orr-v-trump-injunction-1]. You will need to fill out [an attestation form][orr-v-trump-class-attestation] and attach it to your passport application.
+
+Based on the court record, some community members believe the government is keeping track of passports issued through this process. If courts ultimately rule in favor of the State Department's original policy, they may try to revoke your passport and issue you a new one with an incorrect gender marker. (There is not currently reason to believe this will happen with passports issued before June 2025.)
 
 ## Social Security
 
-Similar to passports, it is not a good idea as of January 2025 to attempt to update one's gender marker with Social Security.
+As of June 2025, it is not possible to update your gender marker with the Social Security Administration.
 
 [maynard-cooper]: https://www.maynardcooper.com/professionals/cynthia-g-lamar-hart/ "Maynard Cooper, attorney"
 [tris-guide]: https://tris.fyi/legal_name.html "Tris's notes on legally updating her name"
@@ -166,3 +170,5 @@ Similar to passports, it is not a good idea as of January 2025 to attempt to upd
 [alea-locator]: https://algeohub.maps.arcgis.com/apps/webappviewer/index.html?id=1b33c56f33dc4e62818b701ca84e1b92 "ALEA location locator"
 [email-aidsoutreach]: mailto:sydney@birminghamaidsoutreach.org "Birmingham AIDS Outreach email"
 [passport-warning]: https://bsky.app/profile/aclu.org/post/3lgixjvnwm223 "Warning from the ACLU about updating one's passport"
+[orr-v-trump-injunction-1]: https://www.aclu.org/trumps-assault-on-transgender-rights/qa-orr-v-trump "ACLU's frequently asked questions about the Orr v. Trump injunction"
+[orr-v-trump-class-attestation]: https://travel.state.gov/content/dam/passports/forms-fees/Attestation%20Form.pdf "Orr v. Trump class member attestation form to get a passport with the correct gender marker"
