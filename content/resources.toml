@@ -486,13 +486,6 @@ bullets = ["Laser hair removal", "Electrolysis"]
 website = "https://psamedspa.com/"
 
 [[hair-removal]]
-title = "Infinity Med-I-Spa"
-city = "Huntsville"
-bullets = ["Laser hair removal"]
-phone = "256-880-3672"
-website = "https://med-i-spa.com/location/huntsville/"
-
-[[hair-removal]]
 title = "Skin Deep Electrolysis"
 city = "Madison"
 bullets = ["Electrolysis"]
