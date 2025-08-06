@@ -119,6 +119,7 @@ The following county probate courts are known to refuse to process birth certifi
 * Morgan County
 * Shelby County (mixed results, recent refusals)
 * Montgomery County (mixed information, recent refusals)
+* Mobile County
 
 **Even if your county probate court is on the "refuse" list, it's worth double checking to see if their policies have changed.** If the information above is incorrect, you have additional information about counties that claim to not have jurisdiction over birth certificate changes, or you experience any other issues, please notify ALTRAC at [gender@altrac.works][email-altracgender].
 
@@ -146,7 +147,7 @@ shorter path to changing the gender marker on your ID.
 
 As of January 2025, [it was not possible to update the gender marker on your passport due to State Department policy][passport-warning].
 
-However, as of June 2025, you may be able to get a passwport with the correct gender marker under [a preliminary injunction obtained by the ACLU][orr-v-trump-injunction-1]. You will need to fill out [an attestation form][orr-v-trump-class-attestation] and attach it to your passport application.
+However, as of June 2025, you may be able to get a passport with the correct gender marker under [a preliminary injunction obtained by the ACLU][orr-v-trump-injunction-1]. You will need to fill out [an attestation form][orr-v-trump-class-attestation] and attach it to your passport application.
 
 Based on the court record, some community members believe the government is keeping track of passports issued through this process. If courts ultimately rule in favor of the State Department's original policy, they may try to revoke your passport and issue you a new one with an incorrect gender marker. (There is not currently reason to believe this will happen with passports issued before June 2025.)
 
