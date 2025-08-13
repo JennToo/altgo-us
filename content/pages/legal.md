@@ -120,6 +120,7 @@ The following county probate courts are known to refuse to process birth certifi
 * Shelby County (mixed results, recent refusals)
 * Montgomery County (mixed information, recent refusals)
 * Mobile County
+* Limestone County
 
 **Even if your county probate court is on the "refuse" list, it's worth double checking to see if their policies have changed.** If the information above is incorrect, you have additional information about counties that claim to not have jurisdiction over birth certificate changes, or you experience any other issues, please notify ALTRAC at [gender@altrac.works][email-altracgender].
 
