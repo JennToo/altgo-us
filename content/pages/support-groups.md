@@ -14,9 +14,17 @@ We are mostly comprised of people from Alabama and the surrounding areas, but ot
 
 [Join Trans North Alabama on Discord!][tna-discord-invite]
 
+**For Apple iOS users**
+
+The Trans North Alabama server has been erroneously marked as an age-restricted
+server by Discord. This means that for Apple iOS users you may need to login to
+Discord on a desktop or laptop and enable this setting:
+
+[<img src="/extra_static/ios-age-restriction.png" alt="iOS age restriction instructions" />][ios]
+
 # ALTRAC - Political Action Group
 
-[<img src="/extra_static/altrac-logo.png" class="header-image" alt="ALTRAC logo" />][altrac-logo]
+[<img src="/extra_static/altrac-logo.png" alt="ALTRAC logo" />][altrac-logo]
 
 The Alabama Transgender Rights Action Coalition is an entirely volunteer-run organization founded in Alabama.
 
@@ -40,3 +48,4 @@ There are many online and in-person support groups focusing on specific regions 
 [group-north]: /pages/groups-north.html "North Alabama specific support groups"
 [group-central]: /pages/groups-central.html "Central Alabama specific support groups"
 [group-south]: /pages/groups-south.html "South Alabama specific support groups"
+[ios]: /extra_static/ios-age-restriction.png
