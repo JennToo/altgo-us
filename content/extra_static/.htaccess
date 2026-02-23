@@ -1,1 +1,4 @@
 ErrorDocument 404 /index.html
+RedirectPermanent /.well-known/matrix/server https://matrix.altgo.us/.well-known/matrix/server
+RedirectPermanent /.well-known/matrix/client https://matrix.altgo.us/.well-known/matrix/client
+RedirectPermanent /.well-known/matrix/support https://matrix.altgo.us/.well-known/matrix/support
