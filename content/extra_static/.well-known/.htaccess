@@ -1,0 +1,4 @@
+Header always set Access-Control-Allow-Origin "*"
+RedirectPermanent /matrix/server https://matrix.altgo.us/.well-known/matrix/server
+RedirectPermanent /matrix/client https://matrix.altgo.us/.well-known/matrix/client
+RedirectPermanent /matrix/support https://matrix.altgo.us/.well-known/matrix/support
