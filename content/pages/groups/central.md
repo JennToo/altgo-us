@@ -24,11 +24,5 @@ members of the community.
 
 [Full Spectrum JSU on Instagram][fullspectrum-jsu]
 
-# Birmingham LGBT
-
-[Birmingham LGBT][birmingham-lgbt] lists various social and peer support
-groups in the Birmingham and surrounding areas.
-
 [mcac-website]: https://www.magiccityacceptancecenter.org/ "Magic City Acceptance Center"
 [fullspectrum-jsu]: https://www.instagram.com/fullspectrumjsu "Full Spectrum JSU on Instagram"
-[birmingham-lgbt]: https://blgbt.org/community-groups/ "Birmingham LGBT's website"
