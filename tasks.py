@@ -26,11 +26,22 @@ def generate_resources():
     with open("content/resources.toml", "r") as f:
         resources = toml.load(f)
 
-    main_page_content = []
+    main_page_content = (
+        ['<div class="toc"><ul>\n']
+        + [
+            f'<li><a href="#{category["slug"]}">{category["title"]}</a></li>'
+            for category in resources["category"]
+        ]
+        + ["</ul></div>\n"]
+    )
     for category in resources["category"]:
-        main_page_content += [f'# {category["title"]}\n<div class="resources">'] + [
-            render_resource(resource) for resource in resources[category["slug"]]
-        ] + ["</div>\n"]
+        main_page_content += (
+            [
+                f'<h1 id="{category["slug"]}"><a href="#{category["slug"]}">{category["title"]}</a></h1>\n<div class="resources">'
+            ]
+            + [render_resource(resource) for resource in resources[category["slug"]]]
+            + ["</div>\n"]
+        )
 
     with open("content/pages/generated/local-resources.md", "w") as f:
         f.write(RESOURCES_HEADER + "\n".join(main_page_content) + RESOURCES_FOOTER)
@@ -48,8 +59,6 @@ positive experience.
 
 **If you would like to update this list, please send us an email
 at [website@altgo.us][altgo-email] or [submit a GitHub Pull Request][altgo-github]**
-
-[TOC]
 
 """
 
@@ -76,19 +85,25 @@ def render_contact(resource):
     contents = []
 
     if "website" in resource:
-        contents.append(f"""
+        contents.append(
+            f"""
             <span class="resource-label">Website:</span> <a href="{resource["website"]}" class="website">{resource["website"]}</a>
-        """)
+        """
+        )
 
     if "phone" in resource:
         phone: str = resource["phone"]
         formatted = "(" + phone.replace("-", ") ", 1)
-        contents.append(f"""
+        contents.append(
+            f"""
             <span class="resource-label">Phone Number:</span> <a href="tel:{phone}">{formatted}</a>
-        """)
+        """
+        )
 
     if "email" in resource:
-        contents.append(f"""
+        contents.append(
+            f"""
             <span class="resource-label">Email:</span> <a href="mailto:{resource["email"]}" class="email">{resource["email"]}</a>
-        """)
+        """
+        )
     return contents
