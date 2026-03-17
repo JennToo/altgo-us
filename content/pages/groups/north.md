@@ -40,9 +40,9 @@ younger transgender people.
 This support group is also a good place to come to get information and
 referrals for other services you may need.
 
-- There is no cost to attend our support group.
-- For further information, please email us at [NoALaMidLifeGroup@outlook.com][email-midlife],
-- You may also contact Colleen by phone at [(256) 951-2842][phone-colleen] or Jimmie at [(256) 679-3034][phone-jimmie].
+- There is no cost to attend our support group
+- For further information, please email us at [NoALaMidLifeGroup@outlook.com][email-midlife]
+- You may also contact Colleen by phone at [(256) 951-2842][phone-colleen] or Jimmie at [(256) 679-3034][phone-jimmie]
 
 # Shoals Support Group (Florence)
 
@@ -60,16 +60,6 @@ More information can be found [on the website][shoals-diversitycenter], by email
 - You may also call this number if you are having
   trouble finding the meeting location or if you need help finding local
   resources.
-
-# TransFamily Support Group (Huntsville)
-
-Support groups for:
-
-- Young adults
-- Middle and high school students
-- Parents who's children are included in the transgender umbrella
-
-[TransFamily Support Services' Website][transfamily-supportcenter]
 
 # Trans+ UAH Support Group (Huntsville)
 
@@ -92,5 +82,4 @@ group members.
 [shoals-diversitycenter]: https://www.shoalsdiversitycenter.org/ "Shoals Diversity Center's website"
 [email-shoalsdiversity]: mailto:shoalsdiversitycenter@gmail.com "Email to contact the Shoals Diversity Center"
 [phone-shoalsdiversitycenter]: tel:256-951-2842 "Shoals Diversity Center's phone number"
-[transfamily-supportcenter]: https://transfamilysos.org/alabamachapter/ "Trans Family Support Services' website"
 [phone-uah]: tel:256-824-6203 "UAH Counseling's phone number"
