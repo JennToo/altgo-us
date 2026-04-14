@@ -494,12 +494,6 @@ city = "Birmingham"
 website = "https://www.uabmedicine.org/specialties/gender-health/"
 phone = "205-975-2737"
 
-[[voice]]
-title = "Daya Deuskar"
-city = "Online Only"
-website = "https://mirabai.me/"
-phone = "609-250-2703"
-
 # -------------------------------------------
 
 [[category]]
