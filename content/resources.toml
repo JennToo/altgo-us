@@ -306,15 +306,6 @@ phone = "256-883-0107"
 website = "https://www.blossomwoodmedical.com/"
 
 [[healthcare]]
-title = "Brandon Wynn, CRNP"
-city = "Huntsville"
-bullets = [
-	"Will start HRT for patients with a letter from a mental health professional",
-	"Will continue HRT for patients who have been on HRT for a while, on an informed consent basis",
-]
-website = "https://www.crestwoodmedgroup.com/doctors-providers/wynn-brandon-crnp-10110"
-
-[[healthcare]]
 title = "Thrive"
 city = "Huntsville"
 bullets = [
