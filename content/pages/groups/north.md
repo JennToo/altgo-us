@@ -24,7 +24,7 @@ not publicly available.
 - If you would like more information, please [send us an
   email][email-tna] or [join us on Discord][tna-discord].
 
-# Mid-Life Transgender Support Group (Athens)
+# Mid-Life Transgender Support Group (Madison)
 
 Our trans-led peer support group is open to people in mid-life or later. Our
 support group provides a safe space for people who are transgender, nonbinary,
@@ -42,7 +42,7 @@ referrals for other services you may need.
 
 - There is no cost to attend our support group
 - For further information, please email us at [NoALaMidLifeGroup@outlook.com][email-midlife]
-- You may also contact Colleen by phone at [(256) 951-2842][phone-colleen] or Jimmie at [(256) 679-3034][phone-jimmie]
+- You may also contact Jimmie by phone at [(256) 679-3034][phone-jimmie]
 
 # Shoals Support Group (Florence)
 
@@ -61,25 +61,10 @@ More information can be found [on the website][shoals-diversitycenter], by email
   trouble finding the meeting location or if you need help finding local
   resources.
 
-# Trans+ UAH Support Group (Huntsville)
-
-An interpersonal support group for UAH students who identify as transgender,
-nonbinary or other gender diverse identities.
-
-Members must be vetted by Danielle Daniels or another member of the UAH
-Counseling Center to join and will be informed of the meeting dates, time and
-location once approved to ensure the safety and confidentiality of all of our
-group members.
-
-- Individuals interested in more information can reach out to UAH Counseling by
-  phone at [(256) 824-6203][phone-uah].
-
 [tna-discord]: https://discord.gg/3a9uxjwvbd "The Trans North Alabama logo, a rocket in the colors of the trans flag."
 [email-tna]: mailto:membership@altgo.us "Email to contact the Trans North Alabama support group"
 [email-midlife]: mailto:NoALaMidLifeGroup@outlook.com "Email to contact the North Alabama Mid-Life support group"
-[phone-colleen]: tel:256-434-1850 "Phone number to contact Colleen at Mid-Life"
 [phone-jimmie]: tel:256-679-3034 "Phone number to contact Jimmie at Mid-Life"
 [shoals-diversitycenter]: https://www.shoalsdiversitycenter.org/ "Shoals Diversity Center's website"
 [email-shoalsdiversity]: mailto:shoalsdiversitycenter@gmail.com "Email to contact the Shoals Diversity Center"
 [phone-shoalsdiversitycenter]: tel:256-951-2842 "Shoals Diversity Center's phone number"
-[phone-uah]: tel:256-824-6203 "UAH Counseling's phone number"
