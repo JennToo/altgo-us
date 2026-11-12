@@ -103,8 +103,8 @@ website = "http://coxcounselingassociates.com"
 [[therapy]]
 title = "Iantha Calloway, LPC"
 city = "Huntsville"
-phone = "256-801-8937"
-website = "https://alliancehsv.com/iantha-calloway-lpc/"
+phone = "256-203-6630"
+website = "https://iantha-calloway.clientsecure.me/"
 
 [[therapy]]
 title = "Monretta Vega, LPC-S"
@@ -278,6 +278,25 @@ title = "Tammy Ziegler Mccreery, LPC, NCC"
 city = "Huntsville"
 website = "https://www.psychologytoday.com/us/therapists/tammy-ziegler-mccreery-huntsville-al/859632"
 
+[[therapy]]
+title = "Dr. Kelly Lansden, Inclusive Counseling"
+city = "Birmingham"
+website = "https://www.inclusivebham.com/"
+phone = "205-526-2269"
+bullets = ["HRT and Surgery letters"]
+
+[[therapy]]
+title = "Dr. Clevenger"
+city = "Birmingham"
+website = "https://www.psychotherapyservicesal.com"
+phone = "205-210-8414"
+bullets = ["HRT and Surgery letters"]
+
+[[therapy]]
+title = "Liz Childer, M.Ed., LPC"
+city = "Vestavia"
+website = "https://www.tp-therapy.com/our-therapists/"
+
 # -------------------------------------------
 
 [[category]]
@@ -309,10 +328,8 @@ website = "https://www.blossomwoodmedical.com/"
 title = "Thrive"
 city = "Huntsville"
 bullets = [
-	"Will start HRT for patients with a letter from a mental health professional",
-	"Will continue HRT for patients that are already on it from a different clinic",
+	"HRT",
 	"Also offers general practice services",
-	"When calling, try extension 2210",
 ]
 phone = "256-536-4700"
 
@@ -337,8 +354,11 @@ website = "https://queermed.com/"
 
 [[healthcare]]
 title = "WAWC Healthcare"
-city = "Tuscaloosa"
+city = "Tuscaloosa and Birmingham"
 website = "https://wawchealth.com/gender-affirming-care/"
+bullets = [
+	"HRT",
+]
 
 [[healthcare]]
 title = "Folx"
@@ -735,7 +755,7 @@ email = "Chelseydsandlin57@gmail.com"
 [[hair]]
 title = "LR Salon - Beth"
 city = "Madison"
-website = "https://www.LRBeautysalon.com"
+website = "https://lrbeautysalon.net/"
 phone = "256-542-3333"
 email = "lrbeautysalon@gmail.com"
 
@@ -823,6 +843,12 @@ title = "Abby Ellis (she/her)"
 city = "Homewood"
 phone = "205-317-0885"
 email = "Abbycellis99@icloud.com"
+
+[[hair]]
+title = "Moxie Salon"
+city = "Gadsden"
+phone = "256-547-1799"
+website = "https://www.themoxiesalon.com/"
 
 # -------------------------------------------
 
